@@ -1,4 +1,4 @@
-um,Team,NOC
+id,equipo,sigla
 1,30. Februar,AUT
 2,A North American Team,MEX
 3,Acipactli,MEX
@@ -77,7 +77,7 @@ um,Team,NOC
 76,Baby-1,FRA
 77,Baby-9,FRA
 78,Baccara,SUI
-79,"Bagatelle Polo Club, Paris",FRA
+79,"Bagatelle Polo Club; Paris",FRA
 80,Bahamas,BAH
 81,Bahrain,BRN
 82,Bajazzo,URU
@@ -116,7 +116,7 @@ um,Team,NOC
 115,Bim,BAH
 116,Bingo,USA
 117,Bissbi,SWE
-118,"BLO Polo Club, Rugby",USA
+118,"BLO Polo Club; Rugby",USA
 119,Blue Red,ARG
 120,Bluebottle,GBR
 121,Boer Team,RSA
@@ -183,7 +183,7 @@ um,Team,NOC
 182,Carabinier-5,FRA
 183,Cayman Islands,CAY
 184,Central African Republic,CAF
-185,"Central Turnverein, Chicago",USA
+185,"Central Turnverein; Chicago",USA
 186,Century Boat Club-1,USA
 187,Cercle de l'Aviron Roubaix-4,FRA
 188,Cercle Nautique de Reims-4,FRA
@@ -229,7 +229,7 @@ um,Team,NOC
 228,Comoros,COM
 229,Compigne Polo Club,FRA
 230,Complex II,USA
-231,"Concordia Turnverein, St Louis",USA
+231,"Concordia Turnverein; St Louis",USA
 232,Congo (Brazzaville),CGO
 233,Congo (Kinshasa),COD
 234,Cook Islands,COK
@@ -268,7 +268,7 @@ um,Team,NOC
 267,Dansk Idrts Forbund,DEN
 268,Danuta,POL
 269,Danzig,BEL
-270,"Davenport Turngemeinde, Davenport",USA
+270,"Davenport Turngemeinde; Davenport",USA
 271,Demi-Mondaine-15,FRA
 272,Demi-Mondaine-17,FRA
 273,Denmark,DEN
@@ -395,8 +395,8 @@ um,Team,NOC
 394,Gem VII,BAH
 395,Georgia,GEO
 396,Germania II,GER
-397,"Germania Ruder Club, Hamburg",GER
-398,"Germania Ruder Club, Hamburg-2",GER
+397,"Germania Ruder Club; Hamburg",GER
+398,"Germania Ruder Club; Hamburg-2",GER
 399,Germany,GER
 400,Germany-1,GER
 401,Germany-2,GER
@@ -557,13 +557,13 @@ um,Team,NOC
 556,Kuwait,KUW
 557,Kyrgyzstan,KGZ
 558,L'Aile VI,FRA
-559,"La Salle Turnverein, Chicago",USA
+559,"La Salle Turnverein; Chicago",USA
 560,LaBandera,FRA
 561,Lady C,GBR
 562,Lalage,GBR
 563,Lancet,GBR
 564,Laos,LAO
-565,"Large boat, Central Naval Prep School ""Poros""-1",GRE
+565,"Large boat; Central Naval Prep School ""Poros""-1",GRE
 566,Lasha,SWE
 567,Latvia,LAT
 568,Latvia-1,LAT
@@ -660,7 +660,7 @@ um,Team,NOC
 659,Mignon-29,FRA
 660,Mignon-3,FRA
 661,Milwaukee Athletic Club-1,USA
-662,"Milwaukee Turnverein, Milwaukee",USA
+662,"Milwaukee Turnverein; Milwaukee",USA
 663,Minerva Amsterdam,NED
 664,Minotaur,USA
 665,Mirtala,ITA
@@ -707,13 +707,13 @@ um,Team,NOC
 706,Netherlands Antilles,AHO
 707,Netherlands-1,NED
 708,Netherlands-2,NED
-709,"New College, Oxford-2",GBR
+709,"New College; Oxford-2",GBR
 710,New York Athletic Club,USA
 711,New York Athletic Club #1-1,USA
 712,New York Athletic Club #2-4,USA
 713,New York Athletic Club-1,USA
 714,New York Athletic Club-4,USA
-715,"New York Turnverein, New York",USA
+715,"New York Turnverein; New York",USA
 716,New Zealand,NZL
 717,New Zealand-1,NZL
 718,New Zealand-2,NZL
@@ -745,7 +745,7 @@ um,Team,NOC
 744,Norway-2,NOR
 745,Norway-3,NOR
 746,Norwegian Rowing Association,NOR
-747,"Norwegier Turnverein, Brooklyn",USA
+747,"Norwegier Turnverein; Brooklyn",USA
 748,Notavel,POR
 749,Nrnberg,NED
 750,Nurdug II,DEN
@@ -763,7 +763,7 @@ um,Team,NOC
 762,Oranje,NED
 763,Orion,CAN
 764,Ormsund Roklub-2,NOR
-765,"Osborne Swimming Club, Manchester",GBR
+765,"Osborne Swimming Club; Manchester",GBR
 766,Oxalis,POR
 767,Paka,GBR
 768,Paka V,GER
@@ -784,7 +784,7 @@ um,Team,NOC
 783,Paraguay,PAR
 784,Partenope,INA
 785,Pasodoble,ESP
-786,"Passaic Turnverein, Passaic",USA
+786,"Passaic Turnverein; Passaic",USA
 787,Patricia,PHI
 788,Paula,AUS
 789,Pegaso,ITA
@@ -796,7 +796,7 @@ um,Team,NOC
 795,Pettit-Poucet-6,FRA
 796,"Phalainis ton Thorichtou ""Hydra""-2",GRE
 797,"Phalainis ton Thorichtou ""Psara""-3",GRE
-798,"Philadelphia Turngemeinde, Philadelphia",USA
+798,"Philadelphia Turngemeinde; Philadelphia",USA
 799,Philippines,PHI
 800,Phoenix,HKG
 801,Pierre et Jean-3,FRA
@@ -835,7 +835,7 @@ um,Team,NOC
 834,Quand-Mme-33,FRA
 835,Quando Quando,AUS
 836,Quicksilver-2,GBR
-837,"R.-V. Germania, Leitmeritz",AUT
+837,"R.-V. Germania; Leitmeritz",AUT
 838,Racing Club de France,FRA
 839,Raili,FIN
 840,Ral-Club Barcelona,ESP
@@ -949,7 +949,7 @@ um,Team,NOC
 948,Snap,DEN
 949,Snowten III,FRA
 950,Snude,DEN
-951,"Socialer Turnverein, Detroit",USA
+951,"Socialer Turnverein; Detroit",USA
 952,Societ Nautique de la Marne,FRA
 953,Societ Nautique de la Marne-1,FRA
 954,Societ Nautique de la Marne-3,FRA
@@ -971,7 +971,7 @@ um,Team,NOC
 970,South Korea,KOR
 971,South Korea-1,KOR
 972,South Korea-2,KOR
-973,"South St Louis Turnverein, St Louis",USA
+973,"South St Louis Turnverein; St Louis",USA
 974,South Sudan,SSD
 975,South Vietnam,VNM
 976,South Yemen,YMD
@@ -1071,8 +1071,8 @@ um,Team,NOC
 1070,Tunisia,TUN
 1071,Turkey,TUR
 1072,Turkmenistan,TKM
-1073,"Turnverein Vorwrts, Chicago",GER
-1074,"Turnverein Vorwrts, Cleveland",USA
+1073,"Turnverein Vorwrts; Chicago",GER
+1074,"Turnverein Vorwrts; Cleveland",USA
 1075,Turquoise-1,FRA
 1076,Turquoise-3,FRA
 1077,Tutti V,EST
