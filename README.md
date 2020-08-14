@@ -4,6 +4,8 @@ Repositorio utilizado para el Curso de Apache Spark en Platzi
 
 ## Ejecucion de maquina virutal con Vagrant
 
+El archivo Vagrant y bootstrap se encuentran dentro del a carpeta configuracion
+
 ## Ejecutar
 
 Es necesario tener instalado vagrant y virtualbox.
