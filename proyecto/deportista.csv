@@ -376,7 +376,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 375,Wakako Abe,2,18,168,60,514
 376,Yoshiyuki Abe,1,31,175,67,514
 377,Yuki Abe,1,22,177,75,514
-378,Angelik Abebame,2,0,0,0,
+378,Angelik Abebame,2,0,0,0,0
 379,Addis Abebe,1,21,160,50,332
 380,Biruk Abebe,1,22,173,62,332
 381,Benaissa Abed,1,23,170,51,15
@@ -3339,7 +3339,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 3338,Roberto Oscar Amaya,1,20,182,64,45
 3339,Henri Amazouze,1,23,177,72,362
 3340,Kim Oscar Amb,1,21,180,87,1012
-3341,Kongolo Amba,2,23,0,0,
+3341,Kongolo Amba,2,23,0,0,0
 3342,"William ""Willy"" Ambaka Ndayara",1,26,193,100,537
 3343,Suleman Ambaye,1,29,165,57,332
 3344,Mubarak Ismail Amber,1,0,175,64,1094
@@ -3457,7 +3457,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 3456,Benik Amirian,1,0,0,0,496
 3457,Samira Amirova,2,18,162,47,1123
 3458,Zamira Shamiliyevna Amirova,2,21,167,58,1123
-3459,Mobange Amisi,1,23,178,0,
+3459,Mobange Amisi,1,23,178,0,0
 3460,Loc Amisse,1,21,166,63,362
 3461,Salvatore Amitrano,1,24,184,73,507
 3462,"Timothy ""Tim"" Amitrano",1,25,171,70,66
@@ -6288,7 +6288,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 6287,Khurshid Azam,1,22,171,67,770
 6288,Muhammad Azam Mian,1,21,160,56,770
 6289,Stphane Azambre,1,22,175,71,362
-6290,Isabelle Azanga,2,0,0,0,
+6290,Isabelle Azanga,2,0,0,0,0
 6291,William Azanor,1,21,169,56,722
 6292,Amado Azar,1,18,173,0,45
 6293,Mohamed Azar Hazin,1,25,176,74,496
@@ -6486,7 +6486,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 6485,Nenad Babovi,1,28,186,74,913
 6486,Suresh Babu,1,19,187,72,487
 6487,Mohammad Reza Babulfath,1,25,174,74,1012
-6488,Momo Babungu,1,21,176,70,
+6488,Momo Babungu,1,21,176,70,0
 6489,Alesya Aleksandrovna Babushkina,2,19,170,55,93
 6490,Jaroslav Babuiak,1,21,178,84,941
 6491,Erasmo Arturo Baca Gonzlez,1,30,0,0,720
@@ -6989,8 +6989,8 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 6988,Bak Wol-Ja,2,19,0,0,738
 6989,Jzsef Bakai,1,30,184,85,477
 6990,Olga Bakaldina,2,15,170,49,874
-6991,Clara Monika Bakale,2,17,168,58,
-6992,Emile Rony Bakale,1,16,188,90,
+6991,Clara Monika Bakale,2,17,168,58,0
+6992,Emile Rony Bakale,1,16,188,90,0
 6993,Igor Grigoryevich Bakalov,1,24,184,82,978
 6994,"Ladislava Aloisie ""Laddie"" Bakanic (Hniz-)",2,24,0,0,1096
 6995,Mohamed Ridjali Bakar,1,23,170,60,228
@@ -7087,7 +7087,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 7086,Pl Bak,1,26,180,72,477
 7087,Zoltn Bak,1,20,190,80,477
 7088,Niki Bakogianni,2,24,170,52,419
-7089,"Kungu ""Christine"" Bakombo",2,21,158,49,
+7089,"Kungu ""Christine"" Bakombo",2,21,158,49,0
 7090,Pter Bakonyi (Buchwald-),1,26,183,71,477
 7091,Peter Bakonyi,1,35,180,78,174
 7092,Gyrgy Bakos,1,28,188,77,477
@@ -7505,7 +7505,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 7504,Bang Su-Hyeon,2,19,0,0,970
 7505,Bang Won-Sun,1,0,0,0,970
 7506,Bang Yeol,1,23,178,66,970
-7507,Michelle Banga Moudzoula,2,16,178,57,
+7507,Michelle Banga Moudzoula,2,16,178,57,0
 7508,Lucien Bangels,1,0,0,0,96
 7509,Ognyan Bangiev,1,24,169,63,154
 7510,Facinet Bangoura,1,28,0,0,434
@@ -7539,7 +7539,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 7538,Judd Charles Bankert,1,38,0,0,431
 7539,Charlotte Bankes,2,18,163,60,362
 7540,Imogen Bankier,2,24,167,65,413
-7541,Wabanko Banko,1,28,0,0,
+7541,Wabanko Banko,1,28,0,0,0
 7542,"Oluwayomi ""Yomi"" Bankole Wiekliffe",1,28,0,0,722
 7543,Dmitry Mikhaylovich Bankovsky,1,20,186,85,978
 7544,Bernard Bruce Banks,1,34,0,0,358
@@ -7932,7 +7932,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 7931,Frigyes Barna,1,0,0,0,477
 7932,Jzsef Barna (-Braun),1,23,0,0,477
 7933,Petr Barna,1,21,165,65,259
-7934,Jean Barnabe,1,19,165,62,
+7934,Jean Barnabe,1,19,165,62,0
 7935,Daundre Barnaby,1,21,189,75,174
 7936,"Arthur ""Art"" Barnard",1,23,180,77,1096
 7937,Elisa Barnard,2,19,171,57,66
@@ -8478,7 +8478,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8477,Christina Victoria Bassadone,2,22,173,58,413
 8478,Bakr El-Sayed Bassam,1,28,170,90,308
 8479,Christian Gustavo Bassedas,1,23,176,74,45
-8480,Jean-Pierre Bassegela,1,25,169,65,
+8480,Jean-Pierre Bassegela,1,25,169,65,0
 8481,Christian Bassemir,1,28,178,76,1150
 8482,Russell Basser,1,24,194,97,66
 8483,Dominique Basset,1,22,182,85,362
@@ -8648,7 +8648,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8647,Batulamai Rajakumar,1,19,170,59,619
 8648,Nicolas Batum,1,23,203,105,362
 8649,Arieh Batun-Kleinstub,1,19,0,0,503
-8650,Luasa Batungile,1,24,189,75,
+8650,Luasa Batungile,1,24,189,75,0
 8651,Valery Batura,1,22,183,82,1088
 8652,Yekaterina Sergeyevna Baturina,2,21,178,74,874
 8653,Eugenio Baturone Ribas,1,26,164,74,983
@@ -8977,7 +8977,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8976,Kroly Bazini (Szandtner),1,26,0,0,477
 8977,Francis Augustin Bazire,1,25,169,0,362
 8978,Svenja Bazlen,2,28,174,58,399
-8979,Lorne Dorcas Bazolo,2,29,170,60,
+8979,Lorne Dorcas Bazolo,2,29,170,60,0
 8980,Valentin Bazon,1,29,0,0,861
 8981,Pavel Aleksandrovich Bazuk,1,25,176,92,93
 8982,Rex Bazunu,1,18,173,72,722
@@ -9842,7 +9842,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 9841,Robert Belza,1,25,0,67,259
 9842,Konstantinos Bembis,1,0,0,0,419
 9843,"Athanasios ""Thanasis"" Bembis",1,0,0,0,419
-9844,Jean-Didiace Bmou,1,25,184,71,
+9844,Jean-Didiace Bmou,1,25,184,71,0
 9845,Walid Ben Abbes,1,24,188,76,1070
 9846,Abdel Aziz Ben Abdallah,1,20,194,87,1070
 9847,Mouna Ben Abderassoul,2,20,170,67,683
@@ -11619,7 +11619,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 11618,Amanda Yvette Bingson,2,22,170,89,1096
 11619,Bino Bini,1,24,0,0,507
 11620,Henri Bini,1,29,169,71,675
-11621,Armand Biniakounou,1,27,180,75,
+11621,Armand Biniakounou,1,27,180,75,0
 11622,Klemens Biniakowski,1,25,172,62,810
 11623,Hans Boudewijn Binkhorst,1,26,187,85,705
 11624,"Artur ""Art"" Binkowski",1,25,185,91,174
@@ -12468,7 +12468,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12467,Iulia Bobeic-Bulie,2,25,0,0,861
 12468,Nicole Bobek (-Leal),2,20,165,55,1096
 12469,Stjepan Bobek,1,24,0,0,1178
-12470,Pascaline Bobeka,2,0,0,0,
+12470,Pascaline Bobeka,2,0,0,0,0
 12471,Stoyan Bobekov,1,22,174,69,154
 12472,"Joachim ""Jochem"" Bobeldijk",1,28,0,0,705
 12473,Duane David Bobick,1,22,190,94,1096
@@ -13307,7 +13307,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 13306,Jules Joseph Bonvalet,1,31,0,0,96
 13307,Francisco Bonvehi,1,0,0,0,45
 13308,Klra Bonyhdi,2,24,172,65,477
-13309,Lileko Bonzali,2,27,180,72,
+13309,Lileko Bonzali,2,27,180,72,0
 13310,Albert Bonzano,1,0,0,0,362
 13311,Henri Bonzano,1,0,0,0,362
 13312,Leonardo Bonzi,1,21,0,0,509
@@ -13979,7 +13979,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 13978,Christine-Isabel Boudrias,2,21,165,61,174
 13979,"Ronald Hermannus ""Ron"" Boudrie",1,28,201,92,705
 13980,Anier Bou,1,24,192,87,249
-13981,Marcelle Cecilia Bouele Bondo,2,23,166,60,
+13981,Marcelle Cecilia Bouele Bondo,2,23,166,60,0
 13982,Serge Bouemba,1,21,168,54,378
 13983,Arnaud Bouet,1,28,200,90,362
 13984,Marc Bouet,1,41,177,73,362
@@ -17011,7 +17011,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 17010,Michel S. R. Buzzi,1,21,173,66,339
 17011,Bohdan Adam Buakowski,1,30,181,67,810
 17012,Danuta Bukowska (-Milej),2,21,178,57,810
-17013,Tatiana Martine Bvegadzi,2,25,165,115,
+17013,Tatiana Martine Bvegadzi,2,25,165,115,0
 17014,Felix Bwalya,1,22,150,60,1181
 17015,Hastings Bwalya,1,23,168,64,1181
 17016,Johnson Bwalya,1,20,174,80,1181
@@ -23413,7 +23413,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23412,Coucou,1,0,0,0,362
 23413,Cline Couderc,2,21,174,62,362
 23414,Gustave Jacques Couderc de Fonlongue,1,0,0,0,362
-23415,Gilles Coudray,1,36,0,0,
+23415,Gilles Coudray,1,36,0,0,0
 23416,Tiana Michelle Coudray,2,23,163,57,1096
 23417,Bryn Coudraye,1,26,201,98,66
 23418,Louis Gaston Coudurier,1,0,0,0,362
@@ -28126,7 +28126,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 28125,Ahmed Diab,1,30,178,75,308
 28126,El-Mehdi Sallah Ahmad Diab,1,0,160,58,587
 28127,Miguel Carlos Diab Figoli,1,27,0,0,1121
-28128,Lutuma Diabateza,1,21,0,0,
+28128,Lutuma Diabateza,1,21,0,0,0
 28129,Akilong Diabone,1,0,185,87,911
 28130,Iuri Diachk'ovi,1,20,196,100,978
 28131,Serhiy Diachuk,1,25,181,70,1084
@@ -28175,7 +28175,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 28174,Luigi Diana,1,40,0,0,89
 28175,Joseph Diandy,1,22,179,73,911
 28176,Kadidiatou Diani,2,21,168,64,362
-28177,Judith Patricia Diankolla-Missengu,2,20,180,60,
+28177,Judith Patricia Diankolla-Missengu,2,20,180,60,0
 28178,Natlie Dianov,2,23,170,60,256
 28179,Diao Xiao Juan,2,30,170,59,470
 28180,Diao Ying,2,23,162,62,199
@@ -28305,7 +28305,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 28304,Carlos Enrique Daz Senz Valiente Bachman,1,31,0,0,45
 28305,"Joseph Pedroza Diaz, Jr.",1,19,168,56,1096
 28306,Alexandre Dib,1,22,0,0,138
-28307,Dikanda Diba,2,21,171,62,
+28307,Dikanda Diba,2,21,171,62,0
 28308,Vasile Dba,1,21,182,86,861
 28309,Youssef Diba,1,31,0,0,1026
 28310,Ejegayehu Dibaba Keneni,2,22,162,47,332
@@ -28869,7 +28869,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 28868,Jean-Marc Djian,1,21,172,75,362
 28869,Ren Djian,1,25,175,69,362
 28870,Abdoulaye Djiba,1,34,183,89,911
-28871,Germaine Djimbi,2,0,0,0,
+28871,Germaine Djimbi,2,0,0,0,0
 28872,Kmob Djirmassal,1,30,186,80,191
 28873,"Robert Ray ""Bob"" Djokovich",1,27,190,89,1096
 28874,Emilie Djoman,2,29,0,0,237
@@ -31152,7 +31152,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 31151,Ji Dzmura,1,28,182,94,260
 31152,Revaz Dzodzuashvili,1,27,175,73,978
 31153,Mirza Domba,1,27,190,86,246
-31154,Michael Dzong,1,20,175,62,
+31154,Michael Dzong,1,20,175,62,0
 31155,Damir Dumhur,1,24,175,65,133
 31156,Vladimr Dzurilla,1,21,178,86,259
 31157,Anna Durkov,2,27,161,61,941
@@ -32237,8 +32237,8 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32236,Csilla Elekes,2,32,176,70,399
 32237,Endre Elekes,1,23,174,70,477
 32238,kos Elekfy (Kirchner-),1,24,0,0,477
-32239,Franck Dannique Elemba Owaka,1,26,198,130,
-32240,Henri Elend,1,22,177,69,
+32239,Franck Dannique Elemba Owaka,1,26,198,130,0
+32240,Henri Elend,1,22,177,69,0
 32241,Agris Elerts,1,24,182,85,567
 32242,Jzsef les,1,23,190,85,477
 32243,Eugnio Calas Eleutrio,1,31,0,0,816
@@ -45490,7 +45490,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45489,Han Tianyu,1,17,173,65,199
 45490,Han Wenxia,2,31,180,75,199
 45491,Han Xiaopeng,1,18,173,75,199
-45492,Xing Han,2,22,165,57,
+45492,Xing Han,2,22,165,57,0
 45493,Han Xue,2,14,177,68,199
 45494,Han Yaqin,2,25,179,77,199
 45495,Han Yeong-Hui,2,15,170,51,970
@@ -51631,7 +51631,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 51630,Ene Franca Idoko (-Isaac),2,23,162,64,722
 51631,Michel Idoux,1,34,187,85,362
 51632,Phillips Olaosebikan Idowu,1,21,197,89,413
-51633,Saheed Idowu,1,22,174,71,
+51633,Saheed Idowu,1,22,174,71,0
 51634,"Oluyinka Lola ""Yinka"" Idowu",2,20,178,70,413
 51635,Hamzah Idris Said Falatah,1,23,183,74,899
 51636,Imad Idriss,1,25,0,0,1026
@@ -52235,7 +52235,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 52234,Seishichi Inuma,1,0,0,0,514
 52235,Alison Jane Inverarity (-Ferrier),2,21,181,63,66
 52236,Giovanni Invernizzi,1,22,0,0,507
-52237,Fubulume Inyama,1,25,0,0,
+52237,Fubulume Inyama,1,25,0,0,0
 52238,Galina Dmitriyevna Inzhuvatova,2,28,165,62,978
 52239,Dorcus Inzikuru,2,22,162,53,1083
 52240,Gloria Inzua,2,21,174,65,656
@@ -52413,7 +52413,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 52412,Khasan Murselov Isaev,1,23,155,48,154
 52413,Youssef Omar Isahak,1,22,0,0,287
 52414,Abdi Isak,1,30,0,0,962
-52415,Ilualoma Isako,1,23,0,0,
+52415,Ilualoma Isako,1,23,0,0,0
 52416,Elbrus Hudsiyat Oglu Isakov,1,20,0,0,74
 52417,Erkinzhon Tulkunovich Isakov,1,25,181,72,1123
 52418,Oleksandr Volodymyrovych Isakov,1,18,184,73,1084
@@ -56499,7 +56499,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56498,Robert Kabbas,1,21,173,83,66
 56499,Samsudeen Kabeer,1,25,0,70,487
 56500,Michal Kabelka,1,27,191,74,941
-56501,Constantin Kabemba,1,25,175,75,
+56501,Constantin Kabemba,1,25,175,75,0
 56502,Danile Kaber,2,28,160,45,602
 56503,Frantiek Kaberle,1,32,184,84,256
 56504,Frantiek Kaberle,1,28,180,89,259
@@ -56509,7 +56509,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56508,Yevgeniya Nikolayevna Kabina-Sidorova,2,25,164,65,978
 56509,Georges Kablan Degnan,1,23,183,75,237
 56510,Glenn Kable,1,41,186,92,349
-56511,"Musungay ""Serge"" Kabongo",1,22,189,75,
+56511,"Musungay ""Serge"" Kabongo",1,22,189,75,0
 56512,Idrissa Kabore,1,18,154,60,159
 56513,Endre Kabos,1,25,0,0,477
 56514,Madeleine Carole Kaboud Mebam,2,26,178,64,172
@@ -56555,7 +56555,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56554,Tomasz Kaczor,1,22,184,85,810
 56555,Pawe Kaczorowski,1,22,186,78,810
 56556,Aleksandra Kaczyska (-Boch),2,21,174,68,810
-56557,Yolande Kada-Gango,2,0,0,0,
+56557,Yolande Kada-Gango,2,0,0,0,0
 56558,Frantiek Kadaka,1,27,178,77,260
 56559,Kalman Janos Kadar,1,33,190,84,861
 56560,Gza Kdas,1,21,0,0,477
@@ -56573,7 +56573,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56572,Ali Hassan Kadhum,1,27,180,75,497
 56573,Ibrahim Ali Kadhum,1,30,178,70,497
 56574,Rebekka Kadijk (-de Kogel),2,21,175,69,705
-56575,Tshibalabala Kadima,1,26,187,96,
+56575,Tshibalabala Kadima,1,26,187,96,0
 56576,Nazar Kadir,1,26,0,95,497
 56577,Slawee Kadir,1,31,165,60,470
 56578,Syed Abdul Kadir,1,24,157,48,929
@@ -56625,10 +56625,10 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56624,Ilias Kafetzis,1,0,0,0,419
 56625,Imre Kaffka,1,20,0,0,477
 56626,Bose Kaffo,2,19,165,62,722
-56627,Ilunga Kafila,1,20,0,0,
+56627,Ilunga Kafila,1,20,0,0,0
 56628,Hana Kafkov,2,27,182,78,259
 56629,Tommy (-Tams Mezey) Kafri (-Kaffry),1,23,180,79,503
-56630,Muenge Kafuanka,1,23,0,0,
+56630,Muenge Kafuanka,1,23,0,0,0
 56631,Ichiro Kaga,1,21,0,0,514
 56632,Yoko Kagabu,2,23,170,64,514
 56633,Moussa Kagambega,1,23,0,0,159
@@ -56950,7 +56950,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56949,Nikos Kalofiris,1,23,0,0,419
 56950,Georgios Kalogiannidis,1,21,180,73,419
 56951,Athanasios Kalogiannis,1,18,193,80,419
-56952,Willy Mwenze Kalombo,1,24,176,63,
+56952,Willy Mwenze Kalombo,1,24,176,63,0
 56953,Panagiotis Kalombratsos,1,25,180,78,419
 56954,Mikhailis Kalomoiris,1,29,181,65,419
 56955,"Magdalini ""Magda"" Kalomoirou",2,26,170,70,419
@@ -57005,7 +57005,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57004,Fumio Kamamoto,1,38,0,0,514
 57005,Kunishige Kamamoto,1,20,179,74,514
 57006,"Christopher Zane ""Chris"" Kaman",1,26,213,122,399
-57007,Kasala Kamanga,2,35,175,70,
+57007,Kasala Kamanga,2,35,175,70,0
 57008,Bayano Ali Kamani,1,24,188,79,778
 57009,Aleksey Nikolayevich Kamanin,1,30,197,112,874
 57010,Sia Kamanor,2,19,167,59,925
@@ -57125,7 +57125,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57124,Berber Kamstra,2,16,175,66,705
 57125,"Johannes Hendrik ""Joop"" Kamstra",1,22,0,0,705
 57126,Valentina Kamsulyeva,2,25,0,0,535
-57127,Batrice Alice Kamuchanga,2,18,0,0,
+57127,Batrice Alice Kamuchanga,2,18,0,0,0
 57128,Beata Janina Kamuda (-Dudziska),2,20,183,73,810
 57129,Moses Kamut,1,22,172,74,1126
 57130,Chawalit Kamutchati,1,35,173,82,1037
@@ -57243,7 +57243,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57242,Zbigniew Kania,1,21,172,70,810
 57243,Bogusaw Kanicki,1,27,196,96,810
 57244,Miki Kanie,2,23,162,64,514
-57245,Rund Kanika,1,25,180,78,
+57245,Rund Kanika,1,25,180,78,0
 57246,Willy Kanis,2,24,171,79,705
 57247,Olga Nikolayevna Kaniskina,2,23,160,43,874
 57248,Chalit Kanitasut,1,23,160,59,1037
@@ -57315,7 +57315,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57314,Sami Hannu Antero Kapanen,1,20,177,80,350
 57315,Boglrka Kaps,2,15,168,54,477
 57316,Julien-Pierre Kapek,1,25,178,71,362
-57317,Zaina Kapepula,2,20,180,73,
+57317,Zaina Kapepula,2,20,180,73,0
 57318,Marios Kaperonis,1,21,173,60,419
 57319,Roland Kapf,1,31,182,88,1150
 57320,Rejoice Kapfumvuti,2,24,160,53,1183
@@ -57877,7 +57877,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57876,Madek Kasman,1,31,160,59,491
 57877,Orsolya Kas,2,27,187,72,477
 57878,Michelle Plourde Kasold,2,25,161,53,1096
-57879,Mwana Bute Kasongo,1,24,187,72,
+57879,Mwana Bute Kasongo,1,24,187,72,0
 57880,"Agathi ""Agi"" Kasoumi",2,18,166,63,419
 57881,Dimitrios Kasoumis,1,30,167,75,419
 57882,Alena Kaov (-Uberalov),2,28,168,59,259
@@ -58342,7 +58342,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58341,Jimmy Boubou Kb,1,20,187,0,623
 58342,Endalkachew Kebede,1,23,158,48,332
 58343,Tsegaye Kebede Wordofa,1,21,158,50,332
-58344,Cedric Mandembo Kebika,1,18,180,120,
+58344,Cedric Mandembo Kebika,1,18,180,120,0
 58345,Almat Kabdrashevich Kebispayev,1,24,166,59,535
 58346,Kstutis Keblys,1,28,201,98,591
 58347,Lenka Kebrlov,2,21,0,0,259
@@ -58471,7 +58471,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58470,Hans Wietse Keldermann,1,22,198,102,705
 58471,Raul Kelecom,1,0,0,0,1117
 58472,Benjamin Keleketu,1,27,150,55,135
-58473,Rosa Keleku Lukusa,2,21,163,48,
+58473,Rosa Keleku Lukusa,2,21,163,48,0
 58474,Atila Kelemen,1,33,0,0,861
 58475,Endre Kelemen,1,28,190,81,477
 58476,"Katherine ""Kathy"" Kelemen",2,18,165,58,174
@@ -58610,7 +58610,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58609,Kely Kolasco Fraga,2,25,193,79,138
 58610,Erol Kemah,1,22,162,56,1071
 58611,Gloria E. Kemasuode (-Ubiebor),2,24,150,65,722
-58612,Sorel-Arthur Kembe,1,28,0,0,
+58612,Sorel-Arthur Kembe,1,28,0,0,0
 58613,Sidney Kemble,1,34,0,60,413
 58614,Ezekiel Kemboi Cheboi,1,22,167,52,537
 58615,Nicholas Kemboi,1,18,155,53,537
@@ -58659,7 +58659,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58658,Andreas Kempf,1,38,179,81,399
 58659,Hippolyt Marcel Kempf,1,22,180,68,1019
 58660,"Patricia ""Patty"" Kempner",2,18,160,56,1096
-58661,Stany Kempompo Ngangola,1,34,0,0,
+58661,Stany Kempompo Ngangola,1,34,0,0,0
 58662,Antti-Jussi Kemppainen,1,24,175,72,350
 58663,Marko Kemppainen,1,28,184,100,350
 58664,Nina M. Kemppel,2,21,178,64,1096
@@ -59522,16 +59522,16 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 59521,Iraj Kia Rostami,1,29,180,91,496
 59522,Lotfollah Kia Shemshaki,1,25,172,73,496
 59523,Mohammad Hadj Kia Shemshaki,1,0,0,0,496
-59524,Antoine Kiakouama,1,27,167,58,
+59524,Antoine Kiakouama,1,27,167,58,0
 59525,Lusa Kiala,2,22,174,62,35
 59526,Marcelina Ireny Kiala,2,20,178,70,35
 59527,Moses Kiayi,1,0,185,75,537
 59528,Aleksandr Vladimirovich Kibalko,1,24,183,85,874
 59529,Valentina Kibalnikova,2,25,174,56,1123
 59530,Yekaterina Kibalo,2,18,170,61,874
-59531,Samuel Kibamba,1,18,172,67,
-59532,Shintu Kibambe,1,27,182,69,
-59533,ric Kibanza Lundoloki,1,28,173,73,
+59531,Samuel Kibamba,1,18,172,67,0
+59532,Shintu Kibambe,1,27,182,69,0
+59533,ric Kibanza Lundoloki,1,28,173,73,0
 59534,"William Edward ""Billy"" Kibblewhite",1,0,167,55,174
 59535,Oskars ibermanis,1,20,186,95,569
 59536,David Ruto Kibet,1,28,189,68,537
@@ -59671,7 +59671,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 59670,Kalle Markus Kiiskinen,1,30,186,84,350
 59671,Risto Taneli Kiiskinen,1,19,180,75,350
 59672,Eugeniusz Kijewski,1,25,186,79,810
-59673,Gary Kikaya Senga,1,26,184,75,
+59673,Gary Kikaya Senga,1,26,184,75,0
 59674,"rika Kelly ""Kiki"" Pereira Coimbra",2,20,179,67,138
 59675,Didier Kiki,1,20,185,84,106
 59676,Aleksandr Fyodorovich Kikinyov,1,24,176,74,93
@@ -60396,8 +60396,8 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60395,Boureima Kimba,1,0,0,0,721
 60396,Bruce D. Kimball,1,21,172,62,1096
 60397,"Douglas Burns ""Doug"" Kimbell",1,28,205,104,1096
-60398,Devilert Arsene Kimbembe,1,27,171,61,
-60399,Andr Kimbu Mboma,1,21,0,0,
+60398,Devilert Arsene Kimbembe,1,27,171,61,0
+60399,Andr Kimbu Mboma,1,21,0,0,0
 60400,Kipkemboi Kimeli,1,21,173,64,537
 60401,Kenji Kimihara,1,23,167,58,514
 60402,Kevin Patrick Kimmage,1,25,165,60,498
@@ -60405,7 +60405,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60404,Niek Kimmann,1,20,189,90,705
 60405,"David Pretrell ""Trell"" Kimmons",1,27,173,77,1096
 60406,Anna Kimonos,2,16,0,0,255
-60407,Selenge Kimoto,1,25,175,65,
+60407,Selenge Kimoto,1,25,175,65,0
 60408,Alfred Louis Joseph Kimpe,1,21,0,0,362
 60409,"Nicholas Andrew ""Nick"" Kimpton",1,20,185,85,66
 60410,Ayako Kimura,2,24,168,52,514
@@ -60921,7 +60921,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60920,Harold Edward Kitching,1,22,0,81,170
 60921,"Jessie Theresa Kite (Webb-, -Woods)",2,36,0,0,413
 60922,Martin Kitel,1,22,180,71,1012
-60923,Kitenge Kitengewa,1,22,0,0,
+60923,Kitenge Kitengewa,1,22,0,0,0
 60924,Pranee Kitipongpitaya,2,22,166,65,1037
 60925,Emille Kitnurse,1,17,170,52,1098
 60926,Akira Kito,1,29,171,71,516
@@ -61910,7 +61910,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 61909,Franz Kfel,1,28,175,85,72
 61910,"Aikaterini ""Katerina"" Koffa",2,19,177,63,419
 61911,Denou Koffi,1,32,185,78,1054
-61912,Georges Koffi,1,24,178,64,
+61912,Georges Koffi,1,24,178,64,0
 61913,Hua Wilfried Serge Koffi,1,28,186,88,237
 61914,Barthlemy Koffi Baugr,1,23,178,79,237
 61915,Mathieu Koffi M'Broh,1,22,173,76,237
@@ -62045,7 +62045,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 62044,Isao Koizumi,1,23,183,75,514
 62045,George Harold Kojac,1,18,0,0,1096
 62046,Terje Kojedal,1,26,189,85,742
-62047,Kamana Koji,1,21,0,0,
+62047,Kamana Koji,1,21,0,0,0
 62048,Andrija Koji,1,23,0,0,1178
 62049,Dijana Koji,2,18,173,52,133
 62050,Fumi Kojima,2,19,0,0,514
@@ -62066,7 +62066,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 62065,Kok Kum Woh,1,45,180,100,929
 62066,Melanie Kok,2,24,167,57,174
 62067,Werner Kok,1,23,180,91,967
-62068,Dienov Andrs Koka,1,20,173,68,
+62068,Dienov Andrs Koka,1,20,173,68,0
 62069,Yumi Kokamo,2,20,172,49,514
 62070,Leonidas Kokas,1,23,176,93,419
 62071,Pter Kokas,1,26,191,86,477
@@ -63279,10 +63279,10 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63278,Klra Koukalov-Zakopalov,2,22,166,51,256
 63279,"Konstantinos ""Kostas"" Koukodimos",1,22,186,80,419
 63280,Dimitrios Koukoulas,1,0,0,0,419
-63281,Henriette Koula,2,0,0,0,
+63281,Henriette Koula,2,0,0,0,0
 63282,Toluta'u Koula,1,22,178,79,1057
 63283,Panagiotis Koulingas,1,18,182,75,419
-63284,Anne Solange Koulinka (-Ipolo),2,0,0,0,
+63284,Anne Solange Koulinka (-Ipolo),2,0,0,0,0
 63285,Henriette Nadege Koulla,2,23,169,67,172
 63286,Nikolaos Kouloumberdas,1,0,168,61,419
 63287,Dimitrios Koulouris,1,25,183,79,419
@@ -64788,7 +64788,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64787,Nikolay Yulyevich Kuksenkov,1,23,172,65,1084
 64788,Anatoliy Yakovych Kuksov,1,22,174,70,978
 64789,Garifa Kuku (-Bayzhanova),2,40,166,51,535
-64790,Rodrick Kuku Ndongala,1,30,0,66,
+64790,Rodrick Kuku Ndongala,1,30,0,66,0
 64791,Mikhail Aleksandrovich Kukushkin,1,24,182,72,535
 64792,Cevat Kula,1,34,0,0,1071
 64793,Dainis Kla,1,21,190,98,978
@@ -65271,7 +65271,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 65270,"Marian Zygmunt ""Marek"" Kuszewski",1,23,171,63,810
 65271,Mateusz Kusznierewicz,1,21,193,100,810
 65272,Pter Kusztor,1,23,179,61,477
-65273,Musuyu Kutama,1,29,0,0,
+65273,Musuyu Kutama,1,29,0,0,0
 65274,Gyrgy Kutasi (Kusinszky),1,25,0,0,477
 65275,Lajos Kutasi,1,20,0,0,477
 65276,Yuriy Kostiantynovych Kutenko,1,24,187,90,978
