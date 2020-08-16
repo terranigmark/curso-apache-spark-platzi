@@ -461,7 +461,7 @@
 68247,Manop Leeprasansakul,1,27,173,60,1037
 68248,Jocelyne Faye Lees (-Wakeling),2,26,168,0,716
 68249,John Asa Lawrey Lees,1,0,0,0,66
-68250, Nancy Merki Lees (Merki-, -Cory, -Boland) ,2,22,0,0,1096
+68250, Nancy Merki Lees (Merki-CoryBoland) ,2,22,0,0,1096
 68251,Arthur Leesch,1,26,0,0,602
 68252,Keith Cecil Leeson,1,27,0,0,66
 68253,Marianne Leeson,2,26,173,62,174
@@ -683,7 +683,7 @@
 68469,Pierre Leichtnam,1,25,0,0,362
 68470,Gnter Wilhelm Leichum,1,25,174,70,399
 68471,Aage Albert Leidersdorff,1,22,168,0,273
-68472, Karin Lilly Maria Leiditz (-Jansson, -Lrwall) ,2,24,0,0,1012
+68472, Karin Lilly Maria Leiditz (-JanssonLrwall) ,2,24,0,0,1012
 68473,Albert Leidmann,1,20,0,0,399
 68474,Rhiannon Leier,2,23,176,65,174
 68475,Nanna Herborg Leifsdttir,2,20,164,62,482
@@ -1400,7 +1400,7 @@
 69186,Klaus Lewandowsky,1,31,188,91,1150
 69187,Pierre Lewden,1,19,167,64,362
 69188,Detlef Lewe,1,21,190,90,399
-69189, Barbara Lewe-Pohlmann-Schttpelz (-Norton, -Conrad) ,2,19,168,60,1150
+69189, Barbara Lewe-Pohlmann-Schttpelz (-NortonConrad) ,2,19,168,60,1150
 69190,Lars Gustav Lewn,1,34,174,90,1012
 69191,Carl Gustaf Moritz Thure Lewenhaupt,1,36,0,0,1012
 69192,Charles Auguste Sixtensson Lewenhaupt,1,31,0,0,1012
@@ -1858,7 +1858,7 @@
 69644,Igor Liba,1,23,181,86,259
 69645,Ren Lbal,1,23,178,76,259
 69646, Andrew Jackson Libano ,1,29,0,0,529
-69647, William A Bill Libbey, III ,1,57,0,0,1096
+69647, William A Bill Libbey,1,57,0,0,1096
 69648, Reginald Reg Libbis ,1,23,0,0,66
 69649,Ren Jules Libeer,1,21,0,0,362
 69650,Elena Libera,2,0,0,0,507
@@ -1946,7 +1946,7 @@
 69732,Gertrude Liebhart (-Fischer),2,23,0,0,71
 69733,Kurt Liebhart,1,18,178,68,71
 69734,Christina Liebherr,2,25,171,60,1019
-69735, Beate Liebich (Ldtke-, -Conrad) ,2,22,167,57,302
+69735, Beate Liebich (Ldtke-Conrad) ,2,22,167,57,302
 69736,Otto Liebing,1,21,0,0,110
 69737, Natalie Natascha Liebknecht ,2,19,0,0,399
 69738, Rutgerus Gerardus Rudi Liebrechts ,1,23,0,0,705
@@ -2407,7 +2407,7 @@
 70193,Bo Sigfrid Gabriel Lindman,1,25,0,0,1012
 70194,Hkan Fred Ingvar Lindman,1,26,186,87,1012
 70195,Nils Hans Lindman,1,23,0,0,1012
-70196, Britta Lindmark (-Nilsson, -Brisen) ,2,22,0,0,1012
+70196, Britta Lindmark (-NilssonBrisen) ,2,22,0,0,1012
 70197,Karl Edmund Lindmark,1,25,0,0,1012
 70198,Rolf Peter Lindmark,1,31,180,80,1012
 70199,Else-Marie Lindmark-Ljungdahl,2,18,161,59,1012
@@ -2423,7 +2423,7 @@
 70209, Lawrence Larry Lindo ,1,33,178,60,111
 70210,Katheleen Lindor,2,18,167,59,362
 70211,Otto Paul Lindpaintner d'Almeida,1,28,0,0,399
-70212, Victoria Lindpaintner (-von Trring-Jettenbach, -Hantschel) ,2,17,0,0,399
+70212, Victoria Lindpaintner (-von Trring-JettenbachHantschel) ,2,17,0,0,399
 70213, Barbara Metz Barb Lindquist ,2,35,167,58,1096
 70214, Carl Victor Vic Lindquist ,1,23,0,0,174
 70215,Fritz Axel Albert Lindqvist,1,32,0,0,1012
@@ -2571,8 +2571,8 @@
 70357,Roman Linscheid,1,25,185,114,498
 70358,Simon Linscheid,1,30,187,98,500
 70359,Cornelia Linse,2,20,184,78,302
-70360, Ann-Kathrin Linsenhoff (-Kroth, -Rath) ,2,28,176,65,1150
-70361, Liselott Linsenhoff (Schindling-, -Rheinberger) ,2,28,178,65,399
+70360, Ann-Kathrin Linsenhoff (-KrothRath) ,2,28,176,65,1150
+70361, Liselott Linsenhoff (Schindling-Rheinberger) ,2,28,178,65,399
 70362,Fernand Joseph Linssen,1,19,0,0,96
 70363,Jean Linssen,1,0,167,55,96
 70364,Marie-Louise Jean Josphine Linssen-Vaessen,2,20,0,0,705
@@ -2697,7 +2697,7 @@
 70483,Konstantin Lissenko,1,23,180,69,362
 70484,Hildemaro P Lista,1,31,0,0,1121
 70485,George Andrew Lister,1,21,0,0,174
-70486, Melvin Mel Lister, III ,1,23,188,75,1096
+70486, Melvin Mel Lister,1,23,188,75,1096
 70487, Sandra Denise Sandie Lister ,2,30,164,62,413
 70488,Tobias Lister,1,25,174,55,66
 70489,Ronny Listner,1,31,190,102,401
@@ -2718,7 +2718,7 @@
 70504, Carlos Manuel Litos de Oliveira Magalhes ,1,22,185,81,816
 70505,Mariya Petrivna Litoshenko (-Kirkevych),2,26,162,59,978
 70506,Lauri Aleksi Litovaara,1,21,173,76,350
-70507, Irina Litovchenko (-Bondareva, -Vakhovskaya) ,2,30,164,60,978
+70507, Irina Litovchenko (-BondarevaVakhovskaya) ,2,30,164,60,978
 70508,Tatyana Litovchenko,2,18,173,61,874
 70509,Rudolf Litsch,1,28,175,90,71
 70510,Paul Litschi,1,24,0,0,1019
@@ -3352,7 +3352,7 @@
 71138,Attilio Giuseppe Lombard,1,27,176,74,507
 71139,Eric Lombard,1,19,180,73,96
 71140,Hctor Lombard,1,22,170,73,249
-71141, Peter Lombard, II ,1,40,170,73,431
+71141, Peter Lombard,1,40,170,73,431
 71142,Pieter Lombard,1,0,0,0,121
 71143,Raymond Lombard,1,37,0,0,96
 71144, Ronald Peter Ronnie Lombard ,1,23,0,0,967
@@ -3407,7 +3407,7 @@
 71193,Aric Solomon Long,1,22,190,92,1096
 71194,Arthur F Long,1,0,0,0,413
 71195,Brendan Long,1,24,196,89,66
-71196, Dallas Crutcher Long, III ,1,20,193,118,1096
+71196, Dallas Crutcher Long,,1,20,193,118,1096
 71197, David Dave Long ,1,27,180,71,413
 71198,Long Fengyu,2,26,168,56,199
 71199, Zhu Judy Long ,2,39,162,54,174
@@ -3955,7 +3955,7 @@
 71741,Guillermo Jos Lovell Birnes,1,18,0,0,45
 71742,Jenifer Ellen Lovell (-Moreno),2,18,172,49,1096
 71743,Jocelyn Bjorn Lovell,1,18,179,71,174
-71744, John Clay Lovell, III ,1,28,170,77,1096
+71744, John Clay Lovell,,1,28,170,77,1096
 71745, William Patrick Pat Lovell ,1,26,183,97,1096
 71746, Rachel Rach Lovell ,2,34,169,61,66
 71747, Santiago Alberto Lovell ,1,22,186,88,45
@@ -4452,9 +4452,9 @@
 72238,Miloslav Luk,1,34,178,62,259
 72239,Ivan Lunardi,1,18,173,73,507
 72240,Virginio Lunardi,1,19,184,70,507
-72241, Ada Lunardoni (-Cumiskey, -Hutcheon) ,2,25,0,0,1096
+72241, Ada Lunardoni (-CumiskeyHutcheon) ,2,25,0,0,1096
 72242,Dimitar Lunchev,1,19,168,67,154
-72243, Avijja Avi Lund Nielsen (Petri-, -Jrund) ,2,35,168,63,273
+72243, Avijja Avi Lund Nielsen (Petri-Jrund) ,2,35,168,63,273
 72244,Bernhard Georg Lund,1,39,183,0,733
 72245, Karl Erik Carl Erik Lund ,1,23,0,0,1012
 72246, Catherine Cathy Lund ,2,25,176,73,174
@@ -4564,7 +4564,7 @@
 72350,Maria-Therese Christina Lundqvist,2,21,171,60,1012
 72351,Ulf Thomas Lundqvist,1,25,186,83,1012
 72352,Anna Marie Lundqvist-Bjrk,2,17,166,58,1012
-72353, Aase Lundsteen (-Madsen, -Hoffman-Madsen) ,2,20,0,0,273
+72353, Aase Lundsteen (-MadsenHoffman-Madsen) ,2,20,0,0,273
 72354,Fridolf Vilhelm Lundsten,1,27,0,0,350
 72355,Tor Erik Lundsten,1,26,0,0,350
 72356, Johan August ge Lundstrm ,1,29,0,0,1012
@@ -4860,7 +4860,7 @@
 72646,Jakob Marcus Jensen Lyng,1,41,0,0,273
 72647,Apollo Ujunguaq Mortaraq Hans Lynge,1,28,180,71,273
 72648,Per Pedersen Lyngemark,1,27,178,68,273
-72649, Janet Lynn (Nowicki-, -Salomon) ,2,14,158,49,1096
+72649, Janet Lynn (Nowicki-Salomon) ,2,14,158,49,1096
 72650,Robert S Lynn,1,33,187,90,1096
 72651,Maksim Aleksandrovich Lynsha,1,23,188,78,93
 72652,Arthur St Clair Lyon,1,43,173,0,1096
@@ -4889,7 +4889,7 @@
 72675,Vladimir Lysenin,1,20,171,65,874
 72676,Anastasiya Serhivna Lysenko,2,20,176,101,1084
 72677,Dmytro Yuriyovych Lysenko,1,19,166,60,1084
-72678, Liudmyla Ivanivna Lysenko (-Shevtsova, -Hurevych) ,2,25,164,53,978
+72678, Liudmyla Ivanivna Lysenko (-ShevtsovaHurevych) ,2,25,164,53,978
 72679,Lyudmila Vasilyevna Lysenko (-Arluskaya),2,20,160,55,93
 72680,Ruslan Yuryovych Lysenko,1,21,178,70,1084
 72681,Tatyana Viktorovna Lysenko (-Beloborodova),2,20,180,85,874
@@ -5399,7 +5399,7 @@
 73185,Diogo de Castro Malta Madeira,1,18,182,76,816
 73186,Edson Marcelo da Silva Madeira,1,23,178,66,688
 73187,Fernando Esteves Madeira,1,20,0,0,816
-73188, Louis Childs Madeira, III ,1,20,188,77,1096
+73188, Louis Childs Madeira,,1,20,188,77,1096
 73189,Uwe Madeja,1,21,183,82,302
 73190,Barbara Madejczyk,2,27,180,81,810
 73191,Jean Madelaine,1,0,0,0,362
@@ -5728,7 +5728,7 @@
 73514,Irina Maharani (Kotcherova-),2,38,165,50,619
 73515,Driss Rahal Mahassine,1,21,165,62,683
 73516,Helmi Abou El-Mahati,1,0,0,0,308
-73517, Kate Yvonne Mahaut (Holgersen-, -Thoresen) ,2,40,0,0,273
+73517, Kate Yvonne Mahaut (Holgersen-Thoresen) ,2,40,0,0,273
 73518,Olive Mahaut,2,0,0,0,362
 73519,Charumai Mahawat,1,34,172,64,1037
 73520,Atef Mahayri,1,28,0,0,1026
@@ -6178,7 +6178,7 @@
 73964,Feliks Malanowski,1,22,178,65,810
 73965,Mourad Malaoui,1,24,0,0,15
 73966,Arturo Malaquias Delgado,1,37,169,55,656
-73967, Joanne Susan Malar (-Morraele, -Ducheck) ,2,16,173,63,174
+73967, Joanne Susan Malar (-MorraeleDucheck) ,2,16,173,63,174
 73968,Galina Gennadyevna Malashenko,2,16,164,38,93
 73969,Aleksandr Nikolayevich Malashevich,1,27,200,145,93
 73970,Teodoro P Malasig,1,24,0,0,799
@@ -6366,7 +6366,7 @@
 74152, Ivar Mikael Iivari Malmikoski ,1,25,0,0,350
 74153,Heikki Vilho Esaias Malmivirta (Malmstrm-),1,25,0,0,350
 74154,Lars Ragnar Malmkvist,1,20,161,62,1012
-74155, Walter August Malmquist, II ,1,19,173,67,1096
+74155, Walter August Malmquist,1,19,173,67,1096
 74156,Hkan Malmrot,1,19,0,0,1012
 74157,Bengt Gunnar Malmsten,1,29,0,0,1012
 74158,Gustaf Adolf Malmsten,1,22,175,67,1012
@@ -6389,7 +6389,7 @@
 74175,Jordan Malone,1,25,168,62,1096
 74176,Karl Malone,1,29,205,116,1096
 74177,Maggie Malone,2,22,173,77,1096
-74178, Maicel Donee Malone (-Wallace, -Trapp) ,2,27,176,61,1096
+74178, Maicel Donee Malone (-WallaceTrapp) ,2,27,176,61,1096
 74179,Ryan Gregory Malone,1,30,193,100,1096
 74180, Thomas Tommy Malone ,1,0,0,0,498
 74181, Alexandra Maria Alex Maloney ,2,24,158,56,716
@@ -6521,7 +6521,7 @@
 74307,Graziano Mancinelli,1,27,175,77,507
 74308,Alberto Csar Mancini,1,23,180,74,45
 74309, Gabriele Gaby Mancini ,1,20,0,57,174
-74310, Isabelle Mancini (-Remy, -Bedel) ,2,24,159,52,362
+74310, Isabelle Mancini (-RemyBedel) ,2,24,159,52,362
 74311, Anthony Tony Mancini ,1,0,0,0,174
 74312,Vittorio Mancini,1,24,160,56,889
 74313,Raffaele Mancino,1,30,174,90,507
@@ -6689,7 +6689,7 @@
 74475,Peter Manko,1,18,192,87,944
 74476,Svitlana Kostiantynivna Mankova (-Kovalchuk),2,25,165,58,978
 74477,Alyssa Manley,2,22,158,53,1096
-74478, Dorothy Gladys Manley (-Hall, -Parlett) ,2,21,165,51,413
+74478, Dorothy Gladys Manley (-HallParlett) ,2,21,165,51,413
 74479,Elizabeth Ann Manley-Theobald,2,18,152,49,174
 74480, Peter Michael Mike Manley ,1,30,178,66,1096
 74481,Alexander Mann,1,29,190,107,402
@@ -7166,7 +7166,7 @@
 74952,Jos Mara Margall Tauler,1,25,198,92,982
 74953, Mara Mercedes Mechi Margalot ,2,25,159,52,45
 74954,Ricardo Margarit Calvet,1,15,0,0,840
-74955, Elena Mrgrit-Niculecu (-Dobrovolschi, -Fodor) ,2,20,162,61,861
+74955, Elena Mrgrit-Niculecu (-DobrovolschiFodor) ,2,20,162,61,861
 74956,Konstantina Margariti,2,15,142,40,419
 74957,Dimitri Margaryan,1,22,184,85,55
 74958,Vladimir Margaryan,1,25,172,69,55
@@ -7451,7 +7451,7 @@
 75237,Robert Davies Marland,1,24,195,94,174
 75238,Marie-ve Marleau,2,26,162,56,174
 75239,Patrick Denis Marleau,1,30,188,95,174
-75240, Janet Marlow (Lawrence-, -Wood) ,2,21,165,55,413
+75240, Janet Marlow (Lawrence-Wood) ,2,21,165,55,413
 75241,Peter Frederick Marlow,1,31,173,65,413
 75242, Christian F Chris Marlowe ,1,32,190,86,1096
 75243,Melissa Anne Missy Marlowe (-Clausi),2,17,155,43,1096
@@ -7745,7 +7745,7 @@
 75531, Barbara Brbel Martin ,2,19,0,0,399
 75532,Beatriz Martn Oate,2,25,184,78,982
 75533,Benjamin Martin,1,29,182,75,174
-75534, Bernadette Martin (-Dargent, -Louis, -Klos) ,2,20,172,61,362
+75534, Bernadette Martin (-DargentLouisKlos) ,2,20,172,61,362
 75535,Bernard Martin,1,21,183,80,362
 75536, William Bill Martin ,1,29,0,0,413
 75537, Robert Doud Bob Martin ,1,23,0,0,1096
@@ -7853,7 +7853,7 @@
 75639,Todd Christopher Martin,1,30,198,86,1096
 75640, Thomas Gerard Tommy Martin ,1,19,179,93,1096
 75641,Tony Martin,1,27,186,75,399
-75642, Anthony Edward Tony Martin, III ,1,21,191,89,1096
+75642, Anthony Edward Tony Martin,1,21,191,89,1096
 75643,Tyler Martin,1,26,196,98,66
 75644,rsula Martn Oate,2,24,180,69,982
 75645,Vctor Martn Martn,1,22,187,82,982
@@ -7866,7 +7866,7 @@
 75652,Blanca Martn-Calero Gutirrez-Cortines,2,22,0,0,982
 75653,John Martin-Dye,1,20,176,77,413
 75654,Kim Kristine Martin-Hasson,2,15,166,68,1012
-75655, Ruth Martin-Jones (-Howell, -Swinhoe) ,2,25,175,64,413
+75655, Ruth Martin-Jones (-HowellSwinhoe) ,2,25,175,64,413
 75656,Lisa Frances Martin-Ondieki (-O'Dea),2,24,168,47,66
 75657,Churandy Thomas Martina,1,20,180,76,706
 75658, Gerald A J Gerry Martina ,1,28,180,86,498
@@ -8078,7 +8078,7 @@
 75864,Fernanda Martini-Pautasso,2,28,0,0,1019
 75865,Johan Reidar Martiniuson,1,26,0,0,927
 75866,Trond Grnning Martiniussen,1,27,162,52,742
-75867, Angelina L Angel Martino (Myers-, -Sims) ,2,25,165,68,1096
+75867, Angelina L Angel Martino (Myers-Sims) ,2,25,165,68,1096
 75868,Francesco Martino,1,23,0,0,507
 75869, Juan ngel Martino ,1,0,0,0,45
 75870,Marco Martino,1,24,190,97,507
@@ -8129,7 +8129,7 @@
 75915,Ragnvald Martinsen,1,21,0,0,742
 75916,Sven Johan Osvald Martinsen,1,23,0,0,742
 75917,Thor Kristian Martinsen,1,18,170,80,742
-75918, Mirdza Bianca Martinsone (-Brzia, -Turis) ,2,19,0,0,567
+75918, Mirdza Bianca Martinsone (-BrziaTuris) ,2,19,0,0,567
 75919,Barbro Martinsson (-Grahn),2,20,172,62,1012
 75920,Hans Mikael Martinsson,1,23,182,69,1012
 75921, Sven-Olov Roland Olle Martinsson ,1,19,0,0,1012
@@ -8479,7 +8479,7 @@
 76265,Daniel Marian Mstcan,1,23,197,92,861
 76266,Vasile Ionel Mstcan,1,23,193,93,861
 76267,Giovanni Mastel,1,20,0,0,507
-76268, Hendrika Wilhelmina Rie Mastenbroek (-Kuiper, -de Wit) ,2,17,0,0,705
+76268, Hendrika Wilhelmina Rie Mastenbroek (-Kuiperde Wit) ,2,17,0,0,705
 76269,Chauncy Master,1,23,0,0,617
 76270,Edith Louise Master,2,36,165,62,1096
 76271,Tereza Master,2,27,149,45,617
@@ -8707,7 +8707,7 @@
 76493,Leonel dos Santos Matonse,1,15,177,66,688
 76494,Alberto Jorge Rodrigues Matos,1,28,187,70,816
 76495,ngel Volodia Matos Fuentes,1,23,193,81,249
-76496, Antonia Matos (Matos Aycinena-, -de Massot) ,2,27,0,0,433
+76496, Antonia Matos (Matos Aycinena-de Massot) ,2,27,0,0,433
 76497,Erica dos Santos Matos,2,29,162,51,138
 76498,Fernando Manuel Costa Matos,1,23,173,77,816
 76499,Miln Matos Len,1,22,175,70,249
@@ -9545,7 +9545,7 @@
 77331,Winslow Ogden McCleary,1,25,0,0,1060
 77332, David Edward Dave McCleave ,1,20,178,0,413
 77333,Alan McCleery,1,31,188,76,174
-77334, Dorothy Dale Elizabeth McClements (-Flansaas, -Kephart) ,2,19,153,46,1096
+77334, Dorothy Dale Elizabeth McClements (-FlansaasKephart) ,2,19,153,46,1096
 77335, Lynette Velma Lyn McClements (-McKenzie) ,2,17,177,66,66
 77336,Trent James McClenahan,1,23,180,74,66
 77337,Karen Lynn McCloskey (-Keehn),2,25,175,68,1096
@@ -9560,7 +9560,7 @@
 77346, Joseph Paul Joe McCluskey ,1,21,183,71,1096
 77347,John McCluskey,1,20,166,51,413
 77348,Eilish McColgan,2,21,176,53,413
-77349, Elizabeth Liz McColgan (Lynch-, -Nuttall) ,2,24,170,45,413
+77349, Elizabeth Liz McColgan (Lynch-Nuttall) ,2,24,170,45,413
 77350,Emily McColl,2,22,160,58,716
 77351, James Jimmy McColl ,1,0,0,0,413
 77352,Dennis J McComak,1,20,180,73,1096
@@ -9907,7 +9907,7 @@
 77693,Ewan McKenzie,1,29,176,66,413
 77694,George McKenzie,1,19,0,0,413
 77695,Gordon Edmund McKenzie,1,29,172,61,1096
-77696, Grace McKenzie (-Nelson, -Morgan) ,2,16,0,0,413
+77696, Grace McKenzie (-NelsonMorgan) ,2,16,0,0,413
 77697,Graham Philip McKenzie,1,0,0,0,66
 77698, Angus Carl Alexander Gus McKenzie ,1,29,0,0,415
 77699,Jack McKenzie,1,25,190,86,174
@@ -9936,7 +9936,7 @@
 77722, William Alister M Bill McKerlich ,1,19,193,89,174
 77723,Ian McKerlich,1,23,200,94,174
 77724, Jacqueline Lena Jackie McKernan ,2,23,178,73,413
-77725, John Hansford Chip McKibben, II ,1,27,195,95,1096
+77725, John Hansford Chip McKibben,1,27,195,95,1096
 77726,Hannah McKibbin,2,19,178,55,413
 77727,John Hubert McKibbon,1,25,200,97,174
 77728, Thomas Douglas Tom McKibbon ,1,32,188,83,1096
@@ -9946,7 +9946,7 @@
 77732, Elisabeth Betty McKilligan ,2,18,152,47,176
 77733,John McKilligan,1,19,169,63,176
 77734, Lawrence Raymond Larry McKillip ,1,31,187,89,1107
-77735, Patricia Jean Pat McKillop (Fraser-, -Williams) ,2,24,160,55,1183
+77735, Patricia Jean Pat McKillop (Fraser-Williams) ,2,24,160,55,1183
 77736,Simon John McKillop-Davies,1,19,0,0,66
 77737, William R Bill McKim ,1,23,183,66,413
 77738,Josephine Eveline McKim (-Chalmers),2,18,0,0,1096
@@ -10096,7 +10096,7 @@
 77882,James Arthur McMullen,1,17,189,83,1096
 77883,Paul McMullen,1,24,190,82,1096
 77884,Kelli McMullen-Temple,2,35,172,54,174
-77885, David Dave McMullin, III ,1,24,178,79,1096
+77885, David Dave McMullin,1,24,178,79,1096
 77886,Harold Edgar McMunn,1,21,0,0,174
 77887,Benjamin McMurray,1,26,183,110,799
 77888,Charles Herbert McMurtrie,1,29,0,0,65
@@ -10114,7 +10114,7 @@
 77900,Julianne Lyn McNamara (-Zeile),2,18,148,40,1096
 77901, Matthew Patrick Francis Pat McNamara ,1,26,0,0,1096
 77902, Gerald S Gerry McNamee ,1,18,0,0,174
-77903, Kathleen Mavis Kay McNamee (-Ferguson, -Neale) ,2,17,0,0,174
+77903, Kathleen Mavis Kay McNamee (-FergusonNeale) ,2,17,0,0,174
 77904,Lesley McNaught-Mndli,2,28,173,70,1019
 77905,Duncan Anderson McNaughton,1,21,193,80,174
 77906,James McNaughton,1,26,183,103,175
@@ -10171,7 +10171,7 @@
 77957, Michael Keith Mike McRae ,1,29,185,81,1096
 77958, Timothy Lenard Tim McRae ,1,21,160,68.5,1096
 77959,Marilyn Louise McReavy (-Nolen),2,23,183,64,1096
-77960, Brit McRoberts (Lind-Petersen-, -Townsend) ,2,27,178,56,174
+77960, Brit McRoberts (Lind-Petersen-Townsend) ,2,27,178,56,174
 77961,Kate McShea,2,17,170,60,66
 77962,Joan Ethel McSheehy (-Huffman),2,19,0,0,1096
 77963, Bradley Steven Brad McStravick ,1,24,184,80,413
@@ -10215,7 +10215,7 @@
 78001,Michael Donald Mean,1,21,180,76,413
 78002,Jorge Manuel Meana,1,25,182,82,45
 78003,Pablo Miguel Meana,1,25,187,84,45
-78004, Helen Meany (-Balfe, -Gravis) ,2,15,152,0,1096
+78004, Helen Meany (-BalfeGravis) ,2,15,152,0,1096
 78005,Anna Maree Devenish Meares,2,20,165,70,66
 78006, Christopher James Chris Mears ,1,19,172,70,413
 78007, Christopher Peter Chris Mears ,1,26,195,90,174
@@ -11198,7 +11198,7 @@
 78984,Michael Mertens,1,30,191,105,399
 78985,Michel Mertes,1,18,0,73,602
 78986,Rowel Merto,1,26,165,49,799
-78987, tpnka Mertov (Richterov-, -Hecov) ,2,25,172,79,259
+78987, tpnka Mertov (Richterov-Hecov) ,2,25,172,79,259
 78988,Brigitte Mertz,2,15,168,54,302
 78989,Anna Merveldt-Steffens,2,29,168,60,498
 78990,Glen Alexander Mervyn,1,23,193,89,174
@@ -11460,7 +11460,7 @@
 79246,Glenn Lee Meyers,1,23,183,84,1096
 79247,Edward John Meyers,1,24,0,0,669
 79248,Linda Meyers (-Tikalsky),2,22,164,57,1096
-79249, Mary Margret Meyers (-Berger, -Rothstein) ,2,21,163,59,1096
+79249, Mary Margret Meyers (-BergerRothstein) ,2,21,163,59,1096
 79250,William Ernest Meyers,1,17,179,56,967
 79251,Ulrike Meyfarth (-Nasse),2,16,188,70,1150
 79252,Anne Meygret (-Brottel),2,19,166,55,362
@@ -11558,7 +11558,7 @@
 79344,Carl Michaels,1,19,186,81,967
 79345,Meredith T Michaels-Beerbaum,2,38,162,51,399
 79346,Michael Jakob Michaelsen,1,29,0,0,273
-79347, Kirsten Michaelsen (-Hansen, -Michaelsen Korbo) ,2,17,166,58,273
+79347, Kirsten Michaelsen (-HansenMichaelsen Korbo) ,2,17,166,58,273
 79348,Lars Neiendam Michaelsen,1,23,185,79,273
 79349,Andrzej Michalak,1,21,179,73,810
 79350,Eugeniusz Michalak,1,19,174,72,810
@@ -12148,7 +12148,7 @@
 79934,Ruth Blanchard Miller (-Fracker),2,28,0,0,1096
 79935,Ryan Dean Miller,1,29,188,76,1096
 79936,Scott Andrew Miller,1,21,193,93,66
-79937, Shannon Lee Miller (-Phillips, -Falconetti) ,2,15,147,39,1096
+79937, Shannon Lee Miller (-PhillipsFalconetti) ,2,15,147,39,1096
 79938,Shaunae Miller (-Uibo),2,18,185,69,80
 79939,Tammy Kelly Miller,2,25,165,59,413
 79940,Terrie Norlene Miller,2,18,177,68,742
@@ -12411,7 +12411,7 @@
 80197,Anne Louise Minter (-Harris),2,25,165,55,66
 80198,Frans Mintjens,1,21,176,73,96
 80199, Robert Henry Bob Minton ,1,27,0,0,1107
-80200, Nathan Chip Minton, III ,1,24,185,111,1101
+80200, Nathan Chip Minton,1,24,185,111,1101
 80201,Gytte Minton (Stoltze-Jrgensen-),2,47,0,0,413
 80202,Wilson Fernando Kuhn Minucci,1,23,200,90,138
 80203,Lilima Minz,2,22,158,52,487
@@ -12552,7 +12552,7 @@
 80338,Andrey Mikhaylovich Mishin,1,21,180,71,874
 80339,Larisa Sergeyevna Mishina,2,26,168,73,874
 80340,Masumi Mishina,2,22,163,63,514
-80341, Nataliya Yevgenyevna Mishkutyonok (-Shepherd, -Hainline) ,2,21,159,50,1089
+80341, Nataliya Yevgenyevna Mishkutyonok (-ShepherdHainline) ,2,21,159,50,1089
 80342,Oleg Olegovich Mishukov,1,23,183,71,874
 80343,Saa Mii,1,29,198,109,680
 80344,Lisa Vasa Misipeka (-Allen),2,21,168,93,24
@@ -12624,7 +12624,7 @@
 80410,James Frederick Mitchell,1,22,0,0,413
 80411,Jean M A C Mitchell (Hepworth-),2,48,168,65,1079
 80412,Kathryn Mitchell,2,30,168,72,66
-80413, Henry Kent Mitchell, II ,1,21,173,51,1096
+80413, Henry Kent Mitchell,1,21,173,51,1096
 80414,Kerri-Ann Mitchell,2,29,165,56,174
 80415,Kevin Mitchell,1,27,181,80,174
 80416,Kurt Davison Mitchell,1,24,178,61,174
@@ -12642,7 +12642,7 @@
 80428, Richard Charles Rick Mitchell ,1,21,183,71,66
 80429,Robert Mitchell,1,22,0,0,413
 80430,Robert Wright Mitchell,1,25,0,0,413
-80431, Robert Chamberlain Mitchell, II ,1,23,183,73,1096
+80431, Robert Chamberlain Mitchell,1,23,183,73,1096
 80432,John Frederick Roy Mitchell,1,47,183,96,1079
 80433,Roy Robert Mitchell,1,21,193,86,413
 80434, Russell Duncan Rusty Mitchell ,1,22,170,64,1096
@@ -13054,7 +13054,7 @@
 80840,Jacques Moeschal,1,27,182,78,96
 80841,Kurt Moeschter,1,25,0,0,399
 80842,Eugne Moetbeek,1,0,0,0,96
-80843, Marina Moffa (-Pearce, -Wood) ,2,20,185,77,66
+80843, Marina Moffa (-PearceWood) ,2,20,185,77,66
 80844, Christopher Chris Moffat ,1,22,186,95,174
 80845, Michael Mike Moffat ,1,19,182,80,176
 80846,Emma Moffatt,2,23,171,57,66
@@ -13412,7 +13412,7 @@
 81198,Ivan Mauritz Mller,1,28,0,0,1012
 81199,Leif ke Mller,1,42,180,123,1012
 81200,Lena Elisabet Mller,2,23,171,60,1012
-81201, Lorraine Mary Moller (-Daws, -Smith) ,2,29,175,55,716
+81201, Lorraine Mary Moller (-DawsSmith) ,2,29,175,55,716
 81202,Malte Verner Mller,1,34,0,0,1012
 81203,Silke Mller (Gladisch-),2,24,168,57,302
 81204,Uwe Mller,1,34,191,110,399
@@ -13757,7 +13757,7 @@
 81543,Robert James Montgomery,1,28,0,0,174
 81544,Jesse Langford Montgomery,1,23,187,75,1096
 81545, James Paul Jim Montgomery ,1,21,191,88,1096
-81546, James Peter Jimmy Montgomery, III ,1,21,0,0,174
+81546, James Peter Jimmy Montgomery,1,21,0,0,174
 81547, Jonathan Riley Jon Montgomery ,1,30,175,75,174
 81548,Mary Coulter Montgomery,2,15,170,57,1096
 81549,Peter Guy Montgomery,1,22,190,83,66
@@ -13867,7 +13867,7 @@
 81653,Jaime Moore,2,21,167,59,413
 81654,James Merriam Moore,1,21,0,0,1096
 81655,James Warren Moore,1,29,175,67,1096
-81656, Joan Marie Moore (-Rice, -Gnat) ,2,18,163,50,1096
+81656, Joan Marie Moore (-RiceGnat) ,2,18,163,50,1096
 81657, Joseph John Joe Moore ,1,23,170,0,1096
 81658, Joseph Max Joe-Max Moore ,1,21,172,66,1096
 81659,John Arthur George Moore,1,22,0,0,413
@@ -13886,7 +13886,7 @@
 81672,Meikayla Jean Maree Moore,2,20,172,63,716
 81673,Melissa Moore (-Medlicott),2,24,166,60,66
 81674,Michael James Moore,1,21,157,54,1096
-81675, Nathaniel Ford Moore, III ,1,20,0,0,1096
+81675, Nathaniel Ford Moore,1,20,0,0,1096
 81676, Oscar W Moore ,1,26,175,58,1096
 81677,Richard Fulton Moore,1,21,167,0,33
 81678, Robert Stephen Rob Moore ,1,23,184,84,413
@@ -14269,7 +14269,7 @@
 82055,Alois Morgenstern,1,21,0,0,71
 82056,Floyd Victor Morgenstern,1,0,0,0,1096
 82057,Jorge Morgenstern Medina,1,19,185,71,198
-82058, Sonja Morgenstern (-Siegel, -Barnick) ,2,13,155,47,302
+82058, Sonja Morgenstern (-SiegelBarnick) ,2,13,155,47,302
 82059,Thomas Morgenstern,1,19,184,67,71
 82060,Jeanne Morgenthaler (-Mende),2,0,0,0,1019
 82061,Rudolf Morgenthaler,1,26,0,0,1019
@@ -14411,7 +14411,7 @@
 82197,Petra Moroder,2,23,160,44,507
 82198,Saburo Moroi,1,32,0,0,514
 82199,Jaime Morn Len,1,21,172,64,225
-82200, James Edmond Jim Moroney, III ,1,19,188,86,1096
+82200, James Edmond Jim Moroney,1,19,188,86,1096
 82201, Michael Matthew Mike Moroney ,1,22,0,0,66
 82202,Arturo Moroni,1,24,0,0,507
 82203,Joseph Moroni,1,22,187,85,362
@@ -14450,7 +14450,7 @@
 82236,Julin Alberto Morrinson Gales,1,24,190,105,249
 82237,Alwyn Morris,1,26,175,82,174
 82238,Andrew J Morris,1,22,168,65,413
-82239, William Clifton Bill Morris, III ,1,25,180,73,1096
+82239, William Clifton Bill Morris,1,25,180,73,1096
 82240,Carvour Morris,1,40,166,84,87
 82241, Charles W Charley Morris ,1,0,0,0,413
 82242, Charles James Charlie Morris ,1,30,0,0,66
@@ -14458,7 +14458,7 @@
 82244,Desmond Morris,1,19,190,73,511
 82245,Devon Morris,1,23,180,75,511
 82246,Frank Henry Morris,1,29,0,0,174
-82247, Frederick Wistar Morris, III ,1,22,0,0,373
+82247, Frederick Wistar Morris,1,22,0,0,373
 82248,George Hayes Morris,1,22,178,70,1096
 82249,Glen Morris,1,40,185,102,967
 82250,Glenn Edward Morris,1,24,188,84,1096
@@ -16246,7 +16246,7 @@
 84032,Faouaz Nadirin,1,27,0,60,1026
 84033,Kaltouma Nadjina,2,19,170,59,191
 84034,Patricia Nadler,2,27,178,63,1019
-84035, Krystyna Nadolna (-Kniberg, -Hobers) ,2,22,169,73,810
+84035, Krystyna Nadolna (-KnibergHobers) ,2,22,169,73,810
 84036,Zsuzsa Ndor (-Halter),2,20,0,0,477
 84037,Wadysaw Kajetan Nadratowski,1,31,165,58,810
 84038,Vladimr Nadrchal,1,21,172,73,259
@@ -16818,7 +16818,7 @@
 84604,Paul Stuart Nash,1,16,0,0,66
 84605,Rick McLaren Nash,1,21,193,93,174
 84606, Stephen John Steve Nash ,1,26,191,90,174
-84607, Theodore Allison Ted Nash, II ,1,27,193,86,1096
+84607, Theodore Allison Ted Nash,1,27,193,86,1096
 84608, Anthony James Dillon Tony Nash ,1,27,170,91,414
 84609,Yaznee Nasheeda,2,18,154,49,622
 84610, Richard Rick Nasheim ,1,31,180,85,71
@@ -17350,7 +17350,7 @@
 85136,Jorge Neira Tost,1,19,179,80,982
 85137,Jos Gregorio Neira Carvajal,1,25,178,62,225
 85138,Eric Neisse,1,23,180,69,362
-85139, Kersten Neisser (-Kpke, -Kriesel) ,2,24,175,70,302
+85139, Kersten Neisser (-KpkeKriesel) ,2,24,175,70,302
 85140,Gary Allen Neist,1,25,0,74,1096
 85141,Daryll Saskia Neita,2,19,172,61,413
 85142,Andreas Neitzel,1,24,186,83,302
@@ -17622,7 +17622,7 @@
 85408,Peter Nettekoven,1,28,174,78,1150
 85409,Franz Paul Nettelbeck,1,19,0,0,399
 85410,Claude Netter,1,27,177,75,362
-85411, Mildrette Netter (-Bell, -Graves) ,2,20,158,51,1096
+85411, Mildrette Netter (-BellGraves) ,2,20,158,51,1096
 85412, Heinrich Heini Nettesheim ,1,20,0,0,399
 85413,Christabel Nettey,2,25,162,57,174
 85414,Hermgenes Netto,1,22,0,0,138
@@ -17647,7 +17647,7 @@
 85433,Janko Neuber,1,20,180,70,399
 85434,Jana Neubert,2,19,167,50,399
 85435,Klaus-Dieter Neubert,1,18,169,52,302
-85436, Ramona Neubert (Ghler-, -Raulf) ,2,21,174,64,302
+85436, Ramona Neubert (Ghler-Raulf) ,2,21,174,64,302
 85437,Gnter Neuburger,1,29,176,83,1151
 85438,Lisa Neuburger,2,26,170,59,1098
 85439,Baobo Neuendorf-Duaba,1,19,175,68,782
@@ -18271,7 +18271,7 @@
 86057,Roberto Maria Nielsen-Reyes Kurschner,1,25,176,64,127
 86058,Edvard Nielsen-Stevns,1,47,0,0,273
 86059,Arne Nielsson,1,26,172,60,273
-86060, Susanne Schultz Nielsson (-Feldsgaard, -Hansen) ,2,16,165,60,273
+86060, Susanne Schultz Nielsson (-FeldsgaardHansen) ,2,16,165,60,273
 86061, Robert Lee Bob Nieman ,1,28,185,77,1096
 86062, Andries Christiaan Dries Nieman ,1,24,0,0,967
 86063,Otto Bismark Niemand,1,19,0,0,1096
@@ -18351,7 +18351,7 @@
 86137,Zbigniew Jan Niewiadomski,1,26,183,84,810
 86138,Marcin Piotr Niewiara,1,28,191,95,810
 86139,Whaddon Chase Niewoudt,1,22,178,62,967
-86140, Olga Niewska (-Zbiza, -Maderowa, -Szczekowska) ,2,29,0,0,810
+86140, Olga Niewska (-ZbizaMaderowaSzczekowska) ,2,29,0,0,810
 86141,Henryk Szczepan Niezabitowski,1,31,0,75,810
 86142,Joanna Nieacna (-Balcerzak),2,26,174,58,810
 86143, Isidor Gadar Jack Niflot ,1,23,0,0,1096
@@ -18548,7 +18548,7 @@
 86334,Boonlert Nilpirom,1,21,164,63,1037
 86335,Narong Nilploy,1,20,172,59,1037
 86336,Adolf Gustinius Nilsen,1,25,170,0,742
-86337, Birger Nicolai (-Berger Nickolai) Nilsen (Nielsen-, -Nelsen) ,1,22,0,0,742
+86337, Birger Nicolai (-Berger Nickolai) Nilsen (Nielsen-Nelsen) ,1,22,0,0,742
 86338,Birger Erling Nilsen,1,31,0,0,742
 86339,Bjrn Hervik Nilsen,1,19,181,74,742
 86340,Einar Nilsen (-Skar),1,18,0,0,742
@@ -19133,7 +19133,7 @@
 86919,Bror Charles Norelius,1,24,0,0,1012
 86920,Kristine Lee Norelius,2,27,185,76,1096
 86921,Mark Alyn Norelius,1,24,196,93,1096
-86922, Martha (Mrta) Maria Norelius (-McAllister, -Wright, -Brown) ,2,15,0,0,1096
+86922, Martha (Mrta) Maria Norelius (-McAllisterWrightBrown) ,2,15,0,0,1096
 86923,Johan Ragnar Michael Norell,1,23,167,68,1012
 86924,Svea Placida Mariana Norn (-Kllstrm),2,24,0,0,1012
 86925,Jacob Lorentz Norenberg,1,25,186,81,742
@@ -19424,7 +19424,7 @@
 87210,Oskar Nowak,1,22,0,0,71
 87211,Riccardo Nowak,1,23,0,0,507
 87212,Sylwia Nowak (-Trbacka),2,21,170,58,810
-87213, Teresa Nowak (-Gierczak, -Nikitin) ,2,30,172,60,810
+87213, Teresa Nowak (-GierczakNikitin) ,2,30,172,60,810
 87214,Tomasz Wiktor Nowak,1,28,171,57,810
 87215,Wanda Nowak,2,23,165,57,71
 87216,Zdzisaw Ignacy Nowak,1,27,172,72,810
@@ -19433,7 +19433,7 @@
 87219,Halina Jolanta Nowak-Guka,2,21,160,52,810
 87220,Danuta Krystyna Nowak-Stachow (-Wroska),2,22,159,56,810
 87221,Boena Nowakowska (-wierczyska),2,21,168,59,810
-87222, Krystyna Nowakowska (-Snop, -Zawitkowska) ,2,24,162,54,810
+87222, Krystyna Nowakowska (-SnopZawitkowska) ,2,24,162,54,810
 87223,Weronika Nowakowska (-Ziemniak),2,23,158,51,810
 87224,Dariusz Nowakowski,1,26,191,105,810
 87225,Piotr Nowakowski,1,24,205,90,810
@@ -19565,7 +19565,7 @@
 87351,Julius Nuninger,1,25,0,0,399
 87352,Kevin Christopher Nunis,1,24,163,56,619
 87353,Anthony Stuart Nunn,1,25,0,0,413
-87354, Glynis Leanne Nunn (Saunders-, -Cearns) ,2,23,168,58,66
+87354, Glynis Leanne Nunn (Saunders-Cearns) ,2,23,168,58,66
 87355,John Hamann Nunn,1,26,198,91,1096
 87356,John Hamilton Nunn,1,26,188,78,1096
 87357, Leslie Ernest Les Nunn ,1,22,181,89,66
@@ -21126,7 +21126,7 @@
 88912,Ragnvald Engelhardt Olsen,1,26,0,0,742
 88913,Reno Bent Olsen,1,21,173,70,273
 88914,Peter Richard Olsen,1,24,0,0,273
-88915, Rigmor Olsen (-Zoega, -Christensen) ,2,21,0,0,273
+88915, Rigmor Olsen (-ZoegaChristensen) ,2,21,0,0,273
 88916,Rikke Olsen (-Siegemund),2,21,179,65,273
 88917,Rolf Ingvald Olsen,1,22,178,71,742
 88918,Shallon Jade Olsen,2,16,158,52,174
@@ -21729,7 +21729,7 @@
 89515,Richard Brooks Orpik,1,29,188,99,1096
 89516,Katrina Orpwood,2,26,164,51,66
 89517, Donald Grant Don Orr ,1,23,180,75,174
-89518, Jennifer Louise Jenny Orr (-McConnell, -Frank) ,2,19,172,54,66
+89518, Jennifer Louise Jenny Orr (-McConnellFrank) ,2,19,172,54,66
 89519,Lee Pearce Orr,1,19,190,77,174
 89520,Meredith Dawn Orr,2,26,164,58,716
 89521, Peterson Thomas Pete Orr ,1,25,186,87,174
@@ -21927,7 +21927,7 @@
 89713,Peter Mattias Oscarsson,1,21,183,85,1012
 89714,Karl Olov Staffan Oscarsson,1,28,180,73,1012
 89715,Eva Karin Maria Therese Oscarsson-Gthberg,2,39,174,60,1012
-89716, Cornelia Oschkenat (Riefstahl-, -Siebert) ,2,26,178,68,302
+89716, Cornelia Oschkenat (Riefstahl-Siebert) ,2,26,178,68,302
 89717,Wolf-Dietrich Oschlies,1,23,197,90,1150
 89718,Manuela Oschmann (Drescher-),2,26,165,58,399
 89719,Emmanuel Osei,1,21,0,0,404
@@ -22370,7 +22370,7 @@
 90156,Olena Anatolivna Ovcharova-Krasovska,2,19,176,62,1084
 90157,Vladimir Olegovich Ovchinnikov,1,18,191,99,978
 90158,Yury Lvovich Ovchinnikov,1,21,170,61,978
-90159, Oksana Ovchinnikova (Chernyenko-, -Makarova) ,2,24,180,73,874
+90159, Oksana Ovchinnikova (Chernyenko-Makarova) ,2,24,180,73,874
 90160,Yelena Valeryevna Ovchinnikova,2,26,173,61,874
 90161,Yevgeniya Aleksandrovna Ovchinnikova,2,31,170,49,874
 90162,Jelena Ovchinnikova-ebukina,2,22,188,77,978
@@ -22430,7 +22430,7 @@
 90216, Jonathan Douglas Jon Owen ,1,24,0,0,1096
 90217, Laurence Rochon Laurie Owen ,2,15,0,0,1096
 90218,Maribel Yerxa Owen,2,19,0,0,1107
-90219, Nancy Lee Owen (-Narbonne, -Fortner) ,2,21,174,62,1096
+90219, Nancy Lee Owen (-NarbonneFortner) ,2,21,174,62,1096
 90220,Rada Ellen Owen,2,21,180,70,1096
 90221,Rod Owen-Jones,1,30,197,100,66
 90222,Alison Owen-Spencer (-Kiesel),2,19,170,57,1096
@@ -22755,7 +22755,7 @@
 90541,A E Page,1,0,0,0,413
 90542,Alan Graham Page,1,27,172,67,413
 90543,Alec Page,1,18,179,73,174
-90544, Andrea Rose Page (Conlon-, -Steen) ,2,27,162,52,174
+90544, Andrea Rose Page (Conlon-Steen) ,2,27,162,52,174
 90545,Arthur Page,1,32,0,0,413
 90546,Bryony Kate Frances Page,2,25,172,60,413
 90547,Danielle Nicole Page,2,29,188,77,912
@@ -23862,7 +23862,7 @@
 91648,Joseph Brooks Bloodgood Parker,1,30,0,0,1096
 91649,Candace Nicole Parker (-Williams),2,22,193,80,1096
 91650,David Geoffrey Parker,1,17,0,0,413
-91651, Denise Parker (Knudson-, -Smith) ,2,14,165,59,1096
+91651, Denise Parker (Knudson-Smith) ,2,14,165,59,1096
 91652,Dudley Parker,1,22,177,59,80
 91653,Ernest Parker,1,24,0,0,413
 91654,Frank A Parker,1,0,0,0,174
@@ -24046,7 +24046,7 @@
 91832, Katalin-Beat Katerina Partits ,2,23,167,57,419
 91833,Victor Partnoi,1,21,184,78,861
 91834,Elina Partka,2,17,180,65,331
-91835, Mabel Bramwell Parton (Squire-, -Mavrogordato) ,2,30,0,0,416
+91835, Mabel Bramwell Parton (Squire-Mavrogordato) ,2,30,0,0,416
 91836,Yelena Partova,2,22,185,79,535
 91837, Alexander Matthew Alex Partridge ,1,27,193,96,413
 91838,Kathleen Anne Partridge,2,24,170,72,66
@@ -24289,7 +24289,7 @@
 92075,Claudio Patrignani,1,25,179,65,507
 92076,Gianni Patrignani,1,0,0,0,507
 92077,Yury Patrikeyev,1,28,195,120,55
-92078, Ulla Kristiina Patrikka (-Kasvio, -Jokinen) ,2,22,173,60.5,350
+92078, Ulla Kristiina Patrikka (-KasvioJokinen) ,2,22,173,60.5,350
 92079,Stevick Patris,1,21,157,62,771
 92080,Andr Luiz Patrocnio Couto,1,26,173,74,138
 92081,Mnica Patron,2,21,176,58,656
@@ -24627,7 +24627,7 @@
 92413,Keri-Anne Payne (-Carry),2,20,177,66,413
 92414,Nicolle Katherine Payne,2,24,175,72,1096
 92415, Nicola Anne Nikki Payne (-Mills) ,2,28,175,67,716
-92416, Christine Rosemary Payne (Charters-, -Chrimes) ,2,39,174,76,413
+92416, Christine Rosemary Payne (Charters-Chrimes) ,2,39,174,76,413
 92417,Charles Russell Payne,1,21,172,59,1096
 92418,Simon J Payne,1,27,196,95,111
 92419,John Somers Somers-Payne,1,30,175,80,498
@@ -24722,7 +24722,7 @@
 92508,Peter John Pearless,1,27,188,73,716
 92509, Joseph Bernard Joe Pearman ,1,27,188,0,1096
 92510, Michael Mike Pearman ,1,23,170,82,413
-92511, Reginald James Reggie Pearman, III ,1,28,186,76,1096
+92511, Reginald James Reggie Pearman,1,28,186,76,1096
 92512, Markus Wornden Mark Pearn ,1,23,177,76,413
 92513,Charles Pears,1,54,0,0,413
 92514, Birchall Lewis Bert Pearson ,1,0,173,67,174
@@ -24794,7 +24794,7 @@
 92580,Hannes Peckolt,1,25,179,73,399
 92581,Jan Peter Peckolt,1,27,184,74,399
 92582,Tereza Peckov,2,25,190,72,256
-92583, William Thomas Bill Pecora, II ,1,23,0,0,1096
+92583, William Thomas Bill Pecora,1,23,0,0,1096
 92584,Rocco Pecoraro,1,22,185,88,507
 92585,ric Pcout,1,20,178,73,362
 92586,Thierry Pecqueux,1,23,168,64,362
@@ -25664,7 +25664,7 @@
 93450,Brooke Peris,2,23,172,57,66
 93451,Gema Peris Revert,2,21,150,48,982
 93452, Mercedes Merche Peris Minguet ,2,23,175,59,982
-93453, Nova Maree Peris-Kneebone (-Batman, -Appleton) ,2,25,170,56,66
+93453, Nova Maree Peris-Kneebone (-BatmanAppleton) ,2,25,170,56,66
 93454,Vanja Perii,2,23,164,53,246
 93455,ore Perii,1,19,191,80,1178
 93456,Emmanouil Peristerakis,1,0,0,0,419
@@ -25678,7 +25678,7 @@
 93464, Jacqueline Jackie Perkins ,2,23,165,53,66
 93465,Karyne Louise Perkins (-Di Marco),2,22,168,77,66
 93466,Kieren John Perkins,1,18,194,90,66
-93467, Phyllis Else Maureen Perkins (-Green, -Winger) ,2,26,165,60,413
+93467, Phyllis Else Maureen Perkins (-GreenWinger) ,2,26,165,60,413
 93468, Samuel Bruce Sam Perkins ,1,23,205,106,1096
 93469,Shane Perkins,1,25,178,90,66
 93470,Shahar Perkiss,1,25,193,70,503
@@ -25829,7 +25829,7 @@
 93615,Elvis Peri,1,24,180,72,246
 93616,Antonio Augusto Persico,1,0,0,0,507
 93617,Olesya Persidskaya,2,23,165,58,535
-93618, May Christina Persighetti (Cops-, -Frost) ,2,24,165,59,413
+93618, May Christina Persighetti (Cops-Frost) ,2,24,165,59,413
 93619,Ren Persillon,1,28,186,79,362
 93620,Emil Perka,1,23,0,0,1178
 93621,Karl Arvid Perslow,1,31,0,0,628
@@ -26092,7 +26092,7 @@
 93878,Klaus-Dieter Petersen,1,23,198,98,399
 93879,Lars Petersen,1,30,179,74,273
 93880,Lone Kroman Petersen (Pedersen-),2,42,0,0,273
-93881, Lovise Kristine Louise Petersen (-Riisbek, -Brandt) ,2,26,0,0,273
+93881, Lovise Kristine Louise Petersen (-RiisbekBrandt) ,2,26,0,0,273
 93882,Sara Malin Petersen (Larsson-),2,31,169,62,1012
 93883, Margarete Marga Petersen (Kallensee-) ,2,32,165,52,399
 93884,Mette Ove Petersen (-Nielsen),2,18,0,0,273
@@ -26615,9 +26615,9 @@
 94401, Theodore Denis Theo Phelan ,1,19,0,0,498
 94402,Xavier Phelippon,1,29,190,88,362
 94403,Brian Eric Phelps,1,16,168,67,413
-94404, Jaycie Lynn Phelps (-McClure, -Marus) ,2,16,0,0,1096
+94404, Jaycie Lynn Phelps (-McClureMarus) ,2,16,0,0,1096
 94405,Mason Elliott Phelps,1,18,0,0,1096
-94406, Michael Fred Phelps, II ,1,15,193,91,1096
+94406, Michael Fred Phelps,1,15,193,91,1096
 94407, Harold Roy Pete Phelps ,1,21,181,65,1096
 94408,Peter Phelps,1,19,0,0,66
 94409, Richard Lawson Phelps ,1,23,185,75,413
@@ -26969,7 +26969,7 @@
 94755,Pekka Altti Olavi Pietil,1,31,181,88,350
 94756,Sami Raimo Petteri Pietil,1,26,179,71,350
 94757,Maria Helena Pietil Holmner,2,19,170,63,1012
-94758, Bogusawa Pietkiewicz (Marcinkowska-, -Treco) ,2,24,169,62,810
+94758, Bogusawa Pietkiewicz (Marcinkowska-Treco) ,2,24,169,62,810
 94759,Pitory,1,0,0,0,362
 94760,Michel Pietracupa,1,25,166,77,174
 94761, Alexander Alex Pietrangelo ,1,24,190,96,174
@@ -27323,7 +27323,7 @@
 95109,Jonas Petras Pipyn,1,20,179,67,978
 95110,Claude Piquemal,1,21,172,65,362
 95111,Jaime Piqueras Snchez,1,0,0,0,794
-95112, Anne Piquereau (-Moulerhau, -Durand) ,2,24,171,65,362
+95112, Anne Piquereau (-MoulerhauDurand) ,2,24,171,65,362
 95113,tienne Piquiral,1,22,180,87,362
 95114,Anne-Marie Pira,2,21,171,65,96
 95115,Giuseppe Pira,1,28,163,53,507
@@ -27451,7 +27451,7 @@
 95237, Joseph Precott Joe Pitman ,1,23,0,67,1096
 95238,Raymond Pitman,1,24,186,83,111
 95239,Halina Pito (-Kozub),2,19,171,58,810
-95240, Penelope Theresa Penny Pitou (-Zimmermann, -Pike) ,2,17,0,0,1096
+95240, Penelope Theresa Penny Pitou (-ZimmermannPike) ,2,17,0,0,1096
 95241,Nicol Pitro (-Bittner),2,24,168,59,401
 95242,Franz Pitschmann,1,21,182,92,71
 95243,Antonios Pitsilos,1,0,0,0,580
@@ -27559,7 +27559,7 @@
 95345,Ccile Plancherel,2,27,180,70,1019
 95346,Albert Victor Planchon,1,47,0,0,362
 95347,Ib Planck,1,22,0,0,273
-95348, Herma Planck-Szabo (-Jarosz, -Stark) ,2,21,0,0,71
+95348, Herma Planck-Szabo (-JaroszStark) ,2,21,0,0,71
 95349,Yolande Plancke,2,0,0,0,362
 95350,Cdric Planon,1,23,180,88,362
 95351,Diamara Planell Cruz,2,23,180,67,825
@@ -27731,7 +27731,7 @@
 95517, Frederick Fred Plum ,1,32,175,0,1096
 95518gen Munk Plum,1,26,0,0,273
 95519,Heinz Plumanns,1,25,0,0,399
-95520, Helen Donnan Plumb (Sharp-, -Jones, -Nonk) ,2,30,178,58,1096
+95520, Helen Donnan Plumb (Sharp-JonesNonk) ,2,30,178,58,1096
 95521,Howard Richard Plumb,1,24,170,68,413
 95522,John Michael Plumb,1,20,183,88,1096
 95523,Jeff Plumb,1,25,178,80,68
@@ -28095,8 +28095,8 @@
 95881,Brandon Arlington Pollard,1,22,0,0,1096
 95882, Edward E Ed Pollard ,1,21,165,57,87
 95883, Frederick Douglas Fritz Pollard ,1,21,185,77,1096
-95884, Gillian Jill Pollard (-Coulton, -Livingstone) ,2,25,155,53,413
-95885, Ernestine Pollards (-Thorp, -Wallace) ,2,18,170,52,1096
+95884, Gillian Jill Pollard (-CoultonLivingstone) ,2,25,155,53,413
+95885, Ernestine Pollards (-ThorpWallace) ,2,18,170,52,1096
 95886, Heinrich Heinz Pollay ,1,28,0,0,399
 95887,Angelo Polledri,1,0,0,0,507
 95888,Claudio Polledri,1,24,178,80,1019
@@ -28120,7 +28120,7 @@
 95906, Lida Peyton Eliza Pollock (McMillen-) ,2,63,0,0,1096
 95907, Harry Winslow Hughie Pollock ,1,22,196,86,1096
 95908,Paul Pollock,1,30,177,57,498
-95909, Thomas Elmer Tom Pollock, III ,1,21,196,89,1096
+95909, Thomas Elmer Tom Pollock,1,21,196,89,1096
 95910, Thomas Allen Tom Pollock ,1,26,178,76,174
 95911,Reginaldo Polloni,1,0,0,0,507
 95912,Estavana Polman,2,23,173,65,705
@@ -28352,7 +28352,7 @@
 96138,Ilie Daniel Popescu,1,21,168,58,861
 96139,Dimitrie Popescu,1,22,197,93,861
 96140,Dinu Popescu,1,23,178,82,861
-96141, Doina Rodica Popescu (Coste-, -Mo, -Vinan) ,2,26,167,57,861
+96141, Doina Rodica Popescu (Coste-MoVinan) ,2,26,167,57,861
 96142,Elena Popescu,2,22,167,52,674
 96143,Florin Popescu,1,26,183,80,861
 96144,Georgian Popescu,1,23,176,64,861
@@ -28512,7 +28512,7 @@
 96298,Luis Jorge Portelli,1,25,185,93,45
 96299,Leo Portelli,1,33,0,0,624
 96300,Nicolai Portelli,1,26,176,64,624
-96301, William Franklin Bill Porter, III ,1,22,190,73,1096
+96301, William Franklin Bill Porter,1,22,190,73,1096
 96302,Charles Michael Porter,1,20,193,74,66
 96303,Colin Porter,1,29,189,82,413
 96304,Cyril Henry Atwell Porter,1,22,0,0,413
@@ -28734,7 +28734,7 @@
 96520,Valeriya Leonidovna Potyomkina-Reznik,2,24,167,63,874
 96521,Jerzy Andrzej Potz,1,19,180,85,810
 96522,Werner Potzernheim,1,25,0,0,399
-96523, Anett Ptzsch (-Witt, -Rauschenbach) ,2,15,162,55,302
+96523, Anett Ptzsch (-WittRauschenbach) ,2,15,162,55,302
 96524,Michel Pou,1,18,182,76,362
 96525,Sovijja Pou,1,21,169,62,168
 96526,Char Pouaka,2,27,163,70,716
@@ -28985,7 +28985,7 @@
 96771,Luigi Prato,1,22,178,77,507
 96772,Umberto Prato,1,25,183,89,508
 96773,Luis Pratsmas Perera,1,32,0,0,982
-96774, Myra Abigail Abbie Pratt (Pankhurst-, Wright-, -Karageorgevich) ,2,41,0,0,1096
+96774, Myra Abigail Abbie Pratt (Pankhurst-, Wright-Karageorgevich) ,2,41,0,0,1096
 96775,Basil D Pratt,1,22,189,83,413
 96776, Christopher Chris Pratt ,1,24,181,84,66
 96777, Debra Debbie Pratt ,2,22,0,0,413
@@ -29189,7 +29189,7 @@
 96975,Leighton Priestley,1,21,180,66,511
 96976,Richard John Priestman,1,29,180,66,413
 96977,Vladlena Priestman (Kolesnykova-),2,32,170,68,413
-96978, Catherine Ann Cathy Priestner (-Faminow, -Allinger) ,2,15,165,53,174
+96978, Catherine Ann Cathy Priestner (-FaminowAllinger) ,2,15,165,53,174
 96979,Jzsef Prieszol,1,21,193,88,477
 96980,Antonio Prieto Velasco,1,22,158,49,982
 96981,Carlos Prieto Martos,1,28,204,108,982
@@ -29528,7 +29528,7 @@
 97314,Peter Joseph Pryor,1,22,0,0,66
 97315,Gerald Eric Spencer Pryse,1,0,0,0,413
 97316,Maryna Andrivna Pryshchepa,2,25,170,78,1084
-97317, Nadiya Ivanivna Pryshchepa (Derhachenko-, -Bezpalova) ,2,24,181,83,978
+97317, Nadiya Ivanivna Pryshchepa (Derhachenko-Bezpalova) ,2,24,181,83,978
 97318,Nataliya Oleksandrivna Pryshchepa,2,21,163,48,1084
 97319,Anna Maria Prytz,2,37,170,69,1012
 97320,Andriy Vasylovych Pryveda,1,26,193,103,1084
@@ -29938,7 +29938,7 @@
 97724,Roger Pyttel,1,15,176,68,302
 97725,Tatyana Pyurova,2,26,192,67,535
 97726,Olha Iosypivna Pyvovarova,2,24,180,77,978
-97727, Sisko Tuulikki Pyykknen (-Kemppainen, -Tolonen) ,2,24,158,58,350
+97727, Sisko Tuulikki Pyykknen (-KemppainenTolonen) ,2,24,158,58,350
 97728,Lauri Kalervo Pyyknen,1,27,176,72,350
 97729,Pirkko Liisa Pyyknen (-Mkel),2,16,158,48,350
 97730,Sergey Nikolayevich Pyzhyanov,1,19,170,75,978
@@ -30183,7 +30183,7 @@
 97969,Kevin Quintilio,1,24,183,75,174
 97970,ric Quintin,1,25,185,75,362
 97971,Jssica da Silva Quintino,2,21,172,67,138
-97972, Carole Louise Quinton (-Barr, -Kibble-White) ,2,20,173,60,413
+97972, Carole Louise Quinton (-BarrKibble-White) ,2,20,173,60,413
 97973,Robert James Quinton,1,29,0,0,511
 97974,Henri Quintric,1,0,0,0,362
 97975,Grard Quintyn,1,25,180,80,362
@@ -30283,7 +30283,7 @@
 98069,Jorge Oscar Racca,1,24,195,99,45
 98070,Maurice Just Antoine Racca,1,34,0,0,362
 98071,Mauro Racca,1,36,0,0,507
-98072, Joyce May Racek (-Markley, -Budrunas) ,2,18,160,61,1096
+98072, Joyce May Racek (-MarkleyBudrunas) ,2,18,160,61,1096
 98073,Nedyu Rachev,1,20,0,0,154
 98074,Kinka Beneva Racheva,2,19,164,58,154
 98075,Simoneta Racheva,2,26,0,0,154
@@ -31021,7 +31021,7 @@
 98807, John Raymond JR Ranch ,1,27,188,86,66
 98808,Ivan Andriani Ranchev,1,19,187,80,154
 98809, William Henry Bill Rand ,1,20,0,0,413
-98810, Jay J Rand, II ,1,17,178,77,1096
+98810, Jay J Rand,1,17,178,77,1096
 98811,Sidney Charles Rand,1,22,180,78,413
 98812,Taavi Rand,1,17,174,70,331
 98813,William McNear Rand,1,22,183,70,1096
@@ -31394,8 +31394,8 @@
 99180,Dieter Rauscher,1,26,162,60,1150
 99181,Gabriele Rauscher,2,27,165,57,399
 99182,riks Rauska,1,24,0,68,567
-99183, Kirsi Irene Rauta (Korja-, -Mattila) ,2,34,170,55,350
-99184, Tuula Irmeli Rautanen (Nurmi-, -Salo)) ,2,30,163,55.5,350
+99183, Kirsi Irene Rauta (Korja-Mattila) ,2,34,170,55,350
+99184, Tuula Irmeli Rautanen (Nurmi-Salo)) ,2,30,163,55.5,350
 99185,Kirsi Maria Rautava,2,23,169,64,350
 99186,Kaj Tapio Rautavaara,1,33,189,86,350
 99187,Bernadette Rauter,2,18,165,58,71
@@ -31457,7 +31457,7 @@
 99243,Austin Rawlinson,1,21,0,0,413
 99244, Christopher Lee Chris Rawlinson ,1,28,183,77,413
 99245, Alfred Toby Rawlinson ,1,33,0,0,359
-99246, Katherine Louise Rawls (-Thompson, -Green) ,2,15,0,0,1096
+99246, Katherine Louise Rawls (-ThompsonGreen) ,2,15,0,0,1096
 99247,Carlos Rawson,1,30,176,75,45
 99248, Michael Arthur Mike Rawson ,1,22,178,72,413
 99249, Ronald Rawson Ron Rawson ,1,27,0,0,413
@@ -32016,7 +32016,7 @@
 99802,Tepa Aki Ilari Reinikainen,1,28,198,150,350
 99803,Aulis Aleksanteri Reinikka (-Ala-Reinikka),1,20,181,75,350
 99804,Jaakko Ilmari Reinikka,1,25,177,66,350
-99805, Rica Reinisch (-Assmann, -Neumann) ,2,15,178,66,302
+99805, Rica Reinisch (-AssmannNeumann) ,2,15,178,66,302
 99806,Heimo Reinitzer,1,25,188,100,71
 99807,Andreas Matthias Reinke,1,25,190,84,1150
 99808, Nathan James Nate Reinking ,1,38,188,88,413
@@ -32326,7 +32326,7 @@
 100112,Jzef Marek Reszpondek,1,21,168,53,810
 100113,Ret Chhon,1,0,163,55,168
 100114,Luis Fernando Retayud Zubieta,1,22,162,68,225
-100115, Selvagowry Gowry Retchakan (-Vardakumar, -Hodge) ,2,32,158,45,413
+100115, Selvagowry Gowry Retchakan (-VardakumarHodge) ,2,32,158,45,413
 100116,Carlos Jos Retegui,1,26,181,82,45
 100117,Panagiotis Retelas,1,0,0,0,419
 100118,Helmut Rethemeier,1,37,178,68,1150
@@ -32714,7 +32714,7 @@
 100500, Michael J Mike Richards ,1,21,183,70,413
 100501,O'Dayne Richards,1,27,177,120,511
 100502,Paul Richards,1,20,180,72,38
-100503, Walter Charles Rich Richards, III ,1,22,183,80,1096
+100503, Walter Charles Rich Richards,1,22,183,80,1096
 100504,Robert Richards,1,28,186,71,66
 100505, Ronald Ron Richards ,1,20,170,63,174
 100506,Samantha Richards,2,29,170,64,66
@@ -32802,7 +32802,7 @@
 100588,Joshua Richmond,1,26,188,91,1096
 100589, Kenneth Alan Ken Richmond ,1,22,0,0,413
 100590, Michael Mike Richmond ,1,19,180,78,66
-100591, Mitchell James Mitch Richmond, III ,1,23,195,98,1096
+100591, Mitchell James Mitch Richmond,1,23,195,98,1096
 100592,Nathan William McClure Richmond,1,25,190,73,716
 100593,Rose Marie Richmond,2,23,167,62,1096
 100594,Anatol Richter Jr.,1,18,192,85,71
@@ -32999,7 +32999,7 @@
 100785,Paul Rigaumont,1,28,0,0,96
 100786,Ccile Rigaux,2,31,182,70,362
 100787, Donald Edmond Don Rigazio ,1,21,180,72,1096
-100788, Cathleen Roxanne Cathy Rigby (-Mason, -McCoy) ,2,15,149,45,1096
+100788, Cathleen Roxanne Cathy Rigby (-MasonMcCoy) ,2,15,149,45,1096
 100789,Haydn Rigby,1,19,178,71,413
 100790,John Rigby,1,18,182,77,66
 100791,John A Rigby,1,21,0,0,413
@@ -33059,7 +33059,7 @@
 100845,Anne Maria Kristiina Rikala,2,31,170,67,350
 100846,Rkarur Rkarsson,1,22,186,83,482
 100847,Nils Bertil Rikberg,1,24,0,0,350
-100848, Philip Phil Riker, III ,1,18,169,68,1096
+100848, Philip Phil Riker,1,18,169,68,1096
 100849,Joshua Riker-Fox,1,24,187,76,174
 100850,Vladimir Rikkanen,1,24,186,84,978
 100851,David Rikl,1,29,178,72,256
@@ -33607,7 +33607,7 @@
 101393,Peter David Robeson,1,26,179,70,413
 101394,Genevive Robic-Brunet,2,25,162,58,174
 101395,Audrey Robichaud,2,17,155,59,174
-101396, Carl Joseph Robie, III ,1,19,178,73,1096
+101396, Carl Joseph Robie,1,19,178,73,1096
 101397,Mlanie Robillard,2,27,168,57,399
 101398,Andr Robin,1,29,0,0,364
 101399,Daniel Santon Robin,1,25,178,74,362
@@ -33804,7 +33804,7 @@
 101590,Michael E Rocque,1,0,0,0,487
 101591,Carlos Rocuant Lpez,1,0,0,0,198
 101592,Sandr Friedrich Rosenfeld,1,64,0,0,71
-101593, Monique Bernice Rodahl (Rdahl-, -Williams) ,2,16,165,59,716
+101593, Monique Bernice Rodahl (Rdahl-Williams) ,2,16,165,59,716
 101594,Vebjrn Rodal,1,19,188,78,742
 101595, Robert David Bob Rodale ,1,38,180,70,1096
 101596,Carmen Elisa Rodallega,2,29,159,56,225
@@ -33872,12 +33872,12 @@
 101658,Marcel Rodman,1,32,186,85,944
 101659,Janis Rodmanis,1,22,0,0,198
 101660,Brendon Rodney,1,24,195,80,174
-101661, Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya) ,2,22,152,41,979
+101661, Irina Konstantinovna Rodnina (-ZaytsevaMinkovskaya) ,2,22,152,41,979
 101662,Rodnomyn Erkhembayar,1,28,180,78,678
 101663,Yury Rodnov,1,35,0,0,535
 101664,Jacques Auguste Grard Rodocanachi,1,26,0,0,362
 101665,Pierre Andr Emmanuel Rodocanachi,1,26,170,70,362
-101666, Catherine Louise Katy Rodolph (-Wegeman, -Wyatt) ,2,21,171,63,1096
+101666, Catherine Louise Katy Rodolph (-WegemanWyatt) ,2,21,171,63,1096
 101667, Rodrigo Rodrigo Santana ,1,25,205,85,138
 101668,Rodrigo Moreno Machado,1,21,182,79,982
 101669,Rodrigo Caio Coquette Russo,1,22,182,70,138
@@ -34345,7 +34345,7 @@
 102131,William Roldn Mora,1,23,183,0,225
 102132,Cindy Roleder,2,22,178,70,399
 102133, Erik Olof Anders Olle Roln ,1,19,171,78,1012
-102134, Barbara Ann Roles (-Pursley, -Williams) ,2,18,0,0,1096
+102134, Barbara Ann Roles (-PursleyWilliams) ,2,18,0,0,1096
 102135,Philippa Kate Roles,2,26,180,98,413
 102136,Andr Rolet,1,22,0,77,362
 102137,Fridolina Rolf,2,22,178,74,1012
@@ -34800,7 +34800,7 @@
 102586,Stefan Rosenbauer,1,40,0,0,399
 102587,Pierre Rosenbaum,1,0,0,0,362
 102588,Werner Rosenbaum,1,24,0,0,399
-102589, Hedwiga Rosenbaumov (Austerlitz-, -Raabe) ,2,35,0,0,122
+102589, Hedwiga Rosenbaumov (Austerlitz-Raabe) ,2,35,0,0,122
 102590,Frantz Munch Rosenberg,1,29,0,0,742
 102591, Margarete Grete Rosenberg (-Wildhagen) ,2,15,0,0,399
 102592,Iris Rosenberger,2,22,160,55,1071
@@ -34874,7 +34874,7 @@
 102660,Arulraj N A Rosli,1,23,168,59,619
 102661,Lennart Brje Roslund,1,26,187,85,1012
 102662,Ilya Sergeyevich Roslyakov,1,26,185,65,874
-102663, Christina Roslyng (-Christiansen, -Kirke) ,2,22,169,60,273
+102663, Christina Roslyng (-ChristiansenKirke) ,2,22,169,60,273
 102664,Rosmainar,2,28,150,48,491
 102665,Hermann Emil Paul Romann,1,26,0,0,399
 102666,Hertha Rosmini,2,22,0,0,71
@@ -34896,7 +34896,7 @@
 102682,Harris Browning Ross,1,24,170,60,1096
 102683,Claude Murray Ross,1,18,170,67,65
 102684, David Dave Ross ,1,20,191,87,174
-102685, David Ross, III ,1,35,175,84,1096
+102685, David Ross,1,35,175,84,1096
 102686, Donald Francis Don Ross ,1,21,180,83,1096
 102687, Douglas George Doug Ross ,1,24,175,80,1096
 102688,Randolph Duane Ross,1,31,182,83,1096
@@ -35022,7 +35022,7 @@
 102808,Rostin,1,0,0,0,362
 102809,Anna Rostkowska (Zagrska-),2,28,172,53,810
 102810,Marta Rostoburova,2,20,163,56,1123
-102811, Marlies Rostock (-Dotzauer, -Fraas) ,2,19,0,0,302
+102811, Marlies Rostock (-DotzauerFraas) ,2,19,0,0,302
 102812,Yasmine Mohmed Abdulmagid Rostom,2,19,162,45,308
 102813,Nicolas Rostoucher,1,19,188,75,362
 102814,Hanna Mykolavna Rostova (-Mazur),2,25,180,76,978
@@ -35081,7 +35081,7 @@
 102867,dm Rothermel (Rothrmel),1,24,190,82,477
 102868,Harlow Phelps Rothert,1,20,190,92,1096
 102869,Ingrid Rothfu,2,23,162,53,1150
-102870, Keena Ruth Rothhammer (-Weisbly, -Zorovich) ,2,15,175,66,1096
+102870, Keena Ruth Rothhammer (-WeisblyZorovich) ,2,15,175,66,1096
 102871,Ernst Paul Hermann Rthig,1,30,0,0,399
 102872,Hans Rothkirch,1,20,177,73,1150
 102873,Paul Rothley,1,22,178,75,362
@@ -35467,7 +35467,7 @@
 103253,Bevil Gordon d'Urban Rudd,1,24,180,77,967
 103254, Deborah Lesley Debbie Rudd ,2,16,168,58,413
 103255, Kenneth David Ken Rudd ,1,23,174,68,413
-103256, Sandra Marlene Ruddick (Anderson-, -John) ,2,24,176,59,1096
+103256, Sandra Marlene Ruddick (Anderson-John) ,2,24,176,59,1096
 103257, Kimberly Grace Kim Ruddins ,2,20,180,61,1096
 103258,Priscilla Ruddle,2,24,183,85,66
 103259, Joseph Aloysius Joe Ruddy, Sr ,1,25,0,0,713
@@ -35509,7 +35509,7 @@
 103295,Renate Rudolph,2,30,168,67,302
 103296,Susanne Rudolph,2,20,168,56,399
 103297,Thomas Rudolph,1,21,178,72,401
-103298, Wilma Glodean Rudolph (-Ward, -Eldridge) ,2,16,180,59,1096
+103298, Wilma Glodean Rudolph (-WardEldridge) ,2,16,180,59,1096
 103299, Edward John Eddie Rudolph ,1,18,186,82,1096
 103300,Yury Vasilyevich Rudov,1,25,171,67,978
 103301,Liubov Ivanivna Rudovska (-Tymofeieva),2,25,174,73,978
@@ -35557,7 +35557,7 @@
 103343,Onesimo Rufino Gmez,1,21,160,62,291
 103344,Ernst Rufli,1,26,0,0,1019
 103345,Olivia Dalila Rugama Carmona,2,20,170,57,720
-103346, John W Johnny Ruger, II ,1,31,175,64,1096
+103346, John W Johnny Ruger,1,31,175,64,1096
 103347,Karin Rger-Schulze,2,20,182,79,399
 103348,Francesco Ruggero,1,19,0,0,507
 103349,Alberto Ruggia,1,0,0,0,632
@@ -35578,7 +35578,7 @@
 103364,Laura Ruhnke,2,22,172,74,1019
 103365,Christopher Rhr,1,22,180,77,399
 103366,Petra Ruhrmann,2,17,165,51,1150
-103367, Ute Rhrold (-Bhme, -Klawonn) ,2,17,175,69,302
+103367, Ute Rhrold (-BhmeKlawonn) ,2,17,175,69,302
 103368,Rui Campos Nascimento,1,23,194,90,138
 103369,Rui Jorge Sousa Dias Macedo de Oliveira,1,23,170,67,816
 103370,Iulic Ruican,1,20,0,0,861
@@ -35736,7 +35736,7 @@
 103522,Glenn Richard Rupertus,1,23,172,68,174
 103523,Giampaolo Rupil,1,24,0,0,507
 103524,Silvia Rupil,2,24,174,57,507
-103525, Christel Rupke (-Hsecken, -Schaufuhs) ,2,17,0,0,399
+103525, Christel Rupke (-HseckenSchaufuhs) ,2,17,0,0,399
 103526,Lidija Rupnik (-ifrer),2,21,0,0,1178
 103527,Vasja Rupnik,1,32,189,85,944
 103528,Galen Rupp,1,22,181,61,1096
@@ -35774,7 +35774,7 @@
 103560,Martin Anthony Gavin Rush,1,27,168,51,413
 103561,Khalid Yahya Rushaka,1,28,186,87,1033
 103562,Arthur Rushen,1,0,0,0,413
-103563, John Dunbar Jack Rusher, IV ,1,21,190,91,1096
+103563, John Dunbar Jack Rusher,1,21,190,91,1096
 103564,Brent Donald Rushlaw,1,24,178,89,1107
 103565,Alan Trevor Rushmer,1,24,170,59,413
 103566, Hedley William Hank Rushmere ,1,35,0,0,413
@@ -35906,7 +35906,7 @@
 103692,Manfred Ruthner,1,20,186,80,71
 103693,Mohamed Rutitinga,1,24,161,54,1033
 103694,Irina Ivanovna Rutkovskaya,2,27,176,67,874
-103695, Jadwiga Maria Rutkowska (Abisiak-, -Dobrowolska) ,2,30,172,69,810
+103695, Jadwiga Maria Rutkowska (Abisiak-Dobrowolska) ,2,30,172,69,810
 103696,Natalia Rutkowska,2,25,162,56,810
 103697,Roman Augustyn Rutkowski,1,26,185,85,810
 103698,Tadeusz Rutkowski,1,25,185,117,810
@@ -36378,7 +36378,7 @@
 104164,Yevgeny Viktorovich Sadovy,1,19,187,73,1088
 104165,Joyce Sadowick-Yakubowich,2,19,171,56,174
 104166,Abdul-Rashid Bulayevich Sadulayev,1,20,177,86,874
-104167, Milena Maria Sadurek (-Mikoajczyk, -Radecka) ,2,23,177,65,810
+104167, Milena Maria Sadurek (-MikoajczykRadecka) ,2,23,177,65,810
 104168,Kateryna Serhivna Sadurska,2,24,178,58,1084
 104169,Igor Sadykov,1,28,178,98,399
 104170,Sagdat Kabirovich Sadykov,1,27,175,73,557
@@ -37221,7 +37221,7 @@
 105007,Svetlana Anatolyevna Samokhvalova,2,19,0,0,1088
 105008,Gabriel Marian Samolej,1,22,179,72,810
 105009,George Samolenko,1,29,173,72,174
-105010, Tetiana Volodymyrivna Samolenko-Dorovskykh (Khamitova-, -Apaicheva) ,2,27,168,54,978
+105010, Tetiana Volodymyrivna Samolenko-Dorovskykh (Khamitova-Apaicheva) ,2,27,168,54,978
 105011,Paul Samonig,1,20,0,0,71
 105012,Nataliya Anatolivna Samorodina,2,21,170,58,1084
 105013,Maria Samoroukova,2,32,191,82,419
@@ -37537,7 +37537,7 @@
 105323, Peter Pete Sanders ,1,23,180,71,413
 105324, Richard Joseph Rich Sanders ,1,23,166,57,1096
 105325,Robert Levine Sanders,1,30,0,0,1096
-105326, Summer Elisabeth Sanders (-Henderson, -Schlopy) ,2,19,175,57,1096
+105326, Summer Elisabeth Sanders (-HendersonSchlopy) ,2,19,175,57,1096
 105327,Terence Robert Beaumont Sanders,1,22,0,0,413
 105328, Tyler James TJ Sanders ,1,24,191,81,174
 105329, Franklyn Bonn Frank Sanders ,1,22,188,98,1096
@@ -37900,7 +37900,7 @@
 105686,Stasys aparnis,1,29,174,72,978
 105687,Alfred James Sapecky,1,23,0,0,1096
 105688,Yury Nikolayevich Sapega,1,23,196,85,978
-105689, Debora Elaine Debra Sapenter (-Speight, -Christopher) ,2,24,170,52,1096
+105689, Debora Elaine Debra Sapenter (-SpeightChristopher) ,2,24,170,52,1096
 105690,Vladislav Vladimirovich Sapeya,1,25,174,73,978
 105691,Aleksandar api,1,18,188,100,913
 105692,Serik Zhumangaliyevich Sapiyev,1,24,179,64,535
@@ -37990,7 +37990,7 @@
 105776,April L Sargent-Thomas,2,23,157,48,1101
 105777,Arsen Sargsyan,1,27,189,76,55
 105778,Hovhannes Sargsyan,1,18,164,65,55
-105779, Inessa Yevgenyevna Sargsyan (Yemelyanova-, -Korkmaz) ,2,28,190,75,874
+105779, Inessa Yevgenyevna Sargsyan (Yemelyanova-Korkmaz) ,2,28,190,75,874
 105780,Norayr Sargsyan,1,21,164,62,55
 105781,Sargis Sargsyan,1,23,180,76,55
 105782,Stepan Sargsyan,1,26,164,62,978
@@ -38716,7 +38716,7 @@
 106502,Egbert Rubertus Deck Schaap,1,61,0,0,705
 106503,Hendrika Wilhelmina Jacoba Schaap-van der Pek,2,65,0,0,705
 106504,Heinrich Karl Franz Schaarschmidt,1,30,172,74,853
-106505, Michaela Schabinger (Stengl-, -Dirsch) ,2,23,172,59,1150
+106505, Michaela Schabinger (Stengl-Dirsch) ,2,23,172,59,1150
 106506,Felicja Schabiska (-Friedrich),2,22,165,56,810
 106507,Berend Schabus,1,18,0,0,71
 106508,Anja Schache (Mller-),2,31,164,57,399
@@ -38914,7 +38914,7 @@
 106700,Edwin Wright Schell,1,19,0,0,1096
 106701,Hermann Ferdinand Schell,1,48,0,0,1019
 106702,Frank Reamer Schell,1,19,0,0,1134
-106703, Ingeborg Inge Schell (Karl-, -Pilz) ,2,29,165,63,1150
+106703, Ingeborg Inge Schell (Karl-Pilz) ,2,29,165,63,1150
 106704,Ute Schell-Wagner-Stange,2,22,180,80,302
 106705,Franz Schelle,1,26,178,76,401
 106706,Anne Schellekens,2,26,163,48,705
@@ -38938,7 +38938,7 @@
 106724, Adrie Ard Schenk ,1,19,190,90,705
 106725,Bianca Schenk (-Maunders),2,17,0,0,71
 106726,Christian Schenk,1,23,200,93,302
-106727, Feodora Hedwig Luise Victoria Alexandra Marie Schenk (Grfin zu Solms-Baruth-, -von Auersberg) ,2,32,176,62,71
+106727, Feodora Hedwig Luise Victoria Alexandra Marie Schenk (Grfin zu Solms-Baruth-von Auersberg) ,2,32,176,62,71
 106728,Franziska Michaela Schenk,2,19,173,67,399
 106729, Hannelore Hanne Schenk ,2,25,182,78,1021
 106730,Hans Schenk,1,28,185,85,399
@@ -39040,7 +39040,7 @@
 106826, Jeffrey M Jeff Schiebler ,1,23,171,55,174
 106827,Waltraud Schiefer,2,22,168,58,507
 106828,Bettina Schieferdecker,2,20,164,53,302
-106829, Margarta Schieferov (-Imhofov, -Dusby) ,2,22,0,0,259
+106829, Margarta Schieferov (-ImhofovDusby) ,2,22,0,0,259
 106830,Markus Schiegl,1,18,178,73,71
 106831,Tobias Schiegl,1,20,199,89,71
 106832,Ren Schiekel,1,29,195,130,399
@@ -39081,7 +39081,7 @@
 106867,Annelies Schilhan,2,15,0,0,71
 106868,Rachel Schill,2,22,176,67,174
 106869,Giovanni Schillaci,1,20,165,62,507
-106870, Dorothy Jane Schiller (-Green, -Haver) ,2,20,0,0,1096
+106870, Dorothy Jane Schiller (-GreenHaver) ,2,20,0,0,1096
 106871,George Sylvester Schiller,1,19,175,66,1096
 106872,Gerhard Schiller,1,23,179,65,1150
 106873gen Schiller,1,22,181,78,1150
@@ -39148,7 +39148,7 @@
 106934,Marianne Schlger,2,27,0,0,71
 106935,Werner Schlager,1,23,173,70,71
 106936,Carsten Schlangen,1,27,189,68,399
-106937, Ludwig (Lajos-, -Louis R.) Schlanger (-Slanger) ,1,23,0,0,71
+106937, Ludwig (Lajos-Louis R.) Schlanger (-Slanger) ,1,23,0,0,71
 106938, Melanie Rene Mel Schlanger (-Wright) ,2,21,176,65,66
 106939,Otto Schlpfer,1,20,0,0,1019
 106940,Alfred Schlppi,1,25,0,0,1020
@@ -39233,7 +39233,7 @@
 107019,Siegbert Schmeier,1,19,176,69,302
 107020,Karsten Schmeling,1,26,196,91,302
 107021,Andreas Schmelz,1,23,196,91,1150
-107022, Irmgard Schmelzer (Kirchhoff-, -Hermand) ,2,31,0,0,399
+107022, Irmgard Schmelzer (Kirchhoff-Hermand) ,2,31,0,0,399
 107023,Wolfgang Schmelzer,1,28,180,73,302
 107024,Lauren Schmetterling,2,28,180,77,1096
 107025,Bernard Jules Robert Schmetz,1,24,189,92,362
@@ -39583,7 +39583,7 @@
 107369,Lee Schofield,1,24,177,78,66
 107370,Sydney Charles Apps Schofield,1,0,0,0,413
 107371,Ren Schfisch,1,22,188,86,302
-107372, Ilona Schoknecht-Slupianek (-Briesenick, -Longo) ,2,19,180,93,302
+107372, Ilona Schoknecht-Slupianek (-BriesenickLongo) ,2,19,180,93,302
 107373,Marian Schole,1,22,178,72,174
 107374,Adam James Scholefield,1,27,189,99,413
 107375, Arthur Richard Art Scholes ,1,29,171,64,174
@@ -39808,7 +39808,7 @@
 107594,Ludwig Schuberth,1,25,0,0,71
 107595,Otto Schubiger,1,23,0,0,1019
 107596,Gerson Albino Schuch,1,22,186,83,138
-107597, Irene Schuch (Stechmesser-, -Grieser) ,2,24,172,78,399
+107597, Irene Schuch (Stechmesser-Grieser) ,2,24,172,78,399
 107598,Timuzsin Schuch,1,27,197,105,477
 107599,Brigitte Schuchardt,2,17,165,52,302
 107600,Alexander Schuck,1,31,173,75,302
@@ -39848,7 +39848,7 @@
 107634,William Kron Schulhoff,1,34,0,0,1096
 107635,Bernhard Schulkowski,1,36,195,105,1150
 107636, Johann Hans Schuller ,1,22,182,77,71
-107637, Adelheid Heidi Schller (-de Bocourt, -Braun) ,2,22,168,54,1150
+107637, Adelheid Heidi Schller (-de BocourtBraun) ,2,22,168,54,1150
 107638,Jakob Schller,1,22,177,72,399
 107639,Maria Jos de Almeida Schuller,2,35,180,68,816
 107640,Swen Schuller,1,29,176,70,399
@@ -40126,7 +40126,7 @@
 107912, Melissa C Missy Schwen-Ryan ,2,24,172,65,1096
 107913,Carl Schwende,1,40,188,88,174
 107914,Jozef Schwendtner,1,25,166,62,259
-107915, William Douglas Tripp Schwenk, III ,1,21,190,79,1096
+107915, William Douglas Tripp Schwenk,1,21,190,79,1096
 107916,Wolfgang Schwenke,1,24,196,96,399
 107917,Uwe Schwenker,1,25,185,83,1150
 107918,Helmut Schwenn,1,23,0,0,399
@@ -40504,7 +40504,7 @@
 108290,Andr Sehmisch,1,23,180,70,302
 108291,Elke Sehmisch,2,17,167,52,302
 108292,Eric Sehn,1,27,175,70,174
-108293, Idella Thrasher Della Sehorn (Thrasher-, -Moore) ,2,25,0,0,1096
+108293, Idella Thrasher Della Sehorn (Thrasher-Moore) ,2,25,0,0,1096
 108294,Walter Sehr,1,23,0,0,72
 108295,Paul Sehzue,1,22,0,0,586
 108296,Indrek Sei,1,19,188,80,331
@@ -40826,7 +40826,7 @@
 108612,Yakup ener,1,21,170,64,1071
 108613,Daniel Charles Thodule Senet,1,23,162,66,362
 108614,Margit Senf,2,18,170,62,402
-108615, Dina Willemina Jacoba Nida Senff (-Scheffer, -Couturier) ,2,16,0,0,705
+108615, Dina Willemina Jacoba Nida Senff (-SchefferCouturier) ,2,16,0,0,705
 108616,Ronaldo Camargo Ribeiro Senfft,1,30,170,83,138
 108617,Michael Senft,1,23,180,74,400
 108618,Jan-Simon Senft,1,22,177,80,399
@@ -41231,7 +41231,7 @@
 109017,Mayaki Seydou,1,0,165,54,721
 109018, Abdoulaye Abdou Sye Papa ,1,26,174,68,362
 109019,Heide Seerling (-Quinn),2,24,168,55,967
-109020, Gabriele Seyfert (-Rger, -Messerschmidt, -Krner) ,2,15,160,47,399
+109020, Gabriele Seyfert (-RgerMesserschmidtKrner) ,2,15,160,47,399
 109021,Karl ke Seyffarth,1,28,0,0,1012
 109022,Josef Seyfried,1,32,0,0,259
 109023,Arslan Seyhanl,1,24,160,58,1071
@@ -41412,7 +41412,7 @@
 109198,Hassan Mauris Shamil,1,0,0,0,308
 109199,Karen Shammas,2,19,169,63,576
 109200,Nikolay Shamov,1,19,174,75,978
-109201, Galina Yakovlevna Shamray (Rudko-, -Ilyina) ,2,20,0,0,978
+109201, Galina Yakovlevna Shamray (Rudko-Ilyina) ,2,20,0,0,978
 109202,Ibrahim Hassanien Shams,1,19,0,63,308
 109203,Maslam Hamzah Shamsuddin,1,0,0,0,618
 109204,Mohammad Shamsuddin,1,20,175,60,86
@@ -41584,7 +41584,7 @@
 109370,Colin Shaw,1,30,178,72,174
 109371,Donald William Shaw,1,21,188,82,413
 109372,Elston Albert Shaw,1,19,182,67,101
-109373, George Donald Shaw, II ,1,20,183,81,1096
+109373, George Donald Shaw,1,20,183,81,1096
 109374,Haricharan Shaw,1,0,0,0,487
 109375,Hayden Jonathan Shaw,1,23,196,100,716
 109376,Asenaca Ivy Shaw,2,27,164,81,349
@@ -41599,7 +41599,7 @@
 109385,Malcolm C Shaw,1,24,193,93,66
 109386,Mara Shaw Martos,2,21,167,66,982
 109387,Ian Paul Shaw,1,47,172,95,174
-109388, Gale H Tiger Shaw, III ,1,22,180,79,1096
+109388, Gale H Tiger Shaw,1,22,180,79,1096
 109389, Timothy Andrew Tim Shaw ,1,18,188,89,1096
 109390,Victor Ronald Shaw,1,20,194,115,716
 109391,Wallace Franklin Shaw,1,34,0,0,1096
@@ -41687,7 +41687,7 @@
 109473,Nehad Shehata,1,25,195,98,308
 109474,Sayed Hafez Shehata,1,21,0,0,308
 109475,Abdullahi Shehu,1,23,170,72,722
-109476, Enkelejda Shehu (-Xhakaj, -Bekurti) ,2,23,163,57,8
+109476, Enkelejda Shehu (-XhakajBekurti) ,2,23,163,57,8
 109477,Muhammad Zahid Sheikh,1,22,165,85,770
 109478,Remat Ullah Sheikh,1,0,0,0,770
 109479,Muhammad Shahnaz Sheikh,1,23,172,74,770
@@ -42233,7 +42233,7 @@
 110019,Yousef Saleh Shriha,1,24,177,58,587
 110020,Richard Thomas Shrimpton,1,26,0,0,413
 110021,Marley Lynn Shriver (-Tobian),2,19,169,55,1096
-110022, Pamela Howard Pam Shriver (-Shapiro, -Lazenby) ,2,26,183,70,1096
+110022, Pamela Howard Pam Shriver (-ShapiroLazenby) ,2,26,183,70,1096
 110023,Malav Shroff,1,30,167,66,487
 110024,Mikhail Alekseyevich Shtalenkov,1,26,186,84,1088
 110025,Margarita Shtarkelova,2,25,177,73,154
@@ -42882,7 +42882,7 @@
 110668,Nikola Simeonov,1,28,173,62,154
 110669,Ventzislav Simeonov,1,27,200,105,507
 110670,Zdravko Simeonov,1,22,187,86,154
-110671, John Weston Jackie Simes, III ,1,17,173,65,1096
+110671, John Weston Jackie Simes,1,17,173,65,1096
 110672, Wilhelm Willy Simetsreiter ,1,21,0,0,399
 110673,Cyril Stillingfleet Aylmer Simey,1,22,0,0,413
 110674,Ana imi,2,22,178,58,246
@@ -43641,7 +43641,7 @@
 111427,Ryan Sissons,1,24,175,62,716
 111428,Helga Mara Sista de Salvateli,2,20,171,61,45
 111429,Amanda Sister,2,22,170,60,967
-111430, Eva-Britt Sisth (Johansson-, -Pettersson) ,2,23,164,74,1012
+111430, Eva-Britt Sisth (Johansson-Pettersson) ,2,23,164,74,1012
 111431,Pedro Oscar Sisti,1,37,167,65,45
 111432,Romeo Sisti,1,0,0,0,507
 111433,Bayram it,1,0,0,0,1071
@@ -43753,7 +43753,7 @@
 111539,Stefan Kenny Sjstrand,1,22,179,64,1012
 111540,Tore Ingemar Sjstrand,1,26,180,68,1012
 111541,Anna Maria Kristina Sjstrm,2,27,166,57,1012
-111542, Nell Eivor Kristina Sjstrm (-Svensson, -Ersson) ,2,19,169,59,1012
+111542, Nell Eivor Kristina Sjstrm (-SvenssonErsson) ,2,19,169,59,1012
 111543,Sarah Frederica Sjstrm,2,14,182,76,1012
 111544,Karl Johan Stefan Sjstrm,1,30,177,80,1012
 111545,John Edgar Melker Sjsvrd,1,46,0,0,1012
@@ -43799,7 +43799,7 @@
 111585,Petar Skansi,1,24,206,104,1178
 111586,Ladislav kantr,1,33,189,80,941
 111587,Peter kantr,1,34,182,78,941
-111588, Delfina Jadwiga Skpska (Olek-, -Perka) ,2,29,174,60,810
+111588, Delfina Jadwiga Skpska (Olek-Perka) ,2,29,174,60,810
 111589,Vasiliki Skara,2,31,180,70,419
 111590,Zdenk kra,1,22,187,92,259
 111591,Ioannis Skarafingas,1,33,185,94,419
@@ -43866,7 +43866,7 @@
 111652,Anna Skidan,2,20,183,101,1084
 111653,Piotr Sylwester Skierski,1,20,182,72,810
 111654,Daryl Skilling,1,16,0,0,174
-111655, Melanie Skillman (Soltysik-, -Hull) ,2,33,155,59,1096
+111655, Melanie Skillman (Soltysik-Hull) ,2,33,155,59,1096
 111656,Edward Skilton,1,48,0,0,413
 111657, Anthony Oludewa Jeffrey Tony Skinn ,1,29,191,79,722
 111658,Arthur Dobson Skinner,1,41,168,76,413
@@ -44077,7 +44077,7 @@
 111863,Henry Berry Slack,1,23,0,0,1096
 111864, Joshua Josh Slack ,1,23,191,88,68
 111865,William Melville Sladden,1,41,170,63,66
-111866, Betty Joyce Slade (-Rasch, -Weston) ,2,15,0,0,413
+111866, Betty Joyce Slade (-RaschWeston) ,2,15,0,0,413
 111867,John (Hans-) Slade (Schlesinger-),1,40,0,0,1096
 111868,Mark Gainsford Slade,1,21,183,77,413
 111869,Willie Slade,1,34,0,0,530
@@ -44181,7 +44181,7 @@
 111967,Oleksiy Slivinsky,1,23,176,80,1084
 111968,Tadeusz liwak,1,27,0,0,810
 111969,Micha liwiski,1,18,178,82,978
-111970, Maria liwka (-Serkiz, -Pankowa) ,2,28,168,64,810
+111970, Maria liwka (-SerkizPankowa) ,2,28,168,64,810
 111971,Rafa li,1,22,165,52,810
 111972,Andrija ljuki,1,20,196,92,912
 111973,Anna Sloan,2,23,160,62,413
@@ -44189,7 +44189,7 @@
 111975,Ian Sloan,1,22,175,76,413
 111976,Laird de Lacey Sloan,1,21,0,0,174
 111977, Richard Donald Rick Sloan ,1,21,186,81,1096
-111978, Susan Estelle Sloan (-Smith, -Kelsey) ,2,18,171,61,174
+111978, Susan Estelle Sloan (-SmithKelsey) ,2,18,171,61,174
 111979,Cedric Hay Sloane,1,36,0,0,66
 111980,Roberto Sloane,1,43,174,78,656
 111981,Oleksandr Slobodeniuk,1,22,0,0,1088
@@ -44287,7 +44287,7 @@
 112073,Leandra Wiloma Smeda,2,27,165,55,967
 112074,Chita Charlotta Maria Smedberg (-Wahlroos),2,20,161,56,350
 112075,Silva Constantin Smedberg,1,20,0,0,859
-112076, Britt-Marie Louise Smedh (-Alshammar, -Blomberg) ,2,17,169,57,1012
+112076, Britt-Marie Louise Smedh (-AlshammarBlomberg) ,2,17,169,57,1012
 112077,Jnis mdi,1,24,190,89,568
 112078, Cameron Cam Smedley ,1,25,178,75,174
 112079, Raymond John Ray Smedley ,1,20,181,70,413
@@ -44446,7 +44446,7 @@
 112232,David Michael Smith,1,27,201,86,1096
 112233,David Gregory Smith,1,24,171,65,66
 112234,David J Smith,1,40,0,0,967
-112235, David Adley Smith Snchez, II ,1,24,192,82,825
+112235, David Adley Smith Snchez,1,24,192,82,825
 112236,David W Smith,1,21,193,110,413
 112237,Dean Bryan Smith (-Barton-Smith),1,24,182,82,66
 112238,Finis Dean Smith,1,20,180,72,1096
@@ -44622,7 +44622,7 @@
 112408,Susan Evelyn Smith,2,23,170,68,413
 112409, John Sutherland Suttie Smith ,1,22,0,0,413
 112410, Suzanne Suzi Smith ,2,21,178,63,174
-112411, Thomas Devine T D Smith, III ,1,32,188,100,1096
+112411, Thomas Devine T D Smith,1,32,188,100,1096
 112412,Tate Smith,1,26,187,92,66
 112413, Edward Arthur Ted Smith ,1,21,0,0,66
 112414, Theodore Richard Ted Smith ,1,19,0,0,1096
@@ -44651,13 +44651,13 @@
 112437,William Poultney Smith,1,38,0,0,1096
 112438,William Alfred Smith,1,30,0,0,174
 112439,William Faulder Smith,1,33,0,0,413
-112440, Willie James Smith, III ,1,28,173,73,1096
+112440, Willie James Smith,1,28,173,73,1096
 112441,Willie Smith,1,22,170,64,696
 112442, William Alexander Willie Smith ,1,19,0,0,967
 112443,Winston Ricardo Smith,1,21,180,81,511
 112444,Zoe Smith,2,18,159,58,413
-112445, Lorenzo Smith, III ,1,27,178,89,1107
-112446, Charles Edward Smith, IV ,1,20,185,75,1096
+112445, Lorenzo Smith,1,27,178,89,1107
+112446, Charles Edward Smith,1,20,185,75,1096
 112447, Kimberly Ann Kim Smith-Gaucher ,2,28,182,72,174
 112448,Keli Smith-Puzo,2,29,165,66,1096
 112449,Susan Smith-Walsh,2,24,163,51,498
@@ -45869,7 +45869,7 @@
 113655,Roland Otto Eugen Spngberg,1,25,0,0,1012
 113656,Marco Spangenberg,1,23,178,110,399
 113657,Livio Spanghero,1,28,0,0,507
-113658, Jenny A Spangler (-Gesell, -Tosic) ,2,33,160,45,1096
+113658, Jenny A Spangler (-GesellTosic) ,2,33,160,45,1096
 113659,Albert Spni,1,32,167,68,1019
 113660,Stefan Spni,1,21,183,64,1019
 113661,Otakar paniel,1,30,0,0,122
@@ -45921,7 +45921,7 @@
 113707,Beatrice Spaziani,2,20,169,55,507
 113708,Brenda Spaziani,2,28,165,56,507
 113709, Joseph William Joe Speake ,1,24,177,70,413
-113710, Janice Lee Janie Speaks (-Arnold, -Hunter) ,2,16,160,52,1096
+113710, Janice Lee Janie Speaks (-ArnoldHunter) ,2,16,160,52,1096
 113711, Jeffrey Kimball Jeff Spear ,1,24,183,75,1096
 113712, Wallace Spearmon ,1,23,191,78,1096
 113713,Albert Ralph Spearow,1,28,180,66,1096
@@ -46127,7 +46127,7 @@
 113913,Sabine Spitz,2,28,167,60,399
 113914, Johann Hans Spitzauer (-Mag) ,1,23,180,90,71
 113915,Roland Adelbert Spitzer,1,22,170,59,1096
-113916, Theresa Hope Spivey (-Sheeley, -Coburn) ,2,17,145,40,1096
+113916, Theresa Hope Spivey (-SheeleyCoburn) ,2,17,145,40,1096
 113917, James Calvin Jim Spivey ,1,24,178,61,1096
 113918,Olga plchalov,2,16,179,75,259
 113919,Bruno Splieth,1,43,173,87,103
@@ -46171,7 +46171,7 @@
 113957,Leston Sprauve,1,0,0,90,1098
 113958,Andreas Sprecher,1,23,167,74,1019
 113959,Claudio Sprecher,1,25,180,85,588
-113960, Liliane Sprcher (Miannay-, -Lazare) ,2,22,168,0,362
+113960, Liliane Sprcher (Miannay-Lazare) ,2,22,168,0,362
 113961,Pierre Sprcher,1,26,180,74,362
 113962,Goran prem,1,25,183,85,246
 113963,Karolina prem,2,19,175,60,246
@@ -46414,7 +46414,7 @@
 114200,Doina Sticulescu,2,16,156,41,861
 114201,Paul Staight,1,21,192,85,66
 114202,Gary Martin Staines,1,25,186,63,413
-114203, Laura Catherine Staines (Terdoslavich-, -Giardino) ,2,22,178,68,1096
+114203, Laura Catherine Staines (Terdoslavich-Giardino) ,2,22,178,68,1096
 114204, Michael Laurence Mike Staines ,1,23,201,91,1096
 114205,Spyridon Stais,1,0,0,0,419
 114206,Em Vasileios Stais,1,0,0,0,419
@@ -46616,7 +46616,7 @@
 114402,Potito Starace,1,27,190,85,507
 114403,Alfred Dodd Starbird,1,24,195,0,1096
 114404,David Collin Starbrook,1,27,185,89,413
-114405, Alicia Jo JoJo Starbuck (-Bradshaw, -Gertler) ,2,16,165,50,1108
+114405, Alicia Jo JoJo Starbuck (-BradshawGertler) ,2,16,165,50,1108
 114406,Brandon Starc,1,22,188,71,66
 114407,Boo Starevi,1,27,172,78,246
 114408,Petra Starevi,2,18,168,61,246
@@ -46743,7 +46743,7 @@
 114529,Kamma Lilian Laulund Staugaard (-Larsen),2,18,0,0,273
 114530,Juan Carlos Stauskas,1,21,180,65,45
 114531,Kevin Staut,1,31,182,70,362
-114532, Brit Stav (Rolseth-, -Hoen) ,2,28,164,59,742
+114532, Brit Stav (Rolseth-Hoen) ,2,28,164,59,742
 114533,Per Johan Stavem,1,22,193,98,742
 114534,John Stavenuiter,1,28,176,67,705
 114535, Julia Ann Julie Staver ,2,32,170,61,1096
@@ -46774,7 +46774,7 @@
 114560,Lisa Steanes (-Critoph),2,26,170,61,66
 114561,Antonello Carlo Steardo,1,21,190,90,507
 114562, Timothy Smith Tim Stearn ,1,24,183,91,1096
-114563, Richard Irving Dick Stearns, III ,1,37,177,75,410
+114563, Richard Irving Dick Stearns,1,37,177,75,410
 114564,Peter Evelyn Stebbing,1,34,0,0,413
 114565, Richard Vaughn Dick Stebbins ,1,19,180,68,1096
 114566,Roman Steblecki,1,24,178,74,810
@@ -47106,7 +47106,7 @@
 114892,Kristin Mrer Stemland,2,25,168,56,742
 114893,Brian Stemmle,1,21,178,91,174
 114894,Karen Jean Stemmle (-Brandon),2,20,160,61,174
-114895, Gertraud Emilie Julie Stemmler (Musculus-, -Koref) ,2,38,0,0,399
+114895, Gertraud Emilie Julie Stemmler (Musculus-Koref) ,2,38,0,0,399
 114896,Karl Stemolak,1,60,0,0,71
 114897,Sanna Tutteli Stn,2,31,171,63,350
 114898,Gunnar Ludvig Stenbck,1,31,0,0,353
@@ -47149,7 +47149,7 @@
 114935,Ernest George Stenson-Cooke,1,37,0,0,413
 114936,Einar Jrgensen Stensrud,1,25,0,0,742
 114937,Henning Stensrud,1,20,181,60,742
-114938, Hedwig Hedy Stenuf (-Perry-Smith, -Byram) ,2,13,0,0,71
+114938, Hedwig Hedy Stenuf (-Perry-SmithByram) ,2,13,0,0,71
 114939,Harald Stenvaag,1,31,182,90,742
 114940,Martin Stenzel,1,22,181,80,1150
 114941,Rdiger Stenzel,1,24,180,65,399
@@ -47347,7 +47347,7 @@
 115133,Charles Edward Stewart,1,30,0,0,413
 115134,Chelsea Blaine Stewart,2,22,165,54,174
 115135, Sarah Gillow Marshall Cissie Stewart (-Hunt) ,2,16,0,0,413
-115136, Colin Campbell Stewart, IV ,1,20,176,68,1096
+115136, Colin Campbell Stewart,1,20,176,68,1096
 115137,Courtenay Stewart,2,19,165,53,174
 115138,Danielle Stewart,2,27,165,65,66
 115139,Dennis C Stewart,1,28,182,95,413
@@ -47418,7 +47418,7 @@
 115204,Michael Detlef Stich,1,28,192,79,399
 115205, Josefine Fini Sticker ,2,17,0,0,71
 115206,Simon-Raphael Stickl,1,22,180,83,399
-115207, Terri Lee Stickles (-Meja, -Strunck) ,2,18,178,68,1096
+115207, Terri Lee Stickles (-MejaStrunck) ,2,18,178,68,1096
 115208, William Arthur Art Stickney ,1,25,0,0,1096
 115209, Stuart Grosvenor Stu Stickney ,1,27,0,0,1096
 115210,Mercedes Stieber,2,29,174,70,477
@@ -47989,7 +47989,7 @@
 115775,Daniel Strigel,1,25,196,97,399
 115776,Wilfried Karl Strik-Strikfeldt,1,40,0,0,567
 115777,Hilda Gwendolyn Strike (-Sisson),2,21,159,48,174
-115778, Sheila Strike (-Bolla, -Smith) ,2,21,188,70,174
+115778, Sheila Strike (-BollaSmith) ,2,21,188,70,174
 115779,Simona Dumitria Strimbeschi-Muat,2,22,183,80,861
 115780, Archibald Louis Archie Strimel ,1,30,0,0,1096
 115781,Tore Strindberg,1,50,0,0,1012
@@ -48067,7 +48067,7 @@
 115853,Ellen Strophal-Streidt (-Wendland-),2,20,168,55,302
 115854,Annabella Stropparo,2,28,162,50,507
 115855,Erika Strenreuther (-Gernandt),2,22,174,66,399
-115856, John Mantz Strotbeck, III ,1,27,188,84,1096
+115856, John Mantz Strotbeck,1,27,188,84,1096
 115857,Johanna Strotzer (Kuhfu-),2,25,172,59,302
 115858,Panagiotis Stroubakos,1,28,187,72,419
 115859,Grzegorz Strouhal,1,29,182,80,810
@@ -48154,7 +48154,7 @@
 115940,Friedrich August Bernhard Stbecke,1,24,0,0,399
 115941,Werner Mortimer Stuber,1,24,0,0,1019
 115942,Lisa Christina Stubli,2,28,158,44,246
-115943, Christa Stubnick (Seliger-, -Fischer) ,2,22,159,52,399
+115943, Christa Stubnick (Seliger-Fischer) ,2,22,159,52,399
 115944,Conrad Stucheli,1,0,0,0,1019
 115945,Karol Stuchlk,1,23,180,65,943
 115946,Mojmr Stuchlk,1,25,0,0,259
@@ -48847,7 +48847,7 @@
 116633,Nuray Tezeta Srekli (Desalgn-Dengersa-),2,24,160,50,1071
 116634,Soubam Suresh Singh,1,20,163,48,487
 116635,Glenn N R Surgeloose,1,18,182,82,96
-116636, Dorothy Louise Surgenor (Lynch-, Modenese-, -Ronning) ,2,24,0,0,1096
+116636, Dorothy Louise Surgenor (Lynch-, Modenese-Ronning) ,2,24,0,0,1096
 116637,Eurico Rocha Surgey,1,20,0,0,816
 116638,Reto Suri,1,24,183,84,1019
 116639,Francisco Suriano Sui Chon Him,1,17,180,74,310
@@ -49321,7 +49321,7 @@
 117107, Penelope Penny Sweet (-Vincent) ,2,22,180,76,413
 117108,Kirsten Sweetland,2,27,163,49,174
 117109,Nancy Sweetnam,2,18,174,68,174
-117110, Warren Edwards Skip Sweetser, III ,1,23,193,79,1096
+117110, Warren Edwards Skip Sweetser,1,23,193,79,1096
 117111,Anthony Ahasuerus Hendrik Sweijs,1,47,0,0,705
 117112,Sandi Sue Sweitzer (-Wagelein),2,21,163,52,1107
 117113,Clyde Acle Swendsen,1,24,170,0,1096
@@ -49779,7 +49779,7 @@
 117565, Zsuzsanna Zsuzsa Szcs ,2,18,169,59,477
 117566,Szandra Szgedi,2,27,158,63,404
 117567,Lszl Szgi,1,24,190,87,477
-117568, Katalin Szke (Homonnai-, -Markovits, -Domjan) ,2,16,0,0,477
+117568, Katalin Szke (Homonnai-MarkovitsDomjan) ,2,16,0,0,477
 117569,Lszl Szke,1,22,172,57,477
 117570,Sandor Matyas Szoke (Szke),1,30,0,0,66
 117571,Alajos (Aljoz) Szokoly (-Szokol),1,24,0,0,477
@@ -49892,7 +49892,7 @@
 117678,Anna Tabacchi,2,15,0,0,507
 117679,Giovanni Tabacchi,1,24,0,0,508
 117680,Pablo Ariel Tabachnik,1,22,185,89,45
-117681, Otylia Maria Tabacka (-Orowska, -Kauowa) ,2,20,164,55,810
+117681, Otylia Maria Tabacka (-OrowskaKauowa) ,2,20,164,55,810
 117682,Francesco Tabai,1,24,168,0,507
 117683, Cornelis Gerardus Cor Tabak ,1,20,0,0,705
 117684,David Tabak,1,24,0,0,503
@@ -50373,7 +50373,7 @@
 118159,Jayanta Talukdar,1,26,178,85,487
 118160,Bernard Grard Talvard,1,24,180,74,362
 118161,Viktor Ivanovich Talyanov,1,21,171,72,978
-118162, Tatyana Andreyevna Talysheva (-Volkova, -Tregub) ,2,26,163,55,978
+118162, Tatyana Andreyevna Talysheva (-VolkovaTregub) ,2,26,163,55,978
 118163,Tam Chew Seng,1,28,163,62,619
 118164,Tam Chi Kin,1,20,173,72,470
 118165,Tam Kai Chuen,1,24,174,65,470
@@ -50701,7 +50701,7 @@
 118487,Jukka-Pekka Tanner,1,21,161,50,350
 118488,Lauri Arvo Tanner,1,22,0,0,350
 118489,Troy Richard Tanner,1,24,190,84,1096
-118490, Iris Vera Tanner (-Murrell, -Curran) ,2,17,0,0,413
+118490, Iris Vera Tanner (-MurrellCurran) ,2,17,0,0,413
 118491,Gustav Adolf (Gustav Adolph-) Tannert,1,24,0,0,399
 118492,Asami Tanno (-Chiba),2,22,162,49,514
 118493,Ella Barbro Tano (Huru-),2,28,153,50,1012
@@ -50816,7 +50816,7 @@
 118602,Aleksandra Yevgenyevna Tarasova,2,28,170,64,93
 118603,Anna Tarasova,2,20,175,60,535
 118604,Irina Ivanovna Tarasova,2,25,179,115,874
-118605, Tetiana Mykolavna Tarasova (Kovalenko-, -Kuleshova) ,2,22,169,59,978
+118605, Tetiana Mykolavna Tarasova (Kovalenko-Kuleshova) ,2,22,169,59,978
 118606,Yuliya Aleksandrovna Tarasova,2,22,174,66,1123
 118607,Andrey Sergeyevich Taratukhin,1,22,182,90,874
 118608,Carlos Emilio Tarazona,1,29,174,61,1128
@@ -50877,7 +50877,7 @@
 118663,Abigael Tarus,2,21,175,66,537
 118664,Gabriel Bogdan rus,1,20,191,78,861
 118665,Antonio Deon Tarver,1,27,188,81,1096
-118666, Edie Tarves (-Gourley, -Taylor) ,2,22,165,54,174
+118666, Edie Tarves (-GourleyTaylor) ,2,22,165,54,174
 118667,Taworn Tarwan,1,24,164,52,1037
 118668,Davis Edward Tarwater,1,28,185,85,1096
 118669,Gizella Tary,2,39,0,0,477
@@ -51059,7 +51059,7 @@
 118845, Richard John Dick Tayler ,1,24,177,65,716
 118846,Michael Tayler,1,20,175,69,174
 118847,Colin Taylforth,1,18,180,80,413
-118848, Erika Leslie Taylforth (Kessler-, Susman-, - Shorr) ,2,19,0,0,413
+118848, Erika Leslie Taylforth (Kessler-, Susman- Shorr) ,2,19,0,0,413
 118849, Albert Al Taylor ,1,0,0,0,174
 118850,Alan Taylor,1,25,184,80,174
 118851,Albert E Taylor,1,0,0,0,413
@@ -51337,7 +51337,7 @@
 119123,Fuat Temel,1,17,164,48,1071
 119124,Florian Skilang Temengil,1,21,183,125,771
 119125,Judit Temes (-Tuider),2,17,0,0,477
-119126, Andrea Temesvri (-Trunkos, -Visontai) ,2,30,180,64,477
+119126, Andrea Temesvri (-TrunkosVisontai) ,2,30,180,64,477
 119127,Anna Temesvri (Tamasovics),2,17,164,60,477
 119128,Ferenc Temesvri,1,20,0,0,477
 119129,Ott Temesvri,1,25,192,86,477
@@ -51637,7 +51637,7 @@
 119423,Charles Teversham,1,28,0,0,967
 119424,Carlos Alberto Tvez (Martnez-),1,20,169,77,45
 119425,Wilfried Tevoedjre Tevoedjre,1,32,180,0,106
-119426, James Dinsmore Jim Tew, III ,1,19,189,84,1096
+119426, James Dinsmore Jim Tew,1,19,189,84,1096
 119427,Ruby Tew,2,22,181,76,716
 119428,Karitaake Tewaaki,2,18,155,52,541
 119429,Lewis Tewanima,1,0,160,51,1096
@@ -51760,7 +51760,7 @@
 119546,Marius Theiler,1,26,180,68,1019
 119547,Hans Theilig,1,21,0,0,399
 119548,Hellmut Theimer,1,24,0,0,71
-119549, Louis Michael Theimer, III ,1,26,188,79,1096
+119549, Louis Michael Theimer,1,26,188,79,1096
 119550,Reinhard Theimer,1,20,184,105,302
 119551,Thein Myint,1,19,160,53,690
 119552,Wojciech Theiner,1,30,187,74,810
@@ -51973,7 +51973,7 @@
 119759, Albert George Albie Thomas ,1,21,165,57,66
 119760,Alfred Thomas,1,30,188,71,440
 119761,Andrea Thomas,2,15,152,37,174
-119762, Andrea Irmgard Thomas (Bersch-, -Wei) ,2,25,176,62,1150
+119762, Andrea Irmgard Thomas (Bersch-Wei) ,2,25,176,62,1150
 119763,Andrea Thomas,2,15,175,60,511
 119764,Anilda Thomas,2,23,0,0,487
 119765,Annamarie Thomas,2,22,170,60,705
@@ -52320,7 +52320,7 @@
 120106gen Mogens Thorup,1,22,186,76,273
 120107,Majken Thorup Toft,2,25,174,59,273
 120108,Thor Thorvaldsen,1,27,0,0,450
-120109, Unn Thorvaldsen (-Greve-Lberg, -Ruud) ,2,17,174,59,742
+120109, Unn Thorvaldsen (-Greve-LbergRuud) ,2,17,174,59,742
 120110,Bjrn Thorwaldsson,1,32,182,92,1012
 120111,Nicola Thost,2,20,163,62,399
 120112,Roberto Thostrup,1,25,182,82,45
@@ -52356,7 +52356,7 @@
 120142,Marcel Thull,1,25,0,0,602
 120143,Roger Thull,1,21,175,70,602
 120144, Ping Tjin PJ Thum ,1,16,0,0,929
-120145, Petra Thmer (-Deckert, -Katzur) ,2,15,174,62,302
+120145, Petra Thmer (-DeckertKatzur) ,2,15,174,62,302
 120146,Birgit Thumm,2,24,186,73,399
 120147,Drte Thmmler (Pawlak-),2,16,151,40,302
 120148,Heinrich Thun,1,21,179,95,71
@@ -52473,7 +52473,7 @@
 120259,Tie Ya Na,2,25,160,59,470
 120260, Frederick Fred Tiedt ,1,21,0,0,498
 120261,Manfred Tiedtke,1,26,187,88,302
-120262, Susen Tiedtke (-Greene, -Dreekmann) ,2,23,171,54,399
+120262, Susen Tiedtke (-GreeneDreekmann) ,2,23,171,54,399
 120263,Franz Tiefenbacher,1,21,0,0,71
 120264, Gotthardt Gustav Tiefenthaler ,1,17,0,0,1019
 120265, Eduard Herbert Eddy Tiel ,1,21,0,0,705
@@ -52764,7 +52764,7 @@
 120550,Olga Titova,2,15,0,0,557
 120551,Tatyana Titova,2,21,169,54,978
 120552,Viktoriya Titova,2,24,0,0,1084
-120553, William Stephen Titt (LeBeau-, -LeBeau) ,1,27,0,0,413
+120553, William Stephen Titt (LeBeau-LeBeau) ,1,27,0,0,413
 120554,Marcello Tittarelli,1,34,180,88,507
 120555,Ellen Tittel-Wellmann (-Wessinghage),2,24,158,44,1150
 120556,Gnter Tittes,1,23,176,73,399
@@ -53447,7 +53447,7 @@
 121233,Gina Torrealva,2,18,175,59,794
 121234,Susana Torrejn Daz,2,32,0,0,982
 121235,David Scott Torrence,1,30,190,65,794
-121236, Gwendolyn Lenna Gwen Torrence (-Waller, -Smith) ,2,23,170,57,1096
+121236, Gwendolyn Lenna Gwen Torrence (-WallerSmith) ,2,23,170,57,1096
 121237,Alba Torrens Salom,2,18,195,80,982
 121238,Peter John Forster Torrens,1,21,0,0,413
 121239,Carlos Torrent Tarres,1,29,179,74,982
@@ -53469,7 +53469,7 @@
 121255,Caio Aparecido da Silveira Torres,1,25,206,125,138
 121256,Carmen Torres,2,24,0,0,799
 121257,Carolina Alejandra Torres Guzmn,2,25,173,65,198
-121258, Dara Grace Torres (-Hoffman, -Minas) ,2,17,183,68,1096
+121258, Dara Grace Torres (-HoffmanMinas) ,2,17,183,68,1096
 121259,Duilio Torres,1,45,0,0,507
 121260,Edwin Torres,1,21,187,68,825
 121261,Pedro Emilio Torres,1,26,0,0,225
@@ -54518,7 +54518,7 @@
 122304, Styliani Stella Tsikouna ,2,23,171,75,419
 122305,Valery Antonovich Tsilent,1,26,178,85,93
 122306,Georgia Tsilingkiri,2,32,158,46,419
-122307, Nataliya Valeryevna Tsilinskaya (-Markovnichenko-, -Minashkin) ,2,28,173,73,93
+122307, Nataliya Valeryevna Tsilinskaya (-Markovnichenko-Minashkin) ,2,28,173,73,93
 122308,Giannis Tsilis,1,26,183,86,419
 122309,Davit Tsimak'uridze,1,27,0,0,978
 122310,Athanasios Tsimikalis,1,21,180,78,419
@@ -54841,7 +54841,7 @@
 122627,Yekaterina Tunguskova,2,28,0,0,1123
 122628,Scott Tunkin,1,22,175,80,66
 122629,Jason Tunks,1,21,201,125,174
-122630, Teri Sue Tunks (Steer-, -Cantwell) ,2,24,180,86,1096
+122630, Teri Sue Tunks (Steer-Cantwell) ,2,24,180,86,1096
 122631, Liesbeth Jantina Lieja Tunks-Koeman ,2,24,183,85,705
 122632,Hermann Tunner,1,35,0,0,71
 122633,Rebecca Naomi Tunney,2,15,149,35,413
@@ -55172,7 +55172,7 @@
 122958,Andrew Tynes,1,24,198,87,80
 122959,Dustin Tynes,1,20,185,75,80
 122960,Leo Olavi Tynkkynen,1,21,0,0,350
-122961, Aale Maria Tynni (-Pirinen, -Haavio) ,2,34,0,0,350
+122961, Aale Maria Tynni (-PirinenHaavio) ,2,34,0,0,350
 122962,Aysuluu Tynybekova,2,19,170,58,557
 122963,Nikolay Mikhaylovich Tyoply,1,39,182,87,874
 122964,Frantiek T,1,0,0,0,260
@@ -56181,7 +56181,7 @@
 123967,Domenico Valentino,1,20,171,60,507
 123968,Eligio Valentino,1,26,0,0,507
 123969,Manon Valentino,2,25,172,64,362
-123970, Jaroslava Valentov (Kralov-, -ezov) ,2,22,181,65,259
+123970, Jaroslava Valentov (Kralov-ezov) ,2,22,181,65,259
 123971,Giuseppe Valenzano,1,24,0,0,507
 123972,Albane Valenzuela,2,18,174,58,1019
 123973,Eddie Valenzuela Barillas,1,25,165,51,433
@@ -56313,7 +56313,7 @@
 124099,Irma Valov,2,23,188,90,259
 124100,Lenka Valov,2,21,165,65,256
 124101,Lucie Valov,2,18,166,54,256
-124102, Yelena Aleksandrovna Valova (-Vasilyeva, -Galusha) ,2,21,155,47,979
+124102, Yelena Aleksandrovna Valova (-VasilyevaGalusha) ,2,21,155,47,979
 124103,Valya Kostova Valova-Demireva,2,27,173,60,154
 124104,Ubaldina Valoyes Cuesta,2,22,162,75,225
 124105,Nikolaos Valsamakis,1,0,0,0,797
@@ -56771,7 +56771,7 @@
 124557,Maarten Hendrik van Dulm,1,44,0,0,705
 124558,Marcie Van Dusen,2,26,165,55,1096
 124559, Willem Paul Wim van Duyl ,1,28,189,90,527
-124560, Carl Van Duyne, III ,1,22,173,77,1096
+124560, Carl Van Duyne,1,22,173,77,1096
 124561,Herman Van Duyzen,1,0,0,0,96
 124562,John Lawrence van Dyke,1,36,178,72,1096
 124563,Amy Deloris Van Dyken (-Rouen),2,23,183,74,1096
@@ -57319,7 +57319,7 @@
 125105,Charles Vandeweghe,1,25,182,76,96
 125106, Colleen Mullarkey (Colleen Hutchins-) CoCo Vandeweghe (-Mullarkey) ,2,24,185,70,1107
 125107,Loc Vandeweghe,1,24,183,84,96
-125108, Tauna Kay Vandeweghe (-Mullarkey, -Oshea) ,2,16,186,68,1096
+125108, Tauna Kay Vandeweghe (-MullarkeyOshea) ,2,16,186,68,1096
 125109, Douglas Doug Vandor ,1,33,180,70,174
 125110,Jan Vandrey,1,24,188,88,399
 125111,Sharon Vandromme,2,20,170,57,96
@@ -58030,7 +58030,7 @@
 125816,Mihail Velsvebel,1,25,176,63,978
 125817,Rune Velta,1,24,178,64,742
 125818,Marieke Karen Veltman (-Miller),2,24,170,60,1096
-125819, Lucienne Antoinette Velu (-Odoul, -Chapillon) ,2,26,167,59,362
+125819, Lucienne Antoinette Velu (-OdoulChapillon) ,2,26,167,59,362
 125820,Mark Bernardus Theodorus Velzeboer,1,23,180,68,705
 125821,Monique Cornelia Annamaria Velzeboer,2,22,166,60,705
 125822,Simone Catharina Maria Velzeboer,2,24,168,58,705
@@ -58072,7 +58072,7 @@
 125858,Konstantin Venkov,1,31,183,78,154
 125859,Vasil Venkov,1,0,0,0,154
 125860,Venelin Venkov,1,26,163,55,154
-125861, Ivanka Venkova Todorova (-Zapryanova, -Goranova) ,2,19,168,59,154
+125861, Ivanka Venkova Todorova (-ZapryanovaGoranova) ,2,19,168,59,154
 125862,Albert H Venn,1,36,0,0,990
 125863,Willy Venneman,1,25,180,82,96
 125864,Pio Vennettilli,1,24,0,0,507
@@ -58418,7 +58418,7 @@
 126204,Benjamin Vessaz,1,29,0,0,1019
 126205,Georg Erland Larsen Vest,1,23,0,0,273
 126206,Sigurd Vestad,1,24,168,0,742
-126207, Paulette Veste (-Syfrett, -Gibbens) ,2,20,172,0,362
+126207, Paulette Veste (-SyfrettGibbens) ,2,20,172,0,362
 126208,Nicolae Vetea,1,21,181,72,861
 126209,Edvin Vesterby,1,24,163,57,1012
 126210,Britta Uhre Vestergaard,2,17,0,0,273
@@ -59864,7 +59864,7 @@
 127650,Maria Louiza Vryoni,2,21,170,72,419
 127651,Grigorios Vryonis,1,0,0,0,61
 127652,Panagiotis Vryonis,1,0,0,0,61
-127653, Alena ja Vrzov (-Zanov, -Steindler) ,2,16,0,0,259
+127653, Alena ja Vrzov (-ZanovSteindler) ,2,16,0,0,259
 127654,Dragutin Vruka,1,25,0,0,1178
 127655,Damjan Vti,1,20,171,58,944
 127656,Maja Vti,2,26,167,55,944
@@ -60036,7 +60036,7 @@
 127822,Peter Gary Wade,1,22,188,80,967
 127823,Harry Arthur Wade,1,24,0,0,174
 127824,Ibrahima Wade,1,32,193,82,362
-127825, Festus John Wade, III ,1,19,0,0,1096
+127825, Festus John Wade,1,19,0,0,1096
 127826,Kirsty Margaret Wade (McDermott-),2,26,169,56,413
 127827,Lamine Wade,1,32,170,70,911
 127828, Leslie Paul Les Wade ,1,0,0,0,174
@@ -60055,7 +60055,7 @@
 127841,Jean Wadoux,1,22,180,60,362
 127842,Justin Wadsworth,1,25,185,79,1096
 127843,William Ridout Wadsworth,1,28,0,0,1060
-127844, Brenda Wadworth (-Lea, -Baily) ,2,22,0,0,413
+127844, Brenda Wadworth (-LeaBaily) ,2,22,0,0,413
 127845,Jessie Ellen Wadworth (Brown-),2,0,0,0,413
 127846,Philipp Waeffler,1,24,183,70,1019
 127847,Marlies Waelzer (-Kamleitner),2,26,168,60,399
@@ -60086,7 +60086,7 @@
 127872,Alwin Josef Wagner,1,33,196,122,1150
 127873, Alyson Kay Aly Wagner (-Eyre) ,2,24,165,59,1096
 127874,Ashley Elisabeth Wagner,2,22,160,52,1096
-127875, Barbara Aileen Wagner (-Grogan, -Hofman) ,2,17,0,0,176
+127875, Barbara Aileen Wagner (-GroganHofman) ,2,17,0,0,176
 127876,Benedikt Wagner,1,22,191,90,399
 127877, Auguste Bib Wagner ,1,34,0,0,604
 127878,Birgit Wagner (-Peter),2,23,172,70,399
@@ -60158,7 +60158,7 @@
 127944,Richard Wahl,1,29,0,0,399
 127945,Torgny Georg Erik Otto Whlander,1,21,0,0,1012
 127946,Hans Yngve Wahlander,1,25,186,105,1012
-127947, Christina Agathe Wahlberg (-Baidinger, -Billby) ,2,21,162,54,1012
+127947, Christina Agathe Wahlberg (-BaidingerBillby) ,2,21,162,54,1012
 127948,Karl Edvard Wahlberg,1,49,0,0,1012
 127949,Anna-Stina Wahlberg-Baidinger,2,20,0,0,1012
 127950,Otto Wahle,1,20,171,0,71
@@ -60236,7 +60236,7 @@
 128022,Tadeusz Walasek,1,20,176,76,810
 128023,Zofia Walasek (-Walkiewicz),2,27,159,51,810
 128024,Chris Meke Walasi,1,32,170,70,960
-128025, Stanisawa Walasiewicz (-Walsh, -Olson) ,2,21,174,60,810
+128025, Stanisawa Walasiewicz (-WalshOlson) ,2,21,174,60,810
 128026,Kre Walberg,1,19,173,0,742
 128027,Thore Johannes Wlberg,1,18,183,82,742
 128028,Ewald Walch,1,27,176,73,72
@@ -60279,7 +60279,7 @@
 128065,Ross Elliott Wales,1,20,178,75,1096
 128066,Yona Walesi,1,24,179,79,617
 128067,Peggy Waleska,2,24,180,69,399
-128068, Eugene Henry Gene Walet, III ,1,21,180,84,985
+128068, Eugene Henry Gene Walet,1,21,180,84,985
 128069, Eugene Henry Gene Walet ,1,55,186,91,985
 128070,Walewska Moreira de Oliveira,2,21,190,73,138
 128071,Robert George Krulock Waley,1,22,0,0,1022
@@ -60346,7 +60346,7 @@
 128132,Robert Lachlan Walker,1,22,191,90,66
 128133,Ronald Walker,1,28,0,89,413
 128134, Clarence Leonard Sal Walker ,1,21,0,0,967
-128135, Sam Horace Walker, III ,1,25,193,123,1096
+128135, Sam Horace Walker,1,25,193,123,1096
 128136,Samuel Walker,1,21,186,74,413
 128137,Samuel John Walker,1,28,0,0,413
 128138,Sarah Walker,2,20,176,74,716
@@ -60541,7 +60541,7 @@
 128327,Eric Walther,1,25,180,72,399
 128328,Heinz-Ulrich Walther,1,20,175,63,401
 128329,Irma Barbara Walther (Dumbsky-),2,31,0,0,399
-128330, Marie Susan Walther (-Bilski, -Kuhlman) ,2,19,155,48,1096
+128330, Marie Susan Walther (-BilskiKuhlman) ,2,19,155,48,1096
 128331,Martina Walther,2,24,187,85,302
 128332,Oliver Walther,1,19,163,55,399
 128333,William Walther,1,22,0,0,399
@@ -60995,7 +60995,7 @@
 128781, Reuben Charles Rube Warnes ,1,32,168,0,413
 128782, Oskar Alfred Daniel Fred Warngrd ,1,29,0,0,1012
 128783, Rudolf Tito Warnholtz ,1,30,0,0,399
-128784, Heike Warnicke (Schalling-, -Sinaki) ,2,25,173,63,399
+128784, Heike Warnicke (Schalling-Sinaki) ,2,25,173,63,399
 128785,Pedro Edmundo Warnke Bravo,1,21,163,54,198
 128786,Harry Warnken,1,19,0,0,1096
 128787,Karl Tore ke Wrnstrm,1,26,0,0,1012
@@ -61286,7 +61286,7 @@
 129072,Andrew Teisher Weaver,1,25,183,73,1096
 129073, Robert Brooks Bobby Weaver ,1,25,157,48,1096
 129074, Jeffrey Charles Jeff Weaver ,1,19,195,91,1096
-129075, Joanna Clytie Weaver (-Entwhistle, -Burri) ,2,22,0,0,413
+129075, Joanna Clytie Weaver (-EntwhistleBurri) ,2,22,0,0,413
 129076,Kaitlyn Elizabeth Weaver,2,24,167,53,176
 129077,Patrick N Weaver,1,28,173,73,1096
 129078,Charmaine Weavers (-Gale),2,28,178,65,967
@@ -61376,7 +61376,7 @@
 129162,Wilhelm Weber,1,0,0,0,399
 129163,Yannick Weber,1,21,180,90,1019
 129164,Garrett Weber-Gale,1,23,188,82,1096
-129165, Monika Weber-Koszto (-Schreck, -Clasen) ,2,18,166,51,861
+129165, Monika Weber-Koszto (-SchreckClasen) ,2,18,166,51,861
 129166,Wolfgang Webner,1,31,190,89,302
 129167,Alan John Webster,1,23,184,86,716
 129168,Albert Webster,1,27,175,66,413
@@ -61433,9 +61433,9 @@
 129219,Pasi Tapani Wedman,1,25,169,63,350
 129220, Wilfriedt Wilf Wedmann ,1,20,183,81,174
 129221,Wee Tian Siak,1,27,0,0,199
-129222, Walker Ten Eyck Teyck Weed, III ,1,22,173,65,1096
+129222, Walker Ten Eyck Teyck Weed,1,22,173,65,1096
 129223,George G Weedon,1,28,0,0,413
-129224, Margaret Kate Weedon (Macrae-, -Mercer) ,2,54,0,0,413
+129224, Margaret Kate Weedon (Macrae-Mercer) ,2,54,0,0,413
 129225,Ludger Weeke,1,19,178,77,1150
 129226,Atia Weekes,2,20,170,54,174
 129227,Crystal Brittany Weekes Gonzlez,2,18,178,73,825
@@ -61581,7 +61581,7 @@
 129367,Marianne Weins,2,21,167,55,1012
 129368,David Bruce Leslie Weinberg,1,24,170,52,1096
 129369, Raymond Henry Ray Weinberg ,1,18,188,81,66
-129370, Wendy Weinberg (-Farber, -Weil) ,2,18,168,57,1096
+129370, Wendy Weinberg (-FarberWeil) ,2,18,168,57,1096
 129371,Zygfryd Joachim Weinberg,1,22,179,71,810
 129372,Richard Weinberger,1,22,184,72,174
 129373,Donna L Weinbrecht,2,26,162,55,1096
@@ -61624,7 +61624,7 @@
 129410, Hartmann Harti Weirather ,1,22,178,77,71
 129411, Christina Tina Weirather ,2,16,162,61,588
 129412,Tage Juhl Weirum,1,23,179,68,273
-129413, Anita Wei (Barkusky-, -Kehl) ,2,21,165,59,302
+129413, Anita Wei (Barkusky-Kehl) ,2,21,165,59,302
 129414,Bianca Margot Wei (-Heinz),2,24,166,57,399
 129415,Ernst Wei,1,45,0,0,399
 129416,Frdric Jean Santo Weis,1,23,218,110,362
@@ -61647,7 +61647,7 @@
 129433,Wolfgang Weise,1,23,177,75,302
 129434,Heinz Weisenbach,1,22,178,73,1150
 129435,Mathias Weienbacher,1,22,173,73,71
-129436, Waltraud Weienberg (Wieland-, -Geiler) ,2,40,172,67,1150
+129436, Waltraud Weienberg (Wieland-Geiler) ,2,40,172,67,1150
 129437,Gerhard Weisenberger,1,20,164,65,1150
 129438,Ingo Weienborn,1,28,168,63,399
 129439,Tibor Weienborn,1,19,175,70,399
@@ -61878,7 +61878,7 @@
 129664,Clemens Wenzel,1,19,196,100,399
 129665, Hannelore Hanni Wenzel (-Weirather) ,2,19,165,57,588
 129666,Hartmut Wenzel,1,29,167,54,1150
-129667, Joan Evelyn Wenzel (Eddy-, -Fox) ,2,22,167,56,174
+129667, Joan Evelyn Wenzel (Eddy-Fox) ,2,22,167,56,174
 129668,Kirsten Wenzel (-Strohbach),2,19,150,48,302
 129669,Osvaldo Wenzel,1,24,170,76,198
 129670,Peter Wenzel,1,20,0,0,66
@@ -61919,7 +61919,7 @@
 129705,Joachim Werner,1,25,190,89,399
 129706,Karl-Heinz Werner,1,22,169,63,302
 129707,Kuno Werner,1,30,0,0,399
-129708, Marianne Werner (Schulze-Entrup-, -Ader) ,2,28,174,83,399
+129708, Marianne Werner (Schulze-Entrup-Ader) ,2,28,174,83,399
 129709,Richard Martin Werner,1,33,0,0,399
 129710, Tommy Henrik Tom Werner ,1,18,190,74,1012
 129711,Anni Marie Verner Hansen (Werner-Hansen),2,21,163,66,273
@@ -61934,7 +61934,7 @@
 129720,Clas-Axel Wersll,1,23,0,0,1012
 129721,Erik Gustaf Wersll,1,25,0,0,1012
 129722,Claes Ture Wersll,1,22,0,0,1012
-129723, Amelia Wershoven (-Wood, -Bert) ,2,25,160,55,1096
+129723, Amelia Wershoven (-WoodBert) ,2,25,160,55,1096
 129724,Kevin Wert,1,22,184,104,174
 129725,Georg Werth,1,29,0,0,509
 129726,Isabelle Regina Werth,2,23,169,66,399
@@ -62102,7 +62102,7 @@
 129888,Rudolf Wetzer,1,23,0,0,861
 129889,Roland Wetzig,1,20,186,83,304
 129890,Ute Wetzig,2,21,169,57,399
-129891, Gabriele Wetzko (-Hartung, -Frischke, -Khne) ,2,14,171,60,302
+129891, Gabriele Wetzko (-HartungFrischkeKhne) ,2,14,171,60,302
 129892,Peter Wetzstein,1,23,167,56,71
 129893,Kjellfred Weum,1,28,186,79,742
 129894,Roderick Camiel Weusthof,1,26,183,88,705
@@ -62146,7 +62146,7 @@
 129932,Simon Wheeldon,1,31,183,84,71
 129933,Adam Wheeler,1,27,191,96,1096
 129934,Blake James Wheeler,1,27,196,93,1096
-129935, Robert Tomlinson Bob Wheeler, III ,1,20,183,68,1096
+129935, Robert Tomlinson Bob Wheeler,1,20,183,68,1096
 129936, Christopher James Chris Wheeler ,1,22,0,0,66
 129937,Erica L Wheeler,2,28,172,68,1096
 129938,George Edward Wheeler,1,21,0,0,1096
@@ -62180,7 +62180,7 @@
 129966, Michael Mike Whitaker ,1,20,188,77,174
 129967,Pernell Whitaker,1,20,165,60,1096
 129968,Sean Whitaker,1,18,190,106,498
-129969, Fatima N (Fatma-) Whitbread (Vedad-, -Norman) ,2,19,168,68,413
+129969, Fatima N (Fatma-) Whitbread (Vedad-Norman) ,2,19,168,68,413
 129970,Frederick William Whitbread,1,0,0,0,413
 129971,Mark Whitby,1,18,179,69,413
 129972,Andrea Whitcombe,2,29,164,47,413
@@ -62191,7 +62191,7 @@
 129977,Alex White,2,24,168,57,967
 129978,Amy Lee White (-Ballidis),2,15,172,57,1096
 129979, Isabel Mary Belle White ,2,17,0,0,413
-129980, William Harrison Bill White, III ,1,28,178,77,1101
+129980, William Harrison Bill White,1,28,178,77,1101
 129981, Robert Charles Bob White ,1,20,185,83,174
 129982, Robert Graham Bobby White ,1,29,192,92,413
 129983,Brenda S White (-Smith),2,26,173,59,1096
@@ -62230,7 +62230,7 @@
 130016, Rosemary Eleanor Florence Rosie White ,2,19,165,63,716
 130017,Ruth Carlita White (-Hooker),2,21,170,59,1096
 130018,Shaun Roger White,1,19,175,70,1096
-130019, Sumner Wheeler White, III ,1,22,0,0,230
+130019, Sumner Wheeler White,1,22,0,0,230
 130020,Sylvia Josephine White (-Blaine),2,20,162,59,1096
 130021,Tanya White,2,28,176,83,66
 130022,Tarnee Renee White (-Southwell),2,19,165,58,66
@@ -62295,7 +62295,7 @@
 130081,Ralph John Whitney,1,27,180,75,1096
 130082, Ronald Howard Ron Whitney ,1,26,187,78,1096
 130083,Ryan Whitney,1,26,193,100,1096
-130084, Emelyn Thatcher Whiton (Leonard-, -Righter) ,2,36,0,0,593
+130084, Emelyn Thatcher Whiton (Leonard-Righter) ,2,36,0,0,593
 130085,Herman Frasch Whiton,1,24,0,0,373
 130086, Alexandra Sandra Whittaker ,2,21,168,52,413
 130087,Albert James Whittall,1,26,0,0,947
@@ -62501,7 +62501,7 @@
 130287,Ulla-Britt Wieslander (-Rosberg),2,18,168,54,1012
 130288,Heidi Wiesler,2,23,165,58,1150
 130289,Linden Wiesman,2,25,175,64,1096
-130290, Judith Wiesner (Plzl-, -Floimair) ,2,26,170,65,71
+130290, Judith Wiesner (Plzl-Floimair) ,2,26,170,65,71
 130291, Kenneth George Ken Wiesner ,1,27,192,91,1096
 130292,Markus Wiesner,1,23,175,74,1019
 130293,Paul Wiesner,1,44,0,0,57
@@ -62795,7 +62795,7 @@
 130581, David Desmond Des Williams ,1,20,0,0,967
 130582,Desai Williams,1,25,175,72,174
 130583,Desmond Williams,1,21,174,71,925
-130584, Richard Norris Dick Williams, III ,1,33,182,0,1096
+130584, Richard Norris Dick Williams,1,33,182,0,1096
 130585,Donald Scott Williams,1,25,185,86,413
 130586,Edward Gustave Williams,1,25,183,75,1096
 130587,Edward Gordon Williams,1,19,0,81,170
@@ -62841,7 +62841,7 @@
 130627,Liam Williams,1,20,162,50,498
 130628, Brenda Lilian Williams (Mander-, Hickman-) ,2,61,162,53,413
 130629,Lincoln Alexander Williams,1,18,200,104,66
-130630, Lynn Alfred Lindsay Williams, III ,1,25,189,93,410
+130630, Lynn Alfred Lindsay Williams,1,25,189,93,410
 130631,Lindsay Williams,1,26,170,70,414
 130632,Lindsay Ann Williams,2,21,165,64,1096
 130633,Lucinda Williams (-Adams),2,19,166,51,1096
@@ -62915,7 +62915,7 @@
 130701,Yvette Winifred Williams (-Corlett),2,23,176,65,716
 130702, Zachary Zac Williams ,1,21,180,89,716
 130703,Zekaria Williams,1,23,160,51,234
-130704, Bernard Rollen Williams, III ,1,22,183,81,1096
+130704, Bernard Rollen Williams,1,22,183,81,1096
 130705, Ricardo Williams ,1,19,170,63,1096
 130706,Tonique Williams-Darling,2,24,168,59,80
 130707,Novlene Hilaire Williams-Mills,2,22,168,57,511
@@ -62942,7 +62942,7 @@
 130728,Andrew Willis,1,21,188,85,413
 130729,Arthur Gilbert de Laval Willis,1,30,0,0,413
 130730, Robert Bob Willis ,1,25,193,80,1096
-130731, Dixie Isabel Willis (-Ingram, -Carbon, -Booth) ,2,18,169,51,66
+130731, Dixie Isabel Willis (-IngramCarbonBooth) ,2,18,169,51,66
 130732,Erica May Willis,2,22,0,0,66
 130733,Frank Martin Willis,1,20,0,0,174
 130734, Nicholas Ian Nick Willis ,1,21,183,68,716
@@ -62970,7 +62970,7 @@
 130756,Andrew Willows,1,23,188,88,174
 130757,Jean Wilhelm Willrich,1,31,0,0,1096
 130758, Alan James Al Wills ,1,27,179,84,413
-130759, Helen Newington Wills (-Moody, -Roark) ,2,18,0,0,1096
+130759, Helen Newington Wills (-MoodyRoark) ,2,18,0,0,1096
 130760, Harold A Harry Willsie ,1,35,174,80,174
 130761,Charles Henry Willumsen,1,29,0,0,273
 130762,David Wilman,1,29,175,68,413
@@ -63086,7 +63086,7 @@
 130872,Nickiesha Wilson,2,22,174,66,511
 130873,Nicola Wilson,2,35,177,64,413
 130874,Nile Wilson,1,20,166,60,413
-130875, Norma Wilson (-Morgan, -Marsh) ,2,18,0,0,716
+130875, Norma Wilson (-MorganMarsh) ,2,18,0,0,716
 130876,Peter Robert Russell Wilson,1,25,198,90,413
 130877,Peter James Wilson,1,26,185,84,413
 130878,Peter Wilson,1,19,196,77,174
@@ -63278,7 +63278,7 @@
 131064, Frederick Fred Winters ,1,0,176,105,1096
 131065,Herbert Winters,1,23,170,69,399
 131066,Peter Winters,1,19,183,73,96
-131067, Frank Thomas Tom Winters, III ,1,20,178,70,1096
+131067, Frank Thomas Tom Winters,1,20,178,70,1096
 131068,Patrick Winterton,1,26,183,73,413
 131069,Arthur Winther,1,0,0,0,66
 131070,Gerhard Didlev Winther,1,35,0,0,742
@@ -63697,7 +63697,7 @@
 131483,Kelly Wood (-Schafer),2,24,154,58,413
 131484,Kelvin Wood,1,25,183,75,174
 131485, Kenneth Ken Wood ,1,26,178,67,413
-131486, Osie Leon Wood, III ,1,22,190,86,1096
+131486, Osie Leon Wood,1,22,190,86,1096
 131487, Mervyn Thomas Merv Wood ,1,19,0,0,66
 131488, Michael Brian Mike Wood ,1,37,182,77,967
 131489,Oenone Wood,2,23,158,55,66
@@ -63725,7 +63725,7 @@
 131511,Mark Raymond Woodforde,1,30,183,80,66
 131512,James Henry Woodget,1,33,0,0,530
 131513, Richard James Richie Woodhall ,1,20,185,71,413
-131514, Cynthia Lee Sippy Woodhead (-Kantzer, -Brennan) ,2,20,165,54,1096
+131514, Cynthia Lee Sippy Woodhead (-KantzerBrennan) ,2,20,165,54,1096
 131515,Danielle Woodhouse (Gusterson-),2,31,173,68,66
 131516,Helen Woodhouse,2,19,163,57,413
 131517, Robert Rob Woodhouse ,1,18,190,77,66
@@ -63936,14 +63936,14 @@
 131722,Pauline Wright,2,21,160,39,413
 131723,Peter Matthew Wright,1,23,188,75,1096
 131724,Peter W Wright,1,0,0,0,413
-131725, Raymond Garfield Wright, II ,1,21,186,87,1096
+131725, Raymond Garfield Wright,1,21,186,87,1096
 131726,Sara Lane Wright (-Adderly),2,31,173,70,111
 131727,Thelma Sonia Wright (Fynn-),2,20,153,48,174
 131728,Victoria Wright,2,30,168,56,362
 131729, Walter David Wright ,1,23,178,0,1096
 131730,Warwick Birch Wright,1,26,178,0,716
 131731,Joseph Warwick Wright,1,31,0,0,909
-131732, Webster M Wright, III ,1,21,183,68,1096
+131732, Webster M Wright,1,21,183,68,1096
 131733,William Hayden Wright,1,0,0,0,2
 131734, Joseph Walter Harris Joe Wright ,1,22,0,0,174
 131735, Verle Franklin Wright ,1,28,172,82,1096
@@ -64065,7 +64065,7 @@
 131851,Jean-Claude Ren Andr Dsir Wuillemin,1,21,180,0,362
 131852,Marcel Wuilleumier,1,27,0,0,1019
 131853,Madeleine Wuilloud (-Combelles),2,22,158,50,1019
-131854, Brigitte Wujak (Knzel-, -Pretzschner) ,2,25,169,60,302
+131854, Brigitte Wujak (Knzel-Pretzschner) ,2,25,169,60,302
 131855,Jerzy Wujecki,1,23,187,86,810
 131856,Jacob Wukie,1,26,180,73,1096
 131857, Wilhelm Willi Wlbeck ,1,21,186,69,1150
@@ -64102,7 +64102,7 @@
 131888,Anthonie Cornelis Wouter Wurth,1,25,185,80,705
 131889,Felix Wrth,1,24,0,0,71
 131890, Christin Christy Wurth-Thomas ,2,28,165,54,1096
-131891, Suzanne Wurtz (-Bert, -Voyez, -Lone) ,2,19,0,0,362
+131891, Suzanne Wurtz (-BertVoyezLone) ,2,19,0,0,362
 131892,Volkmar Wrtz,1,26,190,81,399
 131893, Deborah Joanne Debby Wurzburger ,2,18,167,59,174
 131894,Claudia Wurzel,2,25,180,66,507
@@ -64161,7 +64161,7 @@
 131947, Richard Dick Wyndham ,1,0,0,0,174
 131948,Ian Wynne,1,26,184,81,413
 131949,James Michael Wynne,1,19,0,0,1096
-131950, Marvell Wynne, II ,1,22,175,82,1096
+131950, Marvell Wynne,1,22,175,82,1096
 131951, Susan Elizabeth Susie Wynne (-Barth) ,2,22,157,52,1107
 131952, Lodewijk Lode Wyns ,1,21,174,72,96
 131953,Desai Wynter,1,22,181,79,1098
@@ -65639,7 +65639,7 @@
 133425,Yue Yuan,2,29,184,70,199
 133426, Shu Kee Steve Yuen ,1,24,170,58,470
 133427,German Vladimirovich Yuferov,1,25,188,79,978
-133428, Vera Yefimovna Yugova (-Zabelina, -Kuznetsova) ,2,19,0,0,978
+133428, Vera Yefimovna Yugova (-ZabelinaKuznetsova) ,2,19,0,0,978
 133429,Eizo Yuguchi,1,23,168,62,514
 133430,Kiyoo Yui,1,21,173,65,514
 133431,Nataliya Aleksandrovna Yukhareva,2,28,166,57,874
@@ -65846,7 +65846,7 @@
 133632,Vendela Elin Birgitta Zachrisson-Santn,2,26,176,68,1012
 133633,Nizar Zaciragi,1,25,0,0,133
 133634, Sarah M Sally Zack (-Endestad) ,2,26,160,50,1096
-133635, Claudia Hildegard Zaczkiewicz (Reidick-, -Reidick) ,2,26,170,57,1150
+133635, Claudia Hildegard Zaczkiewicz (Reidick-Reidick) ,2,26,170,57,1150
 133636,Teodor Zaczyk,1,36,168,69,810
 133637,Abdel Kader Zaddem,1,28,173,60,1070
 133638,Hussain Jabbar Zadegan,1,0,0,0,496
@@ -66245,7 +66245,7 @@
 134031,Hamzeh Zarini,1,30,198,91,496
 134032,Danis Zinnurovich Zaripov,1,28,185,84,874
 134033,Amina Vasilovna Zaripova (-Kortneva),2,19,176,52,874
-134034, Yuliya Mikhaylovna Zaripova (Ivanova-, -Zarudneva-) ,2,26,175,70,874
+134034, Yuliya Mikhaylovna Zaripova (Ivanova-Zarudneva-) ,2,26,175,70,874
 134035,Vasilios Zarkadis,1,0,0,0,1043
 134036,Malkhaz Zarkua,1,26,169,60,395
 134037,Marina Zarma,2,18,0,0,255
@@ -66510,7 +66510,7 @@
 134296,Vsevolods Zeonijs,1,19,172,76,567
 134297,Pteris Zelti,1,38,0,0,978
 134298,Bruno Zeltner,1,25,190,70,1019
-134299, Dita elvien (Babrauskait-, -Kareckien) ,2,28,0,0,591
+134299, Dita elvien (Babrauskait-Kareckien) ,2,28,0,0,591
 134300,Viktorija emaityt,2,23,185,71,591
 134301,Bohumr Zeman,1,18,178,72,259
 134302,Frantiek Zeman,1,25,176,71,259
@@ -66603,7 +66603,7 @@
 134389,Kathrin Zettel,2,19,167,61,71
 134390,Bertz Erik Olov Zetterberg,1,25,0,0,1012
 134391,Carl Henrik Zetterberg,1,21,183,86,1012
-134392, Yoko Karin Zetterlund (-Bush, -Hiroshi) ,2,23,180,65,1096
+134392, Yoko Karin Zetterlund (-BushHiroshi) ,2,23,180,65,1096
 134393,Olle Zetterstrom,1,30,0,0,1096
 134394,Zevegiin Dvchin,1,21,176,90,678
 134395,Zevegiin Oidov,1,22,168,62,678
@@ -67088,7 +67088,7 @@
 134874,Aleksey Vladimirovich Zhuk,1,24,187,83,978
 134875,Nina Alekseyevna Zhuk (Bakusheva-),2,25,0,0,979
 134876,Stanislav Alekseyevich Zhuk,1,25,0,0,979
-134877, Tatyana Alekseyevna Zhuk (-Shesternyova, -Sokolova) ,2,18,156,52,980
+134877, Tatyana Alekseyevna Zhuk (-ShesternyovaSokolova) ,2,18,156,52,980
 134878,Vitaly Ivanovich Zhuk,1,27,166,63,93
 134879,Oleksiy Zhukov,1,29,187,90,1084
 134880,Sergey Petrovich Zhukov,1,30,192,87,874
@@ -67106,7 +67106,7 @@
 134892,Nurbergen Batyrgalitovich Zhumagaziyev,1,23,172,64,535
 134893,Mansur Zhumayev,1,25,170,66,1123
 134894,Olena Hryhorivna Zhupina,2,22,164,56,1084
-134895, Olena Zhupiyeva-V'iazova (-Dershan, -Skachkova) ,2,28,163,51,978
+134895, Olena Zhupiyeva-V'iazova (-DershanSkachkova) ,2,28,163,51,978
 134896,Inna Oleksandrivna Zhurakovska (Syrota-),2,36,0,0,1088
 134897,Konstantin Borisovich Zhuravlyov,1,24,180,70,1123
 134898,Oleg Borisovich Zhuravlyov,1,18,184,74,1123
@@ -67139,7 +67139,7 @@
 134925,Barbara Ziba,2,16,154,47,810
 134926,Ludwik Ziba,1,22,172,68,810
 134927,Mris Ziedi,1,27,178,78,567
-134928, Nicole Nikki Ziegelmeyer (-Brown, -Meyer) ,2,16,173,61,1096
+134928, Nicole Nikki Ziegelmeyer (-BrownMeyer) ,2,16,173,61,1096
 134929,Nina Ziegenhals,2,19,166,55,399
 134930,Jean-Pierre Ziegert,1,27,175,70,1019
 134931, Edwin Edi Ziegler ,1,22,0,0,399
@@ -67156,7 +67156,7 @@
 134942,Sten Hugo Ziegler,1,22,187,76,273
 134943,Thomas Ziegler,1,27,180,85,1019
 134944,Franklin Zielecke,1,26,165,75,302
-134945, Teresa Zielewicz (-Lottspeich, -Neukom) ,2,34,176,69,71
+134945, Teresa Zielewicz (-LottspeichNeukom) ,2,34,176,69,71
 134946, Jacob Dirk Jaap Zielhuis ,1,38,189,100,705
 134947,Adrian Edward Zieliski,1,23,170,94,810
 134948,Andrzej Franciszek Zieliski,1,28,173,69,810
@@ -67226,7 +67226,7 @@
 135012,Werner Zimmer,1,22,0,0,879
 135013,Sabine Zimmer-Krantz,2,23,167,51,399
 135014,Wolfgang Zimmerer,1,27,178,75,1152
-135015, John Luther Zimmerman, IV ,1,28,183,83,1101
+135015, John Luther Zimmerman,1,28,183,83,1101
 135016,Robert Montague Zimmerman,1,26,0,0,174
 135017,Suzanne Winona Zimmerman (-Edwards),2,23,0,0,1096
 135018,Annemarie Zimmermann,2,24,170,65,399

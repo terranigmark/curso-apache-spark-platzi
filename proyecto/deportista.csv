@@ -794,7 +794,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 793,Panagiotis Adamidis,1,18,0,0,419
 794,Janusz Andrzej Adamiec,1,21,176,74,810
 795,Tomasz Adamiec,1,26,171,69.5,810
-796, Sabine Heidrun Adamik (Picken-, -Bothe) ,2,32,172,68,399
+796, Sabine Heidrun Adamik (Picken-Bothe) ,2,32,172,68,399
 797,Zoltn Adamik,1,23,175,71,477
 798,Pirouz Adamiyat,1,23,190,80,496
 799,Nafissatou Moussa Adamou,2,14,172,72,721
@@ -872,7 +872,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 871,Berkane Lakhdar Adda,1,21,178,78,15
 872,Elie Adda,1,0,0,0,308
 873,Mehdi Addadi,1,28,179,70,15
-874, Edith Addams de Habbelinck (-Lutjens, -Taylor, -Bel Geddes) ,2,20,0,0,96
+874, Edith Addams de Habbelinck (-LutjensTaylorBel Geddes) ,2,20,0,0,96
 875,Jenny Marie Beatrice Addams,2,19,0,0,96
 876,Jean Renaud Adde,1,37,181,70,362
 877,Yannick Adde,1,22,195,115,362
@@ -2384,7 +2384,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 2383,Janez Albreht,1,35,175,72,1178
 2384,Lothar Albrich,1,0,0,0,861
 2385, Christopher John Chris Albright ,1,21,185,81,1096
-2386, Tenley Emma Albright (-Gardiner, -Blakely) ,2,16,0,0,1096
+2386, Tenley Emma Albright (-GardinerBlakely) ,2,16,0,0,1096
 2387, David Donald Dave Albritton ,1,23,191,79,1096
 2388,Nicoleta Albu,2,23,183,76,861
 2389,Anatoly Mikhaylovich Albul,1,24,181,87,978
@@ -2779,7 +2779,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 2778,Imre Alker,1,22,155,52,477
 2779,Jasmine Alkhaldi,2,19,180,60,799
 2780,Alkindi,1,26,190,60,491
-2781, Robert Jeffrey Jeff Alkire, II ,1,22,185,91,1096
+2781, Robert Jeffrey Jeff Alkire,1,22,185,91,1096
 2782,David Alkon Gruspan,1,35,184,87,656
 2783,Edward Alknin,1,25,173,71,810
 2784,Fatim Alkrmova,2,14,175,60,74
@@ -2891,7 +2891,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 2890,Livingstone Alleyne,1,21,183,72,87
 2891,Natasha Lynette Barbara Alleyne (-Gibson),2,27,170,54,1065
 2892,Ade Franci Alleyne-Forte,1,23,180,73,1065
-2893, Lieselotte Lilo Anni Allgayer (Deutzer-, -Knig) ,2,36,0,0,399
+2893, Lieselotte Lilo Anni Allgayer (Deutzer-Knig) ,2,36,0,0,399
 2894,Derek Swithin Allhusen,1,54,180,71,413
 2895,Mosi Alli,2,19,159,51,1033
 2896,Yusuf Alli,1,19,185,80,722
@@ -3723,7 +3723,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 3722,Geir Andersen,1,19,175,75,742
 3723,Georg Arnfinn Andersen,1,25,190,112,742
 3724,Gjert Andersen,1,20,174,72,742
-3725, Greta Marie Andersen (-Sonnichsen, -Veress) ,2,21,0,0,273
+3725, Greta Marie Andersen (-SonnichsenVeress) ,2,21,0,0,273
 3726,Gunnar Tycho Langhof Andersen,1,21,168,0,273
 3727,Gunnar Andersen,1,22,0,0,742
 3728,Hans Christian Andersen,1,38,0,0,273
@@ -3750,7 +3750,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 3749gen Marius Andersen,1,26,0,0,742
 3750gen Wrnding Andersen,1,26,170,75,273
 3751,Kaj Andersen,1,28,185,108,273
-3752, Karen Margrete Andersen (Friis-, -Jrgensen) ,2,19,0,0,273
+3752, Karen Margrete Andersen (Friis-Jrgensen) ,2,19,0,0,273
 3753,Keld Jul Andersen,1,26,186,79,273
 3754,Kjerstin Andersen,2,29,179,82,742
 3755,Knud Erik Andersen,1,26,0,0,273
@@ -3955,7 +3955,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 3954,Per Magnus Andersson,1,26,180,80,1012
 3955,Malin Elisabeth Andersson,2,23,171,64,1012
 3956,Thord Markus Andersson,1,23,182,63,1012
-3957, Martha Louise Mrta Andersson (-Ingemansson, -Karlsson) ,2,23,0,0,1012
+3957, Martha Louise Mrta Andersson (-IngemanssonKarlsson) ,2,23,0,0,1012
 3958,Jan Martin Andersson,1,35,188,73,1012
 3959,Erik Mattias Andersson,1,34,186,95,1012
 3960,Olof Mauritz Andersson,1,21,0,73,1012
@@ -4059,7 +4059,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 4058,Daniel Andr,1,18,178,70,646
 4059, Georges Ivan Go Andr (Monnard-) ,1,18,188,85,362
 4060,Georges Jules Andr,1,47,0,0,362
-4061, Jacqueline Andr (Bonnet-, -Bennard) ,2,25,168,62,362
+4061, Jacqueline Andr (Bonnet-Bennard) ,2,25,168,62,362
 4062,Jacques Andr,1,29,0,0,362
 4063,Joo Duarte Fialho da Silva Andr,1,24,181,82,816
 4064, Georg Richard Jorge Andr Sanmann ,1,49,176,87,236
@@ -4417,7 +4417,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 4416,Koit Annamaa,1,23,190,101,331
 4417,Alfred Heacock Annan,1,29,0,0,1096
 4418,Alyson Regina Annan,2,19,162,65,66
-4419, Anne Elizabeth Alice Louise Mountbatten-Windsor (-Phillips, -Laurence) ,2,25,167,57,413
+4419, Anne Elizabeth Alice Louise Mountbatten-Windsor (-PhillipsLaurence) ,2,25,167,57,413
 4420,Mame-Ibra Anne,1,26,184,80,362
 4421,Adrien Anneet,1,19,0,0,96
 4422,Jolanda Annen,2,23,166,56,1019
@@ -4946,7 +4946,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 4945,Waldimiro Arcos Riera,1,20,175,75,249
 4946,Eugeniusz Arct,1,36,0,0,810
 4947,Sailom Ard,1,22,172,57,1037
-4948, Suzana Clara Ardeleanu (-Weissbck, -Tassi) ,2,34,165,55,861
+4948, Suzana Clara Ardeleanu (-WeissbckTassi) ,2,34,165,55,861
 4949,Karel Ardelt,1,31,0,0,259
 4950,Alice Jean Arden (-Hodge),2,22,170,61,1096
 4951,Daphne Arden (-Slater),2,22,167,60,413
@@ -5141,7 +5141,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5140,Olof Gustaf Armgarth,1,33,0,0,1012
 5141,Fernando Armin Lauffen,1,20,0,0,982
 5142,Ethel Isabel Armitage (MacLaren-),2,34,0,0,413
-5143, Heather Joy Armitage (-Young, -McClelland) ,2,19,171,64,413
+5143, Heather Joy Armitage (-YoungMcClelland) ,2,19,171,64,413
 5144, Elizabeth Mary Lizzie Armitstead (-Deignan) ,2,23,168,55,413
 5145,Regyna Armonas,2,20,176,70,174
 5146,George Denholm Armour,1,64,0,0,413
@@ -5197,7 +5197,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5196,Horst Arndt,1,22,0,0,399
 5197,Jirka Arndt,1,27,178,62,399
 5198,Judith Arndt,2,19,173,59,399
-5199, Maria Arndt (-Staworzyska, -Blank) ,2,22,170,62,810
+5199, Maria Arndt (-StaworzyskaBlank) ,2,22,170,62,810
 5200,Maximilian Arndt,1,26,180,93,402
 5201,Reinhardt Arndt,1,28,169,60,302
 5202,Eva Johanne Arndt-Riise,2,16,0,0,273
@@ -5520,7 +5520,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5519,Jnas rarinn sgeirsson,1,27,0,0,482
 5520,Sturla sgeirsson,1,28,182,80,482
 5521,Mudassar Asghar Saeed,1,24,176,74,770
-5522, Lucille Mary Ash (-McClure, -Klee) ,2,20,0,0,1107
+5522, Lucille Mary Ash (-McClureKlee) ,2,20,0,0,1107
 5523,Ronnie Ash,1,28,188,95,1096
 5524,Vitus Ashaba,1,29,173,59,1083
 5525, Walter Stuart Walt Ashbaugh ,1,23,188,77,1096
@@ -5538,7 +5538,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5537,Michael James Ashcroft,1,23,175,64,174
 5538,St George Ashe,1,28,0,0,413
 5539, William Nyman Bill Ashenfelter ,1,27,185,68,1096
-5540, Horace Ashenfelter, III ,1,29,178,66,1096
+5540, Horace Ashenfelter,1,29,178,66,1096
 5541,Simon Carl Asher,1,21,187,87,66
 5542, Geraldina Rachel Dina Asher-Smith ,2,20,164,55,413
 5543,Mohamed Asheri,1,29,170,60,496
@@ -5696,7 +5696,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5695,Mehdi Assous,1,18,152,51,15
 5696,M Astaburuaga,1,0,0,0,198
 5697,Jos Nicols Astacio,1,21,166,49,310
-5698, Alina (Galina-) Astafei (-Stavariu, -Kreiig) ,2,19,181,59,861
+5698, Alina (Galina-) Astafei (-StavariuKreiig) ,2,19,181,59,861
 5699,Anton Viktorovich Astakhov,1,29,176,85,874
 5700,Polina Hryhorivna Astakhova,2,20,166,56,978
 5701,Yevgeny Astanin,1,21,186,80,1123
@@ -5814,7 +5814,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5813,Derrick Atkins,1,24,185,88,80
 5814,Henrico O Atkins,1,22,173,60,87
 5815, Gillian Jill Atkins ,2,25,165,65,413
-5816, Edna Roxanne Roxy Atkins (Smith-, -Campbell, -Andersen) ,2,24,160,0,174
+5816, Edna Roxanne Roxy Atkins (Smith-CampbellAndersen) ,2,24,160,0,174
 5817,Alia Shanee Atkinson,2,15,172,71,511
 5818,Amy Atkinson,2,22,165,55,431
 5819,Carlyle Atkinson,1,19,0,0,413
@@ -5963,7 +5963,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 5962,Jean Fernando Augustin,1,20,180,75,646
 5963,Jean-Marc Augustin,1,23,172,54,362
 5964,Ludovic C Augustin,1,0,0,0,448
-5965, Dionisio Augustine, II ,1,24,153,65,345
+5965, Dionisio Augustine,1,24,153,65,345
 5966, Stephen Steve Augustine ,1,19,180,70,146
 5967,Jssica de Barros Augusto,2,26,162,44,816
 5968,Karl Magnus Augustson,1,27,185,100,1012
@@ -6538,7 +6538,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 6537,Bernhard Bachfisch,1,23,153,56,1150
 6538,Hovhannes Bachkov,1,23,173,64,55
 6539,Jozef Bachleda,1,20,181,73,941
-6540, Andrzej Bachleda-Curu, III ,1,23,179,78,810
+6540, Andrzej Bachleda-Curu,1,23,179,78,810
 6541,Andrzej Jan Bachleda-Curu,1,21,176,76,810
 6542,Jan Wojciech Bachleda-Curu,1,24,175,72,810
 6543,Reinhold Bachler,1,23,174,70,71
@@ -6884,7 +6884,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 6883, William James Bill Bailey ,1,20,0,0,413
 6884,Brandon Bailey,1,31,183,115,1065
 6885,Brian Walford Bailey,1,40,172,68,413
-6886, Chantal L Bailey (Dunn-, -Cermak) ,2,28,173,72,1096
+6886, Chantal L Bailey (Dunn-Cermak) ,2,28,173,72,1096
 6887, Christina Chris Bailey ,2,26,167,73,1096
 6888,Daniel Everton Bailey,1,17,179,68,38
 6889, David George Dave Bailey ,1,23,183,70,174
@@ -7548,7 +7548,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 7547,Kelcie Herron Banks,1,23,183,57,1096
 7548, Suzanne Jane Sue Banks (Muehlberg-) ,2,24,167,69,66
 7549,Wendy Banks,2,28,160,59,413
-7550, William Augustus Willie Banks, III ,1,28,190,77,1096
+7550, William Augustus Willie Banks,1,28,190,77,1096
 7551,Antal Bnkuti,1,25,183,70,477
 7552,rpd Bnkuti,1,22,0,0,477
 7553,Blair Cameron Bann,1,28,184,84,174
@@ -8229,7 +8229,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8228,Klmn Bartalis,1,47,0,0,477
 8229,Bla Bartalos,1,24,182,82,477
 8230,Caroline Bartasek,2,25,175,67,66
-8231, Jolanta Bartczak (-Maolepszy, -Skrzyszowska) ,2,24,169,57,810
+8231, Jolanta Bartczak (-MaolepszySkrzyszowska) ,2,24,169,57,810
 8232,ubo Barteko,1,25,183,86,941
 8233,Tom Bartek,1,30,192,88,259
 8234,Danka Bartekov,2,23,170,55,941
@@ -8267,7 +8267,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8266,Barbara Barthel,2,27,164,63,1150
 8267, Josef Henri Josy Barthel ,1,21,173,68,602
 8268,Mona Barthel,2,22,185,75,399
-8269, Zhenqi Barthel (Sun-, -Apolnia) ,2,21,164,62,399
+8269, Zhenqi Barthel (Sun-Apolnia) ,2,21,164,62,399
 8270,Yan Barthelem Varela,1,24,172,48,249
 8271,Laure Barthelemy,2,21,167,60,362
 8272,Richard Barthlemy,1,0,0,0,507
@@ -8313,7 +8313,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8312,Lszl Bartk,1,0,0,0,477
 8313,Michele Bartoli,1,26,180,70,507
 8314,Frank Bartolillo,1,22,165,67,66
-8315, Erica K Bartolina (Boren-, -Fraley) ,2,28,165,58,1096
+8315, Erica K Bartolina (Boren-Fraley) ,2,28,165,58,1096
 8316,Enzo Bartolini,1,22,0,0,507
 8317,Luigi Bartolini,1,56,0,0,507
 8318,Nello Bartolini,1,23,167,0,507
@@ -8858,7 +8858,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 8857,Alain Baxter,1,24,179,75,413
 8858,Alfred Baxter,1,25,0,60,413
 8859, Elizabeth Betty Baxter ,2,24,176,71,174
-8860, Virginia Day Ginny Baxter (-McKendrick, -Newman) ,2,19,0,0,1096
+8860, Virginia Day Ginny Baxter (-McKendrickNewman) ,2,19,0,0,1096
 8861,Gregory Baxter,1,16,179,62,174
 8862, Irving Knott Irv Baxter ,1,24,0,0,1096
 8863,James Baxter,1,37,0,0,686
@@ -9148,7 +9148,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 9147,Petre Becheru,1,24,164,83,861
 9148,Albert John Bechestobill,1,25,180,0,1096
 9149,Azouz Bechir,1,24,160,63,1070
-9150, Yelena Yuryevna Bechke (-Petrova, -Ellis) ,2,26,158,48,1090
+9150, Yelena Yuryevna Bechke (-PetrovaEllis) ,2,26,158,48,1090
 9151,Karl Felix John Bechler,1,22,0,0,399
 9152,Christoph Bechmann,1,24,190,88,399
 9153,John Andrew Becht,1,25,0,0,1096
@@ -9637,7 +9637,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 9636,Garry David Bell,1,23,172,59,716
 9637,Andrew Graham Bell,1,18,181,79,413
 9638, Gregory Curtis Greg Bell ,1,26,174,68,1096
-9639, Florence Isabel Jane Bell (-Walker, -Doane) ,2,17,169,58,174
+9639, Florence Isabel Jane Bell (-WalkerDoane) ,2,17,169,58,174
 9640,John H Bell,1,27,0,0,413
 9641,Jonathan Bell,1,29,178,77,498
 9642,Joseph-Antoine Bell,1,29,182,79,172
@@ -9768,7 +9768,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 9767,Esper Konstantinovich Beloselsky-Belozersky,1,41,0,0,383
 9768,Viktoriya Vladimirovna Beloslyudtseva,2,32,173,58,535
 9769,Frank Vern Belote,1,28,172,69,1096
-9770, Melissa Louise Belote (-Hamlin, -Ripley) ,2,15,171,60,1096
+9770, Melissa Louise Belote (-HamlinRipley) ,2,15,171,60,1096
 9771,Mara Amelia Belotti,2,27,180,73,45
 9772,Laura Belotti,2,17,168,54,507
 9773,Marco Belotti,1,19,185,76,507
@@ -10052,7 +10052,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 10051,Giovanni Benfratello,1,0,0,0,507
 10052,Izaskun Bengoa Prez,2,21,172,63,982
 10053,Mara Vernica Bengochea,2,27,170,62,45
-10054, Serge Bengono, II ,1,23,176,72,172
+10054, Serge Bengono,1,23,176,72,172
 10055, Deborah Debbie Bengtson ,2,15,177,51,174
 10056,Jerry Ricardo Bengtson Bodden,1,25,182,80,469
 10057,Knut Sverre Bengtson,1,29,172,85,732
@@ -10370,7 +10370,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 10369,Barbara Berezowski (-Ivan),2,21,0,0,175
 10370,Mykola Berezutskiy,1,23,191,80,978
 10371,Igor Andreyevich Berezutsky,1,20,188,78,874
-10372, Aina Berg (-Brolin, -Heinze) ,2,18,0,0,1012
+10372, Aina Berg (-BrolinHeinze) ,2,18,0,0,1012
 10373, Aki-Petteri Arvid Aki Berg ,1,20,191,94,350
 10374, Andr Antoine Anthony Berg ,1,0,0,0,363
 10375,Arne Berg,1,20,0,0,742
@@ -10520,7 +10520,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 10519,Alexander Bergmann,1,26,176,70,399
 10520,Arnfinn Bergmann,1,23,0,0,742
 10521,Christoph Bergmann,1,25,198,100,138
-10522, Elisabeth Bergmann (-Korentschnig, -Salzer) ,2,17,174,49,71
+10522, Elisabeth Bergmann (-KorentschnigSalzer) ,2,17,174,49,71
 10523,Fernand Bergmann,1,31,0,0,1019
 10524,Horst Bergmann,1,22,172,67,399
 10525,Ib Bergmann,1,23,175,83,273
@@ -10628,7 +10628,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 10627,Per Gunnar Brje Berlin,1,30,0,0,1012
 10628, Bernard Ernst Barney Berlinger ,1,20,186,91,1096
 10629,Ren Berlingeri,1,29,180,79,825
-10630, Monique Edith Berlioux (Libotte-, Poincarre-, -Groussard) ,2,22,0,0,362
+10630, Monique Edith Berlioux (Libotte-, Poincarre-Groussard) ,2,22,0,0,362
 10631,Carlos Alberto Berlocq,1,29,184,81,45
 10632,Gaper Berlot,1,19,184,70,944
 10633,Gregor Bermbach,1,28,183,95,402
@@ -11341,7 +11341,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 11340,Ferdinand Reinhardt Bie,1,24,174,72,742
 11341,Matthias Bieber,1,27,181,85,1019
 11342,Arno Bieberstein,1,21,0,0,399
-11343, Heidi Biebl (-Schmid, -Prelevi) ,2,19,159,56,399
+11343, Heidi Biebl (-SchmidPrelevi) ,2,19,159,56,399
 11344, Josef Sepp Biebl ,1,23,0,0,399
 11345,Anni Biechl (-Capeller),2,20,163,60,399
 11346,Wilhelm Biechl,1,19,170,63,73
@@ -11435,7 +11435,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 11434,Milo Bigler,1,33,0,0,1019
 11435,Samuel Leo Bigler,1,29,170,82,1096
 11436,John Robinson Biglow,1,26,190,85,1096
-11437, Mary Denise Bignal-Rand (-Toomey, -Reese) ,2,20,173,61,413
+11437, Mary Denise Bignal-Rand (-ToomeyReese) ,2,20,173,61,413
 11438, Robert Francis Bob Bignall ,1,34,0,0,66
 11439, Herbert James Herb Bignall ,1,22,0,0,413
 11440,Stphan Bignet,1,29,180,71,362
@@ -11985,7 +11985,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 11984, Leslie Waughop Les Black ,1,24,175,0,174
 11985,Julie Lisa Black,2,21,164,50,413
 11986,Marilyn Mary Black (-Vassella),2,20,165,55,66
-11987, Edgar Newbold Black, IV ,1,27,183,71,1096
+11987, Edgar Newbold Black,1,27,183,71,1096
 11988,Roger Anthony Black,1,26,190,79,413
 11989,Sean Black,1,25,0,71,511
 11990,Sharon Lee Black,2,29,165,60,66
@@ -12060,7 +12060,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12059, Peter Steele Pete Blair ,1,24,188,141,1096
 12060,Robert James Blair,1,23,187,79,415
 12061,Rosetta Phoebe Blair-White (Newell-),2,29,0,0,498
-12062, Julie Blaise (-Olnus, -Muller) ,2,16,187,64,362
+12062, Julie Blaise (-OlnusMuller) ,2,16,187,64,362
 12063, Berndt Stephan Ben Blaisse ,1,24,0,0,705
 12064,Robbert Stephan Blaisse,1,19,0,0,705
 12065,Steven Joseph Blaisse,1,20,180,72,705
@@ -12087,7 +12087,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12086,Yohan Blake,1,22,180,80,511
 12087,Cori Lyn Blakebrough,2,33,174,61,174
 12088,Peter Blakeley,1,25,183,84,174
-12089, Margot Victoria Blakely (-Bursill, -Hawley) ,2,17,163,70,716
+12089, Margot Victoria Blakely (-BursillHawley) ,2,17,163,70,716
 12090,Stuart S Blakely,1,19,0,0,716
 12091,Laura Kate Blakeman,2,21,160,56,413
 12092,Henry Edward Hugh Blakeney,1,21,0,0,413
@@ -12195,7 +12195,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12194,Ryszard Zenon Blaszka,1,25,176,83,810
 12195,Miroslav Blat'k,1,27,182,77,256
 12196,Michael Benjamin Blatchford,1,22,178,82,1096
-12197, Nathaniel Hopkins Neil Blatchford, IV ,1,22,183,80,1096
+12197, Nathaniel Hopkins Neil Blatchford,1,22,183,80,1096
 12198, Samuel Sam Blatherwick ,1,19,0,0,413
 12199,Wilfred E Blatherwick,1,33,0,0,1096
 12200, Jeffrey Carl Jeff Blatnick ,1,27,189,120,1096
@@ -12353,7 +12353,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12352,Hctor Blondet Texidor,1,25,195,91,825
 12353,Pierre Auguste Blondiaux,1,30,0,0,362
 12354,Ivanie Lise Blondin,2,23,165,56,174
-12355, Liudmyla Blonska (Kovalenko-, -Kovalova) ,2,25,174,64,1084
+12355, Liudmyla Blonska (Kovalenko-Kovalova) ,2,25,174,64,1084
 12356,Liudmyla Leonidivna Blonska (Shevchuk-),2,30,175,62,1084
 12357, Edward Johnston Ed Blood ,1,23,0,0,1096
 12358,Maurice Blood,1,38,0,0,413
@@ -12368,7 +12368,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12367, David Donald Doodie Bloomfield ,1,29,178,0,174
 12368, Geoffrey Geoff Bloomfield ,1,44,173,69,66
 12369, Sarah Sally Bloomfield ,2,28,168,67,413
-12370, Martina Blos (-Schemmel, -Pfller) ,2,19,169,57,302
+12370, Martina Blos (-SchemmelPfller) ,2,19,169,57,302
 12371,Artem Oleksiyovych Bloshenko,1,27,187,100,1084
 12372,Marc Blouin,1,23,188,81,174
 12373,Mlanie Blouin,2,22,175,64,174
@@ -12531,7 +12531,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12530,Wiesaw Bocheski,1,24,192,99,810
 12531,Herbert Oskar Bcher,1,25,172,63,399
 12532,Eugenio Boches Camey,1,29,176,70,433
-12533, Liston Donneal Bochette, III ,1,34,196,96,826
+12533, Liston Donneal Bochette,1,34,196,96,826
 12534,Nataliya Valeryevna Bochina,2,18,173,55,978
 12535,Yelyzaveta Valerivna Bochkarova,2,34,170,62,1084
 12536,Arkady Andreyevich Bochkaryov,1,25,0,0,978
@@ -12691,7 +12691,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12690, Elmer Julius Boeseke ,1,28,0,0,1096
 12691,Lasse Motzkus Boesen,1,28,191,99,273
 12692, Robert Raymond Bob Boeser ,1,20,0,0,1096
-12693, Martina Boesler (-Kirchner, -Wieduwilt) ,2,23,175,70,302
+12693, Martina Boesler (-KirchnerWieduwilt) ,2,23,175,70,302
 12694,Petra Boesler (-Wach),2,20,174,69,302
 12695,Gustave Boesman,1,29,0,0,96
 12696,Dirk Boest Gips,1,35,0,0,705
@@ -12782,7 +12782,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12781,Galina Yevgenyevna Bogomolova,2,22,163,46,874
 12782,Tatyana Sergeyevna Bogomyagkova,2,24,165,61,874
 12783,Maria Lenua Bogoslov,2,21,0,0,863
-12784, Olga Mikhaylovna Bogoslovskaya (Naumkina-, -Guberniyeva, -Vasilyeva) ,2,28,166,54,1088
+12784, Olga Mikhaylovna Bogoslovskaya (Naumkina-GuberniyevaVasilyeva) ,2,28,166,54,1088
 12785,Erika Bogovic (-Streb),2,26,166,56,71
 12786,Steffen Bogs,1,22,189,89,302
 12787,Tom Frank Bogs,1,19,176,72,273
@@ -12878,7 +12878,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 12877,Xavier Boissy,1,28,0,59,911
 12878,Martine Evelyne Boisvert,2,21,157,52,174
 12879,Serge Boisvert,1,28,175,82,174
-12880, Cristina Boi (-Sandru, -Parjol) ,2,24,180,70,861
+12880, Cristina Boi (-SandruParjol) ,2,24,180,70,861
 12881,Geoffrey Sila Kibet Boit,1,0,0,0,537
 12882, Michael Kipsubut Mike Boit ,1,23,180,68,537
 12883,Philip Kimely Boit,1,26,180,70,537
@@ -13418,7 +13418,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 13417,Alain Bordeleau,1,27,177,63,174
 13418,Paulin Bordeleau,1,35,178,74,362
 13419,Amanda Kathleen Borden (-Cochran),2,19,0,0,1096
-13420, Gail Borden, II ,1,24,0,0,1096
+13420, Gail Borden,1,24,0,0,1096
 13421, William Dean Bill Borders ,1,22,0,0,1096
 13422, Patrick Lance Pat Borders ,1,37,185,91,1096
 13423,Roberto Jos Bordeu Baliero,1,20,0,0,45
@@ -13852,7 +13852,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 13851,Carlos Botn Polanco,1,20,0,0,982
 13852,Diego Botn Sanz de Sautuola Le Chever,1,22,183,81,982
 13853,Louis Marcel Botinelly,1,49,0,0,362
-13854, Molly Ray Botkin (-Rossiter, -Trees) ,2,16,173,61,1096
+13854, Molly Ray Botkin (-RossiterTrees) ,2,16,173,61,1096
 13855,Christine Botlogetswe,2,20,170,65,135
 13856,Anita Botnen (-Fisher),2,19,165,53,174
 13857,Andrs Botos,1,20,166,60,477
@@ -13991,7 +13991,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 13990,Noureddine Boughanmi,1,23,172,57,1070
 13991,Oussama Al-Boughanmi,1,22,185,87,1070
 13992,Thelma May Boughner,2,17,0,0,174
-13993, Helen Boughton-Leigh (Bendelari-, -McAlpin) ,2,30,0,0,1096
+13993, Helen Boughton-Leigh (Bendelari-McAlpin) ,2,30,0,0,1096
 13994,Antonios Bougiouris,1,26,180,81,419
 13995,Gilbert Bougnol,1,33,0,0,362
 13996,Ren Bougnol,1,21,168,0,362
@@ -14529,7 +14529,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 14528,James S Brady,1,0,0,0,498
 14529, James H Jim Brady ,1,29,185,86,1096
 14530,Joseph J Brady,1,0,0,0,994
-14531, Rhonda Arnetta Brady (-Gilles, -Anderson) ,2,17,155,56,1096
+14531, Rhonda Arnetta Brady (-GillesAnderson) ,2,17,155,56,1096
 14532, Hippolyte Pol Braekman ,1,28,183,75,96
 14533,Eduard Braesecke,1,30,0,0,399
 14534,Alberto Pereira Braga,1,23,0,0,138
@@ -14652,7 +14652,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 14651,Hans Brandner,1,22,183,86,1151
 14652,Oscar Brandon,1,24,182,75,1006
 14653,Terry Michael Brands,1,32,162,58,1096
-14654, Thomas Nelson Tom Brands, II ,1,28,165,62,1096
+14654, Thomas Nelson Tom Brands,1,28,165,62,1096
 14655,Eirik Brandsdal,1,27,181,0,742
 14656,Odd Arne Brandsegg,1,27,169,69,1012
 14657,Jacob Brandsma,1,25,0,0,705
@@ -14753,7 +14753,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 14752,Sarah-Anne Brault,2,26,171,65,174
 14753,Bohuslav Braum,1,24,196,148,259
 14754,Ellen Braumller (-Hassauer),2,21,170,68,399
-14755, Ingeborg Inge Braumller (-Betz, -Machts) ,2,18,168,60,399
+14755, Ingeborg Inge Braumller (-BetzMachts) ,2,18,168,60,399
 14756,Andr Spatz Braun,1,36,178,128,602
 14757,Anton Braun,1,22,202,104,399
 14758,Gaston Braun,1,32,0,0,97
@@ -14857,7 +14857,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 14856,Peter Bredl,1,21,188,87,71
 14857,Hans Bredmose,1,19,0,0,273
 14858,Reinhard Bredow,1,20,166,64,304
-14859, Llewelyn Neaman Bredwood, III ,1,24,178,77,511
+14859, Llewelyn Neaman Bredwood,1,24,178,77,511
 14860,Andrew Patrick Bree,1,19,200,95,498
 14861,George Horace Breed,1,35,168,0,1096
 14862,Elaine Breeden (-Penrose),2,19,180,73,1096
@@ -15236,7 +15236,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15235,Patricia Brocker (Grigoli-),2,30,165,55,399
 15236,Belle Brockhoff,2,21,170,70,66
 15237,Peter Brockhoff,1,23,0,0,66
-15238, Ella Gertrud Auguste Ellen Brockhft (Rehra-, -Henseler) ,2,34,0,0,399
+15238, Ella Gertrud Auguste Ellen Brockhft (Rehra-Henseler) ,2,34,0,0,399
 15239,Jeremy Russell Brockie,1,20,183,82,716
 15240,Norman Brckl,1,21,183,90,399
 15241,Andreas Brockmann,1,24,177,77,399
@@ -15410,7 +15410,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15409,Peter Broscienski,1,18,0,0,1150
 15410,Dario Brose,1,22,170,70,1096
 15411, Carleton Lyman Carl Brosius ,1,43,0,97,1096
-15412, John Teahan Jack Brosius, III ,1,32,183,81,1096
+15412, John Teahan Jack Brosius,1,32,183,81,1096
 15413,Klaus-Ludwig Brosius,1,24,190,78,1150
 15414,Max Brske,1,29,0,0,110
 15415,Gabriela Broskov (Zamikov-),2,22,167,56,941
@@ -15506,7 +15506,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15505,Denise Brown (-Hinton),2,21,175,64,413
 15506,Derek Dwane Brown,1,26,188,79,1096
 15507,Devon Myles William Brown,1,24,188,80,967
-15508, Doris Elaine Brown (Severtson-, -Heritage) ,2,26,163,51,1096
+15508, Doris Elaine Brown (Severtson-Heritage) ,2,26,163,51,1096
 15509, Charles Douglas Doug Brown ,1,20,188,69,1096
 15510,Dustin Brown,1,31,196,78,399
 15511,Dustin James Brown,1,25,183,94,1096
@@ -15544,7 +15544,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15543, Jonathan Michael Jon Brown ,1,25,175,57,413
 15544,Jorge Diego Brown,1,0,0,0,238
 15545, Joseph Joe Brown ,1,27,0,0,1096
-15546, Judith Lynne Judi Brown (-King, -Clarke) ,2,23,180,67,1096
+15546, Judith Lynne Judi Brown (-KingClarke) ,2,23,180,67,1096
 15547,Julie Ann Brown,2,29,168,49,1096
 15548,Karen Brown,2,25,170,56,413
 15549,Kelly Brown,2,18,152,45,174
@@ -15579,7 +15579,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15578,Rodney Brown,1,39,180,77,66
 15579,Roger Fergus Brown,1,24,203,93,413
 15580, Ronald James Ron Brown ,1,23,180,84,1096
-15581, Rosemary Edith Brown (-Alexander, -Fydler) ,2,19,173,62,66
+15581, Rosemary Edith Brown (-AlexanderFydler) ,2,19,173,62,66
 15582,Sandra Elizabeth Brown (-Webb),2,22,180,70,66
 15583,Shandria Brown,2,21,168,63,80
 15584,Shelley-Ann Brown,2,29,173,75,176
@@ -15935,7 +15935,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 15934,Frantiek Brzk (-Felek),1,21,0,0,259
 15935,Jan Brzk-Felix,1,24,0,0,259
 15936,Jerzy Jzef Brzczek,1,21,174,72,810
-15937, Magdalena Brzeska (-Peschel, -Sabolocka) ,2,18,173,48,399
+15937, Magdalena Brzeska (-PeschelSabolocka) ,2,18,173,48,399
 15938,Anna Brzeziska,2,21,171,57,810
 15939,Marcin Mariusz Brzeziski,1,24,194,98,810
 15940,Patryk Radosaw Brzeziski,1,23,195,77,810
@@ -16305,7 +16305,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 16304,Anders Peter Bkk,1,20,160,53,1012
 16305,Brigita Bukovec,2,22,168,55,944
 16306,Konrad Bukowiecki,1,19,191,138,810
-16307, Dorota Bukowska (-Roek, -Szwichtenberg) ,2,28,185,80,810
+16307, Dorota Bukowska (-RoekSzwichtenberg) ,2,28,185,80,810
 16308,Helena Teodora Bukowska-Szlekys,2,49,0,0,810
 16309,John Michael Bukowski,1,21,183,70,66
 16310,Piotr Bukowski,1,29,187,83,399
@@ -16525,7 +16525,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 16524,Albert Burger,1,20,176,70,1150
 16525, Michiel Daniel Danie Burger ,1,23,0,0,967
 16526,Erna Brger,2,27,0,0,399
-16527, Friederike Fritzi Burger (-Nishikawa-, -Russell) ,2,17,157,0,71
+16527, Friederike Fritzi Burger (-Nishikawa-Russell) ,2,17,157,0,71
 16528,Frohmund Gert Burger Buguch,1,22,175,73,1128
 16529,Heinrich Burger,1,26,0,0,399
 16530,Karl Burger,1,28,0,0,399
@@ -16714,7 +16714,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 16713,Ilya Alekseyevich Burov,1,22,174,76,874
 16714,Olga Mikhaylovna Burova-Chernyavskaya (Davydova-),2,28,184,90,1088
 16715,Henry George Burr,1,40,0,0,413
-16716, Jannette Weston Burr (-Bray, -Johnson) ,2,24,172,60,1096
+16716, Jannette Weston Burr (-BrayJohnson) ,2,24,172,60,1096
 16717,Leslie Michele Burr-Howard (-Leneghan-),2,27,167,55,1096
 16718,John Burra,1,22,162,56,1033
 16719,lvaro Burrell Busto,1,23,191,84,982
@@ -16823,7 +16823,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 16822,Karl-Heinz Buert,1,21,194,84,302
 16823,Barbara Bush,2,24,160,53,174
 16824, Donald David Dave Bush ,1,21,175,63,1096
-16825, Lesley Leigh Bush (-Hickcox, -Makepeace) ,2,17,163,52,1096
+16825, Lesley Leigh Bush (-HickcoxMakepeace) ,2,17,163,52,1096
 16826,Michelle Bush (-Cuke),2,26,157,48,183
 16827,Fatmir Bushi,1,28,0,67,8
 16828,Andrey Vasilyevich Bushkov,1,28,183,82,877
@@ -16918,7 +16918,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 16917,Frank Marchant Butler,1,28,194,104,967
 16918,Geoffrey Butler,1,20,188,84,183
 16919,Guy Montagu Butler,1,20,0,0,413
-16920, Gweneth Leigh Butler (-Benn, -Bailey) ,2,20,0,0,413
+16920, Gweneth Leigh Butler (-BennBailey) ,2,20,0,0,413
 16921, John Jack Butler ,1,0,0,0,413
 16922, James Jon Jim Butler ,1,21,193,77,1096
 16923,Jimmy Butler III,1,26,201,99,1096
@@ -17053,7 +17053,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 17052,George Albert Byers,1,40,174,64,1096
 17053,Laurence John Byers,1,23,185,78,716
 17054,Peter William Byers,1,20,183,87,716
-17055, Debra Elizabeth Debbie Byfield (-White, -Russell) ,2,18,168,52,511
+17055, Debra Elizabeth Debbie Byfield (-WhiteRussell) ,2,18,168,52,511
 17056,Jens Pontus Byggmark,1,24,180,85,1012
 17057, Phillip George Phil Bygrave ,1,27,182,73,716
 17058, Alberto Jackson Byington ,1,21,0,0,138
@@ -17232,7 +17232,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 17231, Raymond Ray Cadieux ,1,22,178,77,174
 17232,Sylvain Cadieux,1,17,182,77,174
 17233,Ernest Cadine,1,26,167,82,362
-17234, Dorothy Cadman (Sharpe-, -Wingate-Saul) ,2,27,0,0,413
+17234, Dorothy Cadman (Sharpe-Wingate-Saul) ,2,27,0,0,413
 17235,John Frank Cadman,1,30,180,75,413
 17236,Levi Asher Cadogan,1,20,181,78,87
 17237,Albert Cadot,1,0,0,0,560
@@ -17312,7 +17312,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 17311,Alan John Cain,1,37,183,71,377
 17312,Carl Cecil Cain,1,22,190,86,1096
 17313, Deborah Margaret Debra Cain (-Kenner) ,2,16,165,58,66
-17314, Elizabeth Jane Cain (-Carlow, -Lynch) ,2,17,0,0,66
+17314, Elizabeth Jane Cain (-CarlowLynch) ,2,17,0,0,66
 17315, Lawrence J Larry Cain ,1,21,182,83,174
 17316,Peter Christian Cain,1,21,0,0,66
 17317,Sharon D Cain,2,28,172,59,1096
@@ -17969,7 +17969,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 17968,Aldo Canti,1,23,185,80,362
 17969,Alfonso Canti,1,31,162,67,507
 17970,Dominique Fabien Canti,1,21,177,76,889
-17971, Daniel James Dan Cantillon, II ,1,23,180,79,1096
+17971, Daniel James Dan Cantillon,1,23,180,79,1096
 17972,Jean Pierre Cantin,1,25,165,68,174
 17973,J R Serge Cantin,1,34,0,0,176
 17974,Sylvie Cantin,2,27,172,64,174
@@ -18151,7 +18151,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 18150,Ona Carbonell Ballestero,2,22,174,54,982
 18151,Rafael Carbonell Carrion,1,20,160,48,249
 18152,Toms Carbonell Llad,1,27,178,71,982
-18153, Linda Carbonetto (-Engel, -Villella) ,2,18,159,49,174
+18153, Linda Carbonetto (-EngelVillella) ,2,18,159,49,174
 18154,Gaetano Carboni,1,17,170,52,507
 18155,Jacques Carbonneau,1,23,0,0,174
 18156,Andr Carbonnelle,1,33,179,78,96
@@ -18215,7 +18215,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 18214,Maurice Carme,1,29,0,0,96
 18215,John Robert Carenza,1,22,193,95,1096
 18216,Jacques Carette,1,21,176,63,362
-18217, Patricia Sarina Patty Caretto (-Thompson, -Brown) ,2,17,160,56,1096
+18217, Patricia Sarina Patty Caretto (-ThompsonBrown) ,2,17,160,56,1096
 18218,Dillon Carew,1,21,176,63,440
 18219,Gordon Carew,1,18,163,60,440
 18220,John Carew,1,27,0,0,925
@@ -18574,7 +18574,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 18573,Alejandro Carrizo,1,22,0,0,1128
 18574,Pedro Damian Carrizo Albazeti,1,27,0,0,1121
 18575,Fernando Carro Morillo,1,24,170,60,982
-18576, Daniel Joseph Dan Carroll, III ,1,22,178,71,1096
+18576, Daniel Joseph Dan Carroll,1,22,178,71,1096
 18577, Daniel Brendon Dan Carroll ,1,21,0,0,65
 18578,Erin Carroll,2,22,162,57,66
 18579,Glenn Carroll,1,26,189,95,66
@@ -18668,7 +18668,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 18667,Louise Carton,2,22,172,57,96
 18668,Maurice Carton,1,0,0,0,952
 18669,Jacques Ulysse Cartonnet,1,20,168,0,362
-18670, Elta Cartwright (-Stromberg, -Henricksen) ,2,20,165,48,1096
+18670, Elta Cartwright (-StrombergHenricksen) ,2,20,165,48,1096
 18671,James Cartwright (-Garland),1,24,178,72,174
 18672,Deirdre Susan Caruana (-Farrugia),2,19,160,54,624
 18673,Guglielmo Carubbi,1,19,0,0,507
@@ -19047,7 +19047,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19046,Mojca Cater (-Herman),2,18,165,53,174
 19047,Dale Caterson,1,27,160,50,66
 19048,Valeria Ctescu (Avram-),2,26,175,76,861
-19049, Ethel Hannah Catherwood (-McLaren, -Mitchell) ,2,20,178,58,174
+19049, Ethel Hannah Catherwood (-McLarenMitchell) ,2,20,178,58,174
 19050,Sarah Louise Catherwood (-Jackson),2,16,177,0,716
 19051,Conradin Cathomen,1,24,173,73,1019
 19052,Adnan ati,1,21,180,71,399
@@ -19393,7 +19393,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19392,Nehomar Andrs Cermeo,1,21,168,54,1128
 19393,Jorge Roque Cermesoni,1,39,0,0,45
 19394,Hana ern (-Netrefov),2,18,172,60,259
-19395, Vra ern (-Matrasov, -Englerov) ,2,22,173,75,259
+19395, Vra ern (-MatrasovEnglerov) ,2,22,173,75,259
 19396,Alena ernkov,2,14,152,43,259
 19397,Nea erne,2,0,0,0,1178
 19398, Rudolf Rudi Cerne ,1,21,179,69,1150
@@ -19522,7 +19522,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19521,Jean-Marc Chabloz,1,24,192,82,1019
 19522,Yvonne Alice Chabot-Curtet,2,28,164,52,362
 19523,Fernando Chacarelli,1,27,172,64,45
-19524, Kimberly Ann Chace (-Boyle, -May) ,2,16,158,50,1096
+19524, Kimberly Ann Chace (-BoyleMay) ,2,16,158,50,1096
 19525,Rosa Alba Chacha Chacha,2,29,155,48,306
 19526,Mikhail Chachba,1,0,0,0,978
 19527,Ak'ak'i Chachua,1,30,168,60,395
@@ -19548,7 +19548,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19547,Louisa Chafee,2,24,165,57,1096
 19548,Walter Chaffe,1,38,0,0,530
 19549, Jonathan Knowlton Jon Chaffee ,1,23,183,68,1096
-19550, Frederick Stoddard Rick Chaffee, II ,1,23,178,73,1096
+19550, Frederick Stoddard Rick Chaffee,1,23,178,73,1096
 19551, Suzanne Stevia Suzy Chaffee ,2,21,173,63,1096
 19552,Lucy Chaffer,2,30,167,58,66
 19553,Ross Chaffer,1,28,179,85,66
@@ -19596,7 +19596,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19595,Alfred Ernest Chalk,1,25,0,0,1119
 19596,Anthony P Chalke,1,0,0,0,413
 19597, Benjamin Arthur Ben Challenger ,1,22,186,75,413
-19598, Malcolm Heribert Harry Challstorp (Kjellstorp-, -Chellstorp) ,1,24,183,0,1012
+19598, Malcolm Heribert Harry Challstorp (Kjellstorp-Chellstorp) ,1,24,183,0,1012
 19599,Angela Frances Chalmers (-Espinoza),2,25,170,56,174
 19600, Christopher Chris Chalmers ,1,20,188,70,174
 19601,Darren Chalmers,1,27,175,73,174
@@ -19623,7 +19623,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19622,Jean-Pierre Chambellan,1,25,161,55,362
 19623,Dirkie Chamberlain,2,25,169,68,967
 19624,Rafael Hugo Eugenio Ra Chamberlain Trejos,1,33,170,70,236
-19625, Marise Ann Millicent Chamberlain (-Stephen, -Schou) ,2,28,169,55,716
+19625, Marise Ann Millicent Chamberlain (-StephenSchou) ,2,28,169,55,716
 19626,Harry Dwight Chamberlin,1,32,0,0,1096
 19627,Frank Tolles Chamberlin,1,59,0,0,1096
 19628,Robert Chamberot,1,29,173,87,174
@@ -19831,7 +19831,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 19830, James Thomas Jim Chapin ,1,20,175,70,1096
 19831,Andrea Chaplin (-Barratt),2,20,163,62,66
 19832, Richard Ricki Chaplin ,1,24,168,67,413
-19833, Oscar Chaplin, III ,1,20,167,81,1096
+19833, Oscar Chaplin,1,20,167,81,1096
 19834,Valery Andreyevich Chaplygin,1,24,186,80,978
 19835,Allysha Chapman,2,27,160,56,174
 19836, Arthur St Clair Art Chapman ,1,23,191,0,174
@@ -20106,7 +20106,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 20105,Chee Swee Lee,2,21,165,53,929
 20106, William Joseph N Joey Cheek ,1,22,185,79,1096
 20107,Paul Cheema Singh,1,39,169,77,487
-20108, Chandra Danette Cheeseborough (-Shellman, -Guice) ,2,17,165,58,1096
+20108, Chandra Danette Cheeseborough (-ShellmanGuice) ,2,17,165,58,1096
 20109,Susan Cheesebrough,2,16,155,43,413
 20110,Gwen Wentz Cheeseman (-Alexander),2,32,157,58,1096
 20111,Maxwell Cheeseman,1,26,168,66,1065
@@ -20916,7 +20916,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 20915,Piotr Chmielewski,1,29,187,72,810
 20916,Wiesaw Jan Chmielewski,1,31,171,70,810
 20917,Wodzimierz Chmielewski,1,30,153,50,810
-20918, Lidia Teresa Chmielnicka (muda-, -Obonczek) ,2,29,170,60,810
+20918, Lidia Teresa Chmielnicka (muda-Obonczek) ,2,29,170,60,810
 20919,Andriy Chmil,1,33,178,74,1084
 20920,Mieczysaw Stefan Chmura,1,22,172,73,810
 20921,Sawomir Hubert Chmura,1,26,181,78,810
@@ -21753,9 +21753,9 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 21752,Diana Clapham,2,27,170,59,413
 21753,Charles Clapier,1,0,0,0,362
 21754,Austin Rhone Clapp,1,17,0,0,1096
-21755, Eugene Howard Gene Clapp, IV ,1,22,191,90,1096
+21755, Eugene Howard Gene Clapp,1,22,191,90,1096
 21756, Richard Keith Stubby Clapp ,1,31,173,80,174
-21757, Charles Elmer Clapp, III ,1,25,196,85,1096
+21757, Charles Elmer Clapp,1,25,196,85,1096
 21758,Charles Ellis Clapper,1,28,0,0,1096
 21759,Georges Marie Clappier,1,0,0,0,362
 21760,Frida Clara,2,27,0,0,507
@@ -21794,7 +21794,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 21793, Desmond Des Clark ,1,18,174,0,66
 21794,Duncan McDougall Munro Clark,1,33,181,95,413
 21795,Ellery Harding Clark,1,22,180,0,1096
-21796, Emory Wendell Clark, II ,1,26,193,91,1096
+21796, Emory Wendell Clark,1,26,193,91,1096
 21797, Frederick Ernest Ernie Clark ,1,26,0,0,413
 21798,Eugene Clark,1,26,0,0,1096
 21799,Frank Allan Clark,1,25,170,60,66
@@ -21984,7 +21984,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 21983,Arnaud Clment,1,22,172,72,362
 21984,Benoit Clment,1,20,178,70,174
 21985, Douglas Bruce Doug Clement ,1,18,0,0,174
-21986, Elspeth Catherine Clement (Swain-, -Denning) ,2,31,163,56,66
+21986, Elspeth Catherine Clement (Swain-Denning) ,2,31,163,56,66
 21987, Francis James Frank Clement ,1,24,180,66,413
 21988,Georges Claude Clment,1,0,0,0,362
 21989,Inge Clement,2,23,160,52,96
@@ -22036,7 +22036,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22035,Charles Thomas Clibbon,1,25,180,74,413
 22036,Leslie Cliff (-Tindle),2,17,173,60,174
 22037,Leslie Howard Talbot Cliff,1,27,0,0,414
-22038, Violet Hamilton Cliff (Supple-, -Moore) ,2,19,0,0,414
+22038, Violet Hamilton Cliff (Supple-Moore) ,2,19,0,0,414
 22039,Basil Clifford,1,26,188,79,498
 22040, Elisabeth Anne Betsy Clifford (-Higgins) ,2,14,162,57,174
 22041,Brian Clifford,1,16,185,85,498
@@ -22131,7 +22131,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22130,Franco Cobas Gonzlez,1,21,174,66,982
 22131,Yariulvis Cobas Garca,2,21,0,0,249
 22132,Jeffrey Cobb,1,22,178,84,431
-22133, Violet Madeleine Cobb (Weston-, -McGovern) ,2,24,157,51,413
+22133, Violet Madeleine Cobb (Weston-McGovern) ,2,24,157,51,413
 22134,Richard Cobbing,1,26,178,0,413
 22135,Guilherme Henrique Cobbo,1,25,180,65,138
 22136,Janet Marie Cobbs (-Mulholland),2,25,183,70,1096
@@ -22272,7 +22272,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22271,Sin Ernesto Chen Cattn,1,29,180,93,778
 22272, Stephen Robert Steve Cohen ,1,22,170,70,1096
 22273,Steven Jay Cohen,1,33,185,95,1096
-22274, Tiffany Lisa Cohen (-Adams, -Lalonde) ,2,18,175,63,1096
+22274, Tiffany Lisa Cohen (-AdamsLalonde) ,2,18,175,63,1096
 22275,Harvey Wright Cohn,1,19,172,61,1096
 22276,Norman Cudworth Cohn-Armitage,1,21,185,81,1096
 22277,Robert Cohu,1,24,190,95,362
@@ -22347,7 +22347,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22346,George William Coleman,1,35,0,0,413
 22347,Georgia V Coleman (-Gilson),2,16,0,0,1096
 22348,Glenn O Coleman,1,45,0,0,1096
-22349, Jacinta Joan Coleman (-Sweet, -Gray) ,2,26,167,55,716
+22349, Jacinta Joan Coleman (-SweetGray) ,2,26,167,55,716
 22350,Johannes Lodewyk Meyer Coleman,1,26,0,0,967
 22351, Leonard Leon Coleman ,1,24,188,82,1096
 22352,Lionel Maurice Coleman,1,18,0,0,174
@@ -22356,7 +22356,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22355,Michelle Elizabeth Coleman,2,18,186,74,1012
 22356, Philip Yates Phil Coleman ,1,25,180,70,1096
 22357,Robert Henry Schofield Coleman,1,36,0,0,29
-22358, William Will Coleman, III ,1,29,188,81,1096
+22358, William Will Coleman,1,29,188,81,1096
 22359,Zane Murray Coleman,1,23,180,74,716
 22360,Antonius Theodorus Colenbrander,1,35,0,0,705
 22361, Vernell Eufaye Bimbo Coles ,1,20,185,79,1096
@@ -22821,7 +22821,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22820, Charles Abbott Ab Conway ,1,21,0,0,174
 22821,Hollis Conway,1,21,183,68,1096
 22822,Jerome Conway,1,23,175,65,882
-22823, Joanne Conway (-Owers, -Dunn) ,2,16,162,57,413
+22823, Joanne Conway (-OwersDunn) ,2,16,162,57,413
 22824,Michael Conway,1,19,132,48,174
 22825,Michelle Lenore Conway,2,16,153,42,174
 22826, Patricia Pat Conway ,2,32,167,44,413
@@ -22903,7 +22903,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 22902,Hubert Coomans,1,34,0,0,96
 22903,Maurice Coomarawel,1,20,175,59,989
 22904, Alexandrea Andrea Alex Coomber (Hamilton-) ,2,28,162,51,413
-22905, Margaret Teresa Coomber (MacSherry-, -Baldwin) ,2,22,171,57,413
+22905, Margaret Teresa Coomber (MacSherry-Baldwin) ,2,22,171,57,413
 22906,Heather Margaret Coombridge,2,19,173,0,716
 22907,Eswort Lorenzo Brian Coombs,1,19,187,74,885
 22908,Joseph Coombs,1,24,185,80,1065
@@ -23182,7 +23182,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23181, Kathleen Margaret Kathy Corrigan (-Ekas) ,2,19,160,50,1096
 23182,Lisa Corrigan,2,23,166,48,66
 23183,Tania Louise Corrigan,2,34,157,54,716
-23184, Susan Ada Susie Corrock (-Zoberski, -Luby) ,2,20,163,55,1096
+23184, Susan Ada Susie Corrock (-ZoberskiLuby) ,2,20,163,55,1096
 23185, Daniel J Dan Corry ,1,45,0,0,498
 23186,Carlo Amerigo Corsanego,1,0,0,0,507
 23187,Mirko Corsano,1,26,190,87,507
@@ -23311,7 +23311,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23310,Rui Alberto Faria da Costa,1,25,183,68,816
 23311,Salvador Costa Fontclar,1,21,0,0,982
 23312,Samuel Costa,1,21,164,53,507
-23313, Silvia Costa Acosta (-Martnez, -Sanleandro) ,2,28,179,64,249
+23313, Silvia Costa Acosta (-MartnezSanleandro) ,2,28,179,64,249
 23314,Susana Cristina Sade da Costa,2,31,178,63,816
 23315,Venancio Costa Monge,1,24,0,0,982
 23316,Walter Costa,1,31,185,82,35
@@ -23350,7 +23350,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23349, Nicholas Nick Costes ,1,30,167,55,1096
 23350,Grigore Costescu,1,18,0,0,861
 23351,Daniela Costian,2,27,182,84,66
-23352, Candace Candy Costie (-Burke, -Merrill) ,2,21,162,50,1096
+23352, Candace Candy Costie (-BurkeMerrill) ,2,21,162,50,1096
 23353,Costiesco,1,0,0,0,362
 23354,Sandra Lee Costigan,2,24,167,60,1096
 23355,Gian Carlo Costigliolo,1,26,0,0,507
@@ -23369,7 +23369,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23368,Chantal Ct,2,23,152,59,174
 23369,Grard Ct,1,35,168,55,174
 23370,Langis Ct,1,23,168,70,174
-23371, Paul Thomas Ct, II ,1,28,190,89,174
+23371, Paul Thomas Ct,1,28,190,89,174
 23372,Waldemar Cotelo,1,32,173,60,1121
 23373,Elio Cotena,1,23,165,57,507
 23374,Antonio Cotichini,1,17,0,0,507
@@ -23419,7 +23419,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23418,Louis Gaston Coudurier,1,0,0,0,362
 23419,Carole Couesnon,2,21,165,51,362
 23420,Michel Coug,1,22,187,80,362
-23421, Angela Denise Coughlan (-Arusoo, -Sharp) ,2,16,168,59,174
+23421, Angela Denise Coughlan (-ArusooSharp) ,2,16,168,59,174
 23422,Eoin Coughlan,1,24,186,81,66
 23423, Gerald Noel Gerry Coughlan ,1,25,0,0,498
 23424,James Coughlan,1,25,183,78,716
@@ -23890,7 +23890,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 23889,Roy Cromack,1,28,185,74,413
 23890,Ibrain Crombet McKenzie,1,20,195,83,249
 23891,George C Crompton,1,22,0,0,174
-23892, Seymour Legrand Sy Cromwell, II ,1,30,193,89,1096
+23892, Seymour Legrand Sy Cromwell,1,30,193,89,1096
 23893, Thomas Francis Tom Cronan ,1,20,0,0,1096
 23894,Viktor Gustaf Crondahl,1,25,0,0,1012
 23895,Philipp Crone,1,23,173,82,399
@@ -24467,7 +24467,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 24466, Richard Rick Cuttell ,1,22,183,75,174
 24467,Geoffrey Michael Cutter,1,22,173,64,413
 24468, Christina Kiki Cutter ,2,18,160,47,1096
-24469, Harry Warren Skip Cutting, III ,1,18,183,80,1096
+24469, Harry Warren Skip Cutting,1,18,183,80,1096
 24470,Luke Arron Cutts,1,28,188,82,413
 24471,Dalibor utura,1,37,190,90,912
 24472,Zoran utura,1,26,202,97,1178
@@ -24620,7 +24620,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 24619, Victor Henry Augustus Vic d'Arcy ,1,24,172,63,413
 24620,Jacques d'Arlincourt,1,0,0,0,363
 24621,Andrea Mitchell D'Arrigo,1,21,194,85,507
-24622, Gay Kristine D'Asaro (Jacobsen- , -MacLellan) ,2,21,175,63,1096
+24622, Gay Kristine D'Asaro (Jacobsen- MacLellan) ,2,21,175,63,1096
 24623, Michael Anthony D'Asaro, Sr ,1,22,170,72,1096
 24624,Sergio D'Asnasch,1,22,0,0,507
 24625,Hugo Miguel Almeida Bizarro d'Assuno,1,25,175,71,816
@@ -24805,7 +24805,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 24804,Abdul Khadre Daff,1,22,180,90,911
 24805,Costic Dafinoiu,1,22,183,81,861
 24806,Artemis Dafni,2,16,171,60,419
-24807, Frances Helen Dafoe (-Melnik, -Bogin) ,2,22,0,0,174
+24807, Frances Helen Dafoe (-MelnikBogin) ,2,22,0,0,174
 24808,Ekaterina Stefanova Dafovska (-Prodanova),2,18,163,54,154
 24809,Yves-Matthieu Dafreville,1,26,186,81,362
 24810,Robert Daniel Marie Alfred Franois Dagallier,1,26,0,0,362
@@ -25152,8 +25152,8 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 25151, Walter Ten Eyck Ty Danco ,1,24,175,73,1101
 25152,Bronislav Danda,1,22,170,74,259
 25153,Arturo Dandan,1,30,162,54,799
-25154, Suzanne Dando (-MacLean, -Roberts, -Reynolds) ,2,19,163,49,413
-25155, John Dane, III ,1,58,191,99,1096
+25154, Suzanne Dando (-MacLeanRobertsReynolds) ,2,19,163,49,413
+25155, John Dane,1,58,191,99,1096
 25156,Suzanne Daneau,2,22,0,0,96
 25157,Ludvk Dank,1,27,193,123,259
 25158,Wodzimierz Marian Danek,1,25,177,68,810
@@ -25224,7 +25224,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 25223,Oliver Daniels,1,20,172,59,586
 25224,Quincey Daniels,1,19,171,63,1096
 25225,Victor Daniels,1,24,162,60,413
-25226, Billie Jo Patricia Pat Daniels-Winslow (-Bank, -Connolly) ,2,16,180,75,1096
+25226, Billie Jo Patricia Pat Daniels-Winslow (-BankConnolly) ,2,16,180,75,1096
 25227,Astrid Kristin Danielsen (-Tangen),2,19,177,68,742
 25228,Egil Danielsen,1,23,182,88,742
 25229,Finn Danielsen,1,25,174,80,273
@@ -25644,7 +25644,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 25643, Rodney Rod Davies ,1,26,175,78,174
 25644,Ronald Davies,1,33,0,0,413
 25645,Samantha Dawn Davies (-Clayton),2,20,157,52,413
-25646, Sharron Elizabeth Davies (-Crisp, -Redmond, -Kingston) ,2,13,180,67,413
+25646, Sharron Elizabeth Davies (-CrispRedmondKingston) ,2,13,180,67,413
 25647,Stephen John Davies,1,23,174,77,66
 25648, Teifion Taffy Davies ,1,20,170,73,66
 25649, Terence Rodney Terry Davies ,1,26,183,85,66
@@ -26888,7 +26888,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 26887,Franois Dbonnet,1,0,0,0,362
 26888,Albert Paul Deborgies,1,21,0,0,362
 26889,Willy Debosscher,1,25,184,79,96
-26890, Marie-Christine Debourse (-Wartel, -Denis, -Richard) ,2,20,178,65,362
+26890, Marie-Christine Debourse (-WartelDenisRichard) ,2,20,178,65,362
 26891,Pablo Debran,1,0,0,0,1019
 26892,Tibor Debreceni,1,25,172,78,477
 26893,Debrinay,1,0,0,0,362
@@ -27215,7 +27215,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 27214,Patrice Delaveau,1,31,176,65,362
 27215,Stany Delayre,1,24,182,72,362
 27216,Charles Delbarre,1,0,0,0,96
-27217, Catherine Kate Delbarre (Bernheim-, -d'Oriola) ,2,31,165,56,362
+27217, Catherine Kate Delbarre (Bernheim-d'Oriola) ,2,31,165,56,362
 27218,Albert Delbecque,1,0,0,0,1117
 27219,Pierre Delbecque,1,30,180,78,96
 27220,Nol Jean Delberghe,1,26,0,0,362
@@ -27456,7 +27456,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 27455,Vladimir Vasilyevich Dementyev,1,19,196,91,978
 27456,Yevgeny Aleksandrovich Dementyev,1,23,182,77,874
 27457,Yelena Vyacheslavovna Dementyeva (-Afinogenova),2,18,180,64,874
-27458, Yelizaveta Grigoryevna Dementyeva (-Pakhomenkova, -Kislova) ,2,28,0,0,978
+27458, Yelizaveta Grigoryevna Dementyeva (-PakhomenkovaKislova) ,2,28,0,0,978
 27459,Lszl Demny,1,26,176,72,477
 27460,Dominic Demeritte,1,22,178,84,80
 27461,Jacques Demers,1,24,163,75,174
@@ -27540,7 +27540,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 27539, Arnold Pieter Bernard Arno den Hartog ,1,29,187,88,705
 27540,Cornelis Johannes den Held,1,24,0,0,705
 27541,Fedor Iwan den Hertog,1,22,183,76,705
-27542, Willemijntje Willy den Ouden (-Broms, -Jager, -Schupper) ,2,14,163,0,705
+27542, Willemijntje Willy den Ouden (-BromsJagerSchupper) ,2,14,163,0,705
 27543,Kouami Sacha Denanyoh,1,20,176,84,1054
 27544,Carlos Antonio Denari,1,21,0,0,45
 27545,Felix Denayer,1,18,190,85,96
@@ -28394,7 +28394,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 28393,Sylvie Didone,2,16,164,42,362
 28394,Michele Didoni,1,22,175,68,507
 28395n Didriksen,1,22,179,76,742
-28396, Mildred Ella Babe Didrikson (Didriksen-, -Zaharias) ,2,21,169,57,1096
+28396, Mildred Ella Babe Didrikson (Didriksen-Zaharias) ,2,21,169,57,1096
 28397, Judith Anne Judy Diduck ,2,31,168,63,174
 28398,Viktor Ivanovich Diduk,1,31,195,95,978
 28399,Oleksandr Ihorovych Didukh,1,30,190,82,1084
@@ -29066,7 +29066,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 29065,Gita Vaniva Dodova,2,26,182,60,154
 29066,Richard Dodrieux,1,21,172,74,362
 29067,Karl Dodrimont,1,25,165,60,399
-29068, Dorothy Lucille Dodson (-Kenny, -Kotzenborn) ,2,29,160,55,1096
+29068, Dorothy Lucille Dodson (-KennyKotzenborn) ,2,29,160,55,1096
 29069,Jeremy Dodson,1,28,180,72,888
 29070, Thomas Ward Tom Dodson ,1,27,183,83,716
 29071, Benjamin Philip Ben Dodwell ,1,20,200,98,66
@@ -29330,7 +29330,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 29329,Barry William Donath,1,23,0,0,66
 29330,Ferenc Donth,1,22,165,58,477
 29331,Katalin Donth,2,20,160,52,477
-29332, Ursula Ulla Donath (Jurewitz-, -Brehme-) ,2,29,166,55,399
+29332, Ursula Ulla Donath (Jurewitz-Brehme-) ,2,29,166,55,399
 29333,Aleardo Donati,1,20,170,0,507
 29334,Elena Donati,2,18,0,0,507
 29335,Massimiliano Donati,1,25,183,74,507
@@ -29399,12 +29399,12 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 29398, Albert J Bertie Donnelly ,1,0,0,0,498
 29399,Bryan Donnelly,1,25,198,91,174
 29400, David M Dave Donnelly ,1,21,180,84,174
-29401, Euphrasia Louise Fraze Donnelly (-Bungard, -Berlin) ,2,18,163,0,1096
+29401, Euphrasia Louise Fraze Donnelly (-BungardBerlin) ,2,18,163,0,1096
 29402,John Henry Donnelly,1,23,0,0,174
 29403,Linda Donnelly,2,18,172,60,413
 29404,Megan Aileen Donnelly,2,24,172,68,1096
 29405,Nigel James Donnelly,1,20,186,76,716
-29406, Patrice Michelle Pat Donnelly (-Shmock, -Lutz) ,2,26,174,62,1096
+29406, Patrice Michelle Pat Donnelly (-ShmockLutz) ,2,26,174,62,1096
 29407,Peter Donnelly,1,29,187,86,413
 29408,Sandra Donnelly,2,38,160,75,174
 29409,Sharon Lynn Donnelly,2,33,167,54,174
@@ -29557,7 +29557,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 29556,Antoine Dorsaz,1,20,183,79,1019
 29557, James Richard Jimmie Dorsey ,1,31,175,77,1096
 29558,Karl James Dorsey,1,38,0,0,33
-29559, Viviane Dorsile (-El Haddad, -Tual) ,2,25,170,58,362
+29559, Viviane Dorsile (-El HaddadTual) ,2,25,170,58,362
 29560,Renrs Dors,1,20,188,88,567
 29561, Christopher Chris Dorst ,1,28,193,86,1096
 29562,Jean Andr Dortet,1,0,0,0,362
@@ -29873,7 +29873,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 29872,Frederic Drghici,1,23,0,0,861
 29873,Marko Dragievi,1,27,191,91,246
 29874,Petko Dragiev,1,23,194,92,154
-29875, Stacy Rene Dragila (Mikaelsen-, -Waltz) ,2,29,172,62,1096
+29875, Stacy Rene Dragila (Mikaelsen-Waltz) ,2,29,172,62,1096
 29876,Dimitri Dragin,1,23,165,60,362
 29877,Izabela Dragneva (Rifatova-),2,28,148,48,154
 29878,Virgilio Drago Burga,1,0,0,0,794
@@ -30371,7 +30371,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 30370,Andrejs Dda,1,22,195,80,567
 30371,Bogusaw Marek Duda,1,23,178,73,810
 30372,Brigitte Duda,2,15,170,54,71
-30373, liane Dudal (-Loneux, -Cerf) ,2,26,165,53,362
+30373, liane Dudal (-LoneuxCerf) ,2,26,165,53,362
 30374,Yury Dudarev,1,21,178,64,1088
 30375,Dmitry Viktorovich Dudaryev,1,21,185,91,535
 30376,Gyula Csaba Duds,1,34,170,65,477
@@ -30393,7 +30393,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 30392,Valery Arkadyevich Dudin,1,20,180,84,978
 30393,Nikolay Afanasyevich Dudkin,1,21,178,78,978
 30394,Kseniya Pavlovna Dudkina,2,17,173,49,874
-30395, William Henry Dudley, III ,1,17,0,0,1096
+30395, William Henry Dudley,1,17,0,0,1096
 30396,Yelena Vladimirovna Dudnik (-Leybo),2,25,165,54,874
 30397,Alexandru Dudoglo,1,19,162,69,674
 30398, Abraham Everardus Biem Dudok van Heel ,1,30,172,70,527
@@ -30474,7 +30474,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 30473,Keltie Mayken Duggan (-Graboski),2,18,170,63,174
 30474,Luis Jorge Duggan Ham,1,30,0,0,45
 30475,Meghan Duggan,2,22,178,73,1096
-30476, Patricia Pat Duggan (-Castaldi, -de Glas) ,2,22,168,68,66
+30476, Patricia Pat Duggan (-Castaldide Glas) ,2,22,168,68,66
 30477,Sue Joanne Duggan (-Innes),2,28,0,0,716
 30478, Timothy Timmy Duggan ,1,29,173,60,1096
 30479, William Bernard Tynan Willie Duggan ,1,26,0,0,498
@@ -30516,7 +30516,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 30515, Horrace Smith Smitty Duke ,1,26,191,89,1096
 30516, Bridget Mary Biddy Duke-Woolley (Armitage-) ,2,32,0,0,413
 30517,Gordon Bennett Dukes,1,23,178,70,1096
-30518, Pamela Camille Pam Dukes (-Boyer, -Brown) ,2,0,0,0,1096
+30518, Pamela Camille Pam Dukes (-BoyerBrown) ,2,0,0,0,1096
 30519, Nataliya Stanislavovna Natasha Dukhnova ,2,30,174,60,93
 30520,Sergey Petrovich Dukhovich (-Lyakhovich),1,20,194,96,93
 30521,Darko Duki,1,26,181,75,1178
@@ -31318,7 +31318,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 31317,Julio C Echeverry F.,1,18,168,66,225
 31318,Octavio Echeverry Bernal,1,0,0,0,225
 31319,Gilles chevin,1,27,171,69,362
-31320, Sheila Ann Echols (-Williams, -Gross) ,2,23,165,52,1096
+31320, Sheila Ann Echols (-WilliamsGross) ,2,23,165,52,1096
 31321,Barbara Eck,2,24,161,56,71
 31322, Jeffrey Mark Jeff Eckard ,1,26,182,66,174
 31323,Jens Eckardt,1,28,0,0,273
@@ -31794,7 +31794,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 31793,Tadamasa Ejiri,1,30,174,64,514
 31794,Nadia Mohamed Ejjafini,2,23,168,51,81
 31795,David Ejoke,1,24,177,72,722
-31796, Grith Ejstrup (Nielsen-, -Hvas) ,2,19,175,61,273
+31796, Grith Ejstrup (Nielsen-Hvas) ,2,19,175,61,273
 31797,Hans-Olov Christian Ek,1,25,170,60,1012
 31798,Elin Maria Ek,2,24,176,69,1012
 31799,Michaela Ek,2,36,174,68,1012
@@ -32314,7 +32314,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32313,Gisela Ellenberger (-Klein),2,22,165,56,1150
 32314, Elisabeth Liesel Ellend ,2,15,0,0,73
 32315,Daniel Ellensohn,1,22,185,81,716
-32316, Walton Glenn Eller, III ,1,18,188,82,1096
+32316, Walton Glenn Eller,1,18,188,82,1096
 32317,Hans Eller,1,21,0,0,399
 32318, John Jacob Jack Eller ,1,28,175,80,1096
 32319,Dawn L Ellerbe,2,26,186,111,1096
@@ -32367,7 +32367,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32366, Frederick Varley Fred Ellis ,1,0,0,0,967
 32367, Joanne Jo Ellis ,2,24,160,65,413
 32368,Joanne Catherine Ellis,2,27,167,55,413
-32369, Kathleen Kathy Ellis (-Landgraf, -Greer) ,2,17,169,59,1096
+32369, Kathleen Kathy Ellis (-LandgrafGreer) ,2,17,169,59,1096
 32370,Kevin Ray Ellis,1,32,185,84,1096
 32371,Lauren Ellis,2,23,166,64,716
 32372,Marcus John Ellis,1,26,175,80,413
@@ -32550,7 +32550,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32549,Hermann End,1,26,178,75,1150
 32550,Wolfgang End,1,21,178,64,399
 32551,Anne-Sophie Endeler,2,16,152,49,362
-32552, Kornelia Ender (-Matthes, -Grummt) ,2,13,172,59,302
+32552, Kornelia Ender (-MatthesGrummt) ,2,13,172,59,302
 32553,Wolfgang Ender,1,21,173,70,588
 32554,Esteban Jos Enderica Salgado,1,21,177,71,306
 32555,Ivan Alejandro Enderica Ochoa,1,20,180,82,306
@@ -32657,7 +32657,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32656,Odd Arne Engh,1,28,170,63,742
 32657,Klra Engi,2,16,165,53,477
 32658,Vladimir Engibaryan,1,24,164,63,978
-32659, Birsen Engin (Bekgz-, -Yavuz-) ,2,31,173,63,1071
+32659, Birsen Engin (Bekgz-Yavuz-) ,2,31,173,63,1071
 32660,Hseyin ekip Engineri,1,0,0,0,1071
 32661,Leif Hkan Ingemar Engkvist,1,26,182,83,1012
 32662,John Yngve Adolf Engkvist,1,30,0,0,595
@@ -32698,7 +32698,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32697,Georges Enguerrand,1,0,0,0,362
 32698,Jan Lennart Enjebo,1,22,193,95,1012
 32699,Konrad Enke,1,26,171,73,399
-32700, Karin Enke-Kania (-Busch-, -Richter) ,2,18,180,72,302
+32700, Karin Enke-Kania (-Busch-Richter) ,2,18,180,72,302
 32701,Aris Enkelmann,1,24,182,69,302
 32702,Enkhbatyn Badar-Uugan,1,23,172,54,678
 32703,Hans Enn,1,21,167,64,71
@@ -32944,7 +32944,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 32943,Berith Agneta Eriksson,2,15,179,67,1012
 32944,Allan Oskar Eriksson,1,26,0,0,1012
 32945,sa Anna-Karin Eriksson (-Lindqvist),2,17,180,62,1012
-32946, Anna-Lisa Eriksson (-Ejderfeldt, -Bergsten) ,2,27,0,0,1012
+32946, Anna-Lisa Eriksson (-EjderfeldtBergsten) ,2,27,0,0,1012
 32947,Axel Emanuel Eriksson,1,28,0,0,1127
 32948,Artur Johan Axel Eriksson (-Ejderfeldt),1,21,177,63,1012
 32949,Karin Barbro Elisabet Eriksson (-Flodstrm),2,16,174,65,1012
@@ -33051,7 +33051,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 33050,Jos Mara Errandonea Urtizberea,1,19,180,72,982
 33051,Piero Errani,1,35,172,73,507
 33052,Sara Errani,2,21,164,58,507
-33053, Christine Errath (-Trettin, -Stber) ,2,15,158,50,302
+33053, Christine Errath (-TrettinStber) ,2,15,158,50,302
 33054,Jaime Errzuriz Zaartu,1,24,0,0,198
 33055,Alberto Rafael Errecalde,1,0,0,0,45
 33056,Giovanni Errichiello,1,24,194,83,507
@@ -33113,7 +33113,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 33112,Claudio Escauriza,1,26,179,82,783
 33113,Robert L Esche,1,28,185,95,1096
 33114,Hans Eschenbrenner,1,41,0,0,879
-33115, Gitta Escher (-Sommer, -Wagenknecht) ,2,19,163,48,302
+33115, Gitta Escher (-SommerWagenknecht) ,2,19,163,48,302
 33116gen Eschert,1,23,176,73,399
 33117,Alberto Escobar Villa,1,0,176,67,225
 33118,Mara Alexandra Escobar Guerrero,2,24,161,58,306
@@ -33426,7 +33426,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 33425,Alfred Lewis Evans,1,36,0,0,484
 33426,Andrew Evans,1,25,198,114,1096
 33427,Anthony Evans,1,22,174,69,66
-33428, Arthur Thompson Evans, III ,1,21,188,85,1096
+33428, Arthur Thompson Evans,1,21,188,85,1096
 33429,Barbara Elizabeth Evans (-Sargeant),2,0,0,0,66
 33430, William Best Billy Evans ,1,24,185,84,1096
 33431,Blair Catherine Evans,2,21,175,65,66
@@ -33522,7 +33522,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 33521, Bettina Tina Evers ,2,20,167,66,399
 33522,Caroline Frances Evers-Swindell (-Meyer),2,25,178,76,716
 33523,Georgina Emma Buchanan Evers-Swindell (-Earl),2,25,178,78,716
-33524, Christine Marie Chris Evert (-Lloyd, -Mill, -Norman) ,2,33,167,57,1096
+33524, Christine Marie Chris Evert (-LloydMillNorman) ,2,33,167,57,1096
 33525,Valentyna Evert (-Borysevych),2,22,172,67,978
 33526,Sabine Christine Everts (-Thomaskamp),2,23,169,56,1150
 33527,Ruth Rhonda Everuss,2,16,167,66,66
@@ -33856,7 +33856,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 33855,Marco Falchetto,1,22,180,73,71
 33856,Paolo Falchini,1,20,183,66,507
 33857,Mnica Jacqueline Falcioni Costa,2,31,167,64,1121
-33858, Hildegard Falck (Janze-, -Kimmich) ,2,23,173,58,1150
+33858, Hildegard Falck (Janze-Kimmich) ,2,23,173,58,1150
 33859,Ismo Kalevi Falck,1,22,172,70.5,350
 33860,George Falcke,1,21,0,0,273
 33861,Ennio Falco,1,28,166,63,507
@@ -34043,7 +34043,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 34042,Ahmed Farfar,1,27,188,80,15
 34043,Paul Fargeix,1,24,173,64,362
 34044,Phyllis Ann Margaret Fargher (-Sissons),2,26,160,55,716
-34045, Joseph Halpin Joe Fargis, IV ,1,36,187,75,1096
+34045, Joseph Halpin Joe Fargis,1,36,187,75,1096
 34046, Joanna Lindsay Jo Fargus ,2,18,175,62,413
 34047,Sayed Farhad,1,0,172,100,556
 34048,Farhan Salih Farhan,1,19,179,67,81
@@ -34131,7 +34131,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 34130,Mia Farrance,2,22,170,62,66
 34131,Tyler Farrar,1,28,183,73,1096
 34132,Eduardo Farr,1,57,188,104,45
-34133, Franklin Frank Farrel, III ,1,23,0,71,1096
+34133, Franklin Frank Farrel,1,23,0,71,1096
 34134,Angela Farrell,2,26,167,58,66
 34135, Edward Leo Eddie Farrell ,1,26,183,75,1096
 34136,Eugene Farrell,1,23,178,62,498
@@ -34364,7 +34364,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 34363,Federico Julin Fazio,1,21,195,85,45
 34364, Joseph Ray Joe Fazio ,1,26,182,82,66
 34365,Mirsad Fazlagi,1,21,183,75,1178
-34366, Jasna Fazli-Reed (-Lupulesku-, -Rather) ,2,17,170,56,1178
+34366, Jasna Fazli-Reed (-Lupulesku-Rather) ,2,17,170,56,1178
 34367,Nedad Fazlija,1,28,175,67,133
 34368,Michelle Cristina Fazzari,2,29,173,58,174
 34369,Harald Oliver Nikolai Frstad,1,30,0,0,742
@@ -35593,7 +35593,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 35592,Lilia Fisikovici (Tozlovanu-),2,27,170,52,674
 35593,Graham Chudleigh Fisk,1,24,0,0,413
 35594,Sari Kristiina Fisk,2,26,163,65,350
-35595, William Mead Lindsley Billy Fiske, III ,1,16,0,0,1107
+35595, William Mead Lindsley Billy Fiske,1,16,0,0,1107
 35596,Dixon Davis Fiske,1,21,0,0,1096
 35597, George Foster Fiske ,1,28,177,0,1096
 35598,Stein Olav Fiskebeck,1,36,178,74,742
@@ -35618,7 +35618,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 35617,Emma lisabeth Fitting (-Ramel),2,23,0,0,1019
 35618,Frdric Fitting,1,20,0,0,1019
 35619,Willy Fitting,1,27,0,0,1019
-35620, Silke Fittinger (Thiel-, -Gnad) ,2,25,174,66,399
+35620, Silke Fittinger (Thiel-Gnad) ,2,25,174,66,399
 35621,Kumela Fituma,1,21,187,70,332
 35622,Hernando Carlos Mara Teresa Fitz-James Stuart y Falc Portocarrero y Osorio,1,37,0,0,982
 35623,Jacobo Mara del Pilar Carlos Manuel Fitz-James Stuart y Falc Portocarrero y Osorio,1,41,0,0,982
@@ -35763,7 +35763,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 35762,Chad Fleischer,1,22,188,102,1096
 35763,Fritz Fleischer,1,18,0,0,71
 35764,Sebastian Fleischer,1,18,179,74,273
-35765, Othilie Tilly Fleischer (-Heuser, -Grote) ,2,20,168,66,399
+35765, Othilie Tilly Fleischer (-HeuserGrote) ,2,20,168,66,399
 35766,Wilhelm Fleischer,1,24,169,68,861
 35767,Egon Fleischmann,1,25,0,0,399
 35768,Jan Maria Fleischmann,1,38,0,0,259
@@ -36026,7 +36026,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 36025,Samantha Jane Foggo,2,17,177,70,413
 36026,Hans Marius Fogh,1,22,171,73,938
 36027,Federica Foghetti,2,35,170,60,507
-36028, Kroly Fogl (Fogoly, -jpesti) ,1,29,0,0,477
+36028, Kroly Fogl (Fogolyjpesti) ,1,29,0,0,477
 36029,Laura Fogli (-Rossetti),2,24,168,50,507
 36030,Alejandro Jos Foglia Costa,1,20,190,96,1121
 36031,Andrea Foglia Costa,2,26,176,69,1121
@@ -36410,7 +36410,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 36409,Francesco Fossi,1,24,199,98,507
 36410,Mabel Fossler,2,0,0,0,1096
 36411,Per Eivind Fossum,1,25,0,0,742
-36412, Ingrid Fst (Michaelis-, -Lehmann) ,2,25,160,50,399
+36412, Ingrid Fst (Michaelis-Lehmann) ,2,25,160,50,399
 36413,Alex Anthony Foster Hutchinson,1,22,190,79,236
 36414,Bernard Foster,1,20,0,0,413
 36415,Brendan Foster,1,24,178,68,413
@@ -36421,7 +36421,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 36420,Patricia Diane Foster,2,20,0,0,174
 36421,Gerald Sargent Foster,1,31,0,0,1096
 36422,Gillian Foster,2,27,169,60,66
-36423, Glen Seward Foster, II ,1,42,180,84,1096
+36423, Glen Seward Foster,1,42,180,84,1096
 36424, Gregory Greg Foster ,1,25,190,84,1096
 36425, John Charles Jack Foster ,1,40,175,64,716
 36426, John Lewis Jake Foster ,1,21,0,0,66
@@ -36496,7 +36496,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 36495,Olivier Fougeroud,1,0,186,72,362
 36496, Benjamin John Ben Fouhy ,1,25,183,87,716
 36497,Henri Achille Fould,1,28,0,0,363
-36498, June Florence Foulds-Paul (-Carroll, -Reynolds) ,2,18,170,63,413
+36498, June Florence Foulds-Paul (-CarrollReynolds) ,2,18,170,63,413
 36499,Jean-Paul Fouletier,1,29,175,108,362
 36500,Simpson Jamieson Foulis,1,20,0,0,413
 36501,Charles Howard Foulkes,1,33,0,0,907
@@ -36987,14 +36987,14 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 36986,Justin Freeman,1,29,180,79,1096
 36987,Kevin John Freeman,1,22,171,68,1096
 36988,Kris Freeman,1,21,180,79,1096
-36989, Mary Gray Freeman (-Kelly, -Spitzer) ,2,18,0,0,1096
+36989, Mary Gray Freeman (-KellySpitzer) ,2,18,0,0,1096
 36990,Mavis Anne Freeman,2,17,0,0,1096
 36991,Michelle Freeman,2,23,170,63,511
 36992, Roy Edward Michael Mike Freeman ,1,30,175,88,415
 36993,Muriel Bolton Freeman (Smalley-),2,26,0,0,413
 36994,Noel Frederick Freeman,1,21,173,67,66
 36995, Norman Douglas Freeman, Sr ,1,44,175,77,1096
-36996, Ronald John Ron Freeman, III ,1,21,183,82,1096
+36996, Ronald John Ron Freeman,1,21,183,82,1096
 36997,Sally Freeman,2,26,160,54,413
 36998,Walter Freeman,1,26,0,0,413
 36999,Harry Freeman-Jackson,1,41,175,63,498
@@ -37421,7 +37421,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 37420,Michael Fuchs,1,30,181,86,399
 37421,Peter Fuchs,1,20,0,0,413
 37422,Robert Fuchs,1,25,209,105,810
-37423, Ruth Fuchs (Gamm-, -Hellmann) ,2,25,169,71,302
+37423, Ruth Fuchs (Gamm-Hellmann) ,2,25,169,71,302
 37424,Sabina Fuchs,2,22,168,60,1019
 37425,Thomas Fuchs,1,30,176,67,1019
 37426,Tracey Claire Fuchs,2,21,152,54,1096
@@ -37933,7 +37933,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 37932,Paul Gailly,1,25,0,0,96
 37933,Grete Gaim,2,20,171,58,331
 37934,Chryste Dionne Gaines,2,25,170,57,1096
-37935, Ambrose Rowdy Gaines, IV ,1,25,185,73,1096
+37935, Ambrose Rowdy Gaines,1,25,185,73,1096
 37936,Melinda Maree Gainsford-Taylor,2,20,172,67,66
 37937,Enrique Ambrosio Gainzarain,1,23,0,0,45
 37938,Giacomo Gaioni,1,23,0,0,507
@@ -37956,12 +37956,12 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 37955,Jan Gajdo,1,24,0,0,259
 37956,Pavel Gajdo,1,23,168,65,259
 37957,gnes Irn Gajdos-Hubai,2,28,174,62,477
-37958, Jarmila Gajdoov (-Groth-, -Wolfe) ,2,25,173,68,67
+37958, Jarmila Gajdoov (-Groth-Wolfe) ,2,25,173,68,67
 37959,Grzegorz Gajdus,1,29,181,70,810
 37960, Leszek Lech Gajdziski ,1,22,190,115,810
 37961,Magorzata Gajewska (-Polewczak),2,18,162,59,810
 37962,Andrzej Gajewski,1,31,182,84,810
-37963, Katarzyna Karolina Gajga (Biel-, -Anio) ,2,26,190,85,810
+37963, Katarzyna Karolina Gajga (Biel-Anio) ,2,26,190,85,810
 37964,Milorad Gajovi,1,34,185,91,680
 37965,Micha Gajownik,1,18,169,70,810
 37966,Antoine Gakeme,1,24,169,60,160
@@ -39377,7 +39377,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 39376,Mohamed Ahmed Geisa,1,23,0,81,308
 39377,Natalie Geisenberger,2,22,183,76,399
 39378,Robert Geiser,1,0,0,0,1019
-39379, Donald David Geisler, III ,1,21,185,80,799
+39379, Donald David Geisler,1,21,185,80,799
 39380, Hans-Joachim HaJo Geisler ,1,17,184,72,1150
 39381,Hermann Geiler,1,22,0,0,71
 39382,Ilse Geisler (-Vorspach),2,23,168,60,399
@@ -39424,7 +39424,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 39423,Imre Gellrt,1,19,0,0,477
 39424,Antal Gelley,1,21,194,93,477
 39425, Patrick Pat Gellineau ,1,20,182,83,1065
-39426, Elbieta Felicja Gellner (-Olejnik, -Zombkowa, -Ivarsson) ,2,21,0,0,810
+39426, Elbieta Felicja Gellner (-OlejnikZombkowaIvarsson) ,2,21,0,0,810
 39427,Beatrice Gelmini,2,21,0,0,507
 39428,Ivo Petrov Gelov,1,20,186,87,154
 39429,Manfred Gelpke,1,28,188,84,302
@@ -39625,7 +39625,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 39624,Khristina Tancheva Georgieva,2,28,176,83,154
 39625,Magdalena Stoyanova Georgieva,2,25,174,70,154
 39626,Maya Vladimirova Georgieva (-Stoeva),2,25,180,70,154
-39627, Nadezhda Georgieva (-Ivanova, -Kiryakova) ,2,27,158,48,154
+39627, Nadezhda Georgieva (-IvanovaKiryakova) ,2,27,158,48,154
 39628,Radoslava Georgieva,2,20,158,42,154
 39629,Roza Georgieva,2,19,156,60,154
 39630,Stanka Vakrilova Georgieva,2,25,154,45,154
@@ -39745,7 +39745,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 39744, James Eastman Jim Gerhardt ,1,23,190,88,1096
 39745,Paul Gerhardt,1,26,165,60,399
 39746,Peter Clarence Gerhardt,1,34,175,68,1096
-39747, Janet Jean Gerhauser (-Griffiths, -Carpenter) ,2,19,0,0,1107
+39747, Janet Jean Gerhauser (-GriffithsCarpenter) ,2,19,0,0,1107
 39748,Andrija Geri,1,19,203,101,913
 39749,Hermann Gericke,1,20,0,0,1019
 39750,Lothar Gericke,1,18,186,73,302
@@ -40309,13 +40309,13 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 40308,James Raymond Jim Gilhula,1,20,0,0,1096
 40309,Ignacio Ariel Gili,1,29,173,74,45
 40310,Agamemnon Gilis,1,0,0,0,419
-40311, Cornelia Gilissen (-Schappel, -Desmond) ,2,20,0,0,1096
+40311, Cornelia Gilissen (-SchappelDesmond) ,2,20,0,0,1096
 40312,Rein Gilje,1,25,191,80,742
 40313,James Wren Gilkes,1,27,188,72,440
 40314,Ajit Singh Gill,1,28,0,0,929
 40315,Alison Jane Gill (-Hall),2,22,183,78,413
 40316,Andrew Michael Gill,1,24,175,80,413
-40317, Arie Gill (Gluck-, -Gluck) ,1,22,0,0,503
+40317, Arie Gill (Gluck-Gluck) ,1,22,0,0,503
 40318,Cyril William Gill,1,26,0,0,413
 40319,Emery Paul Gill,1,26,175,77,101
 40320,Frederick Agnew Gill,1,26,0,0,79
@@ -40392,7 +40392,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 40391,Charlotte Gilmartin,2,23,163,63,413
 40392,Charles Andrew Gilmore,1,22,183,75,1096
 40393,Crystal Gilmore,2,17,136,47,174
-40394, Donna M Gilmore (-LaRochelle, -Bird) ,2,0,0,0,174
+40394, Donna M Gilmore (-LaRochelleBird) ,2,0,0,0,174
 40395, Frederick Garfield Fred Gilmore ,1,17,0,0,1096
 40396,William Evans Garrett Gilmore,1,29,0,0,1096
 40397,John Gilmore,1,0,0,0,349
@@ -41135,7 +41135,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 41134, Rollit James Rolly Goldring ,1,27,198,90,174
 41135,Drew Goldsack,1,24,178,76,174
 41136, Jennifer Carroll Jen Goldsack (-Beery) ,2,26,173,57,1096
-41137, Sandra Sandi Goldsberry (-Tyler, -Woepse) ,2,16,173,61,1096
+41137, Sandra Sandi Goldsberry (-TylerWoepse) ,2,16,173,61,1096
 41138, William Bertrand Bert Goldsbro ,1,23,0,0,174
 41139, Johann Hans Goldschmid ,1,29,0,0,71
 41140,Kurt Goldschmid,1,32,0,0,1019
@@ -41783,7 +41783,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 41782,Mikhail Nikolayevich Gordeychuk,1,22,173,65,93
 41783,Andrey Aleksandrovich Gordeyev,1,34,182,68,93
 41784,Irina Andreyevna Gordeyeva,2,25,185,55,874
-41785, Yekaterina Aleksandrovna Katya Gordeyeva (-Grinkova, -Kulik) ,2,16,0,0,979
+41785, Yekaterina Aleksandrovna Katya Gordeyeva (-GrinkovaKulik) ,2,16,0,0,979
 41786,Tatyana Vladimirovna Gordeyeva,2,31,180,67,874
 41787,Slobodan Gordi,1,22,192,93,1178
 41788,Fortune Everett Gordien,1,25,184,104,1096
@@ -41820,7 +41820,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 41819,Winston Alanzo Gordon,1,27,187,90,413
 41820,Yuko Gordon (Hasegawa-),2,33,158,45,470
 41821,Andrew Samter Gordon-Brown,1,25,0,0,967
-41822, Diana Elizabeth Constance Gordon-Lennox (Kingsmill-, -Wright) ,2,27,0,0,174
+41822, Diana Elizabeth Constance Gordon-Lennox (Kingsmill-Wright) ,2,27,0,0,174
 41823, Helen Orr Elenor Gordon-McKay ,2,15,0,0,413
 41824,Mary Diana Gordon-Watson,2,24,162,56,413
 41825,Otto Mikoaj Gordziakowski,1,29,0,0,810
@@ -41855,7 +41855,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 41854,Israel Gorguet Fernndez,1,27,186,88,249
 41855,Graeme Gorham,1,18,173,61,174
 41856,John Marshall Gorham,1,54,0,0,836
-41857, Sophia Hope Gorham (Hallowes-, -Compton) ,2,26,0,0,836
+41857, Sophia Hope Gorham (Hallowes-Compton) ,2,26,0,0,836
 41858,Istvn Gri,1,26,168,50,477
 41859,Karina Khavazhevna Goricheva,2,23,160,63,535
 41860,Vladimir Viktorovich Gorin,1,31,185,84,1088
@@ -41943,7 +41943,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 41942,Julie Goskowicz (-Koons),2,21,157,55,1096
 41943,Carl Heinrich Goler,1,15,0,0,398
 41944,Gustav Ludwig Goler,1,21,0,0,398
-41945, Carl Oscar Goler, II ,1,24,0,0,398
+41945, Carl Oscar Goler,1,24,0,0,398
 41946, Colin Higgs Bob Goslin ,1,20,166,58,716
 41947,Dion Paul Gosling,1,33,176,76,716
 41948, Francis Jones Frank Gosling ,1,30,0,0,111
@@ -42058,12 +42058,12 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42057,Donna Maree Gould (-Kite),2,18,182,53,66
 42058,Edward Melville Gould,1,30,0,0,1096
 42059,Georgia Gould,2,28,175,61,1096
-42060, Jay Gould, II ,1,19,0,0,1096
+42060, Jay Gould,1,19,0,0,1096
 42061, Ainslie Beric Joe Gould ,1,27,0,0,66
 42062, Kenneth Kenny Gould ,1,21,167,67,1096
 42063,Melville Gould,1,30,171,70,882
-42064, Philippa Mary Pip Gould (-Lindberg, -Gower) ,2,15,0,0,716
-42065, Shane Elizabeth Gould (-Innis, -Nelms) ,2,15,171,59,66
+42064, Philippa Mary Pip Gould (-LindbergGower) ,2,15,0,0,716
+42065, Shane Elizabeth Gould (-InnisNelms) ,2,15,171,59,66
 42066,Edward Wyatt Gould,1,28,0,0,413
 42067, Christopher John Chris Goulding ,1,27,192,93,66
 42068,George Henry Goulding,1,22,0,0,174
@@ -42209,7 +42209,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42208,Jean Graczyk,1,23,0,0,362
 42209,E Grad,1,0,0,0,362
 42210,Anna-Maria Gradante,2,23,154,48,399
-42211, Samuel Louis Sam Graddy, III ,1,20,178,70,1096
+42211, Samuel Louis Sam Graddy,1,20,178,70,1096
 42212,tienne Grade,1,33,0,0,96
 42213,Peter Olof Gradin,1,25,178,74,1012
 42214,Lenua Nicoleta Grdinaru-Grasu,2,20,176,88,861
@@ -42258,7 +42258,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42257, Andrew Neill Andy Graffin ,1,22,181,67,413
 42258,Gillis Emanuel Grafstrm,1,26,0,0,1012
 42259,Cathrine Marie Grage,2,33,165,58,273
-42260, Johanna Hanna Grages (Beth-, -Zuschneid) ,2,29,0,0,399
+42260, Johanna Hanna Grages (Beth-Zuschneid) ,2,29,0,0,399
 42261,Daniela Graglia,2,24,170,58,507
 42262,Ann O.B Graham,2,0,0,0,967
 42263, Robert Bobby Graham ,1,26,168,57,413
@@ -42376,7 +42376,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42375,Daniel Grando,1,19,170,63,362
 42376,Alessandro Grandoni,1,23,184,76,507
 42377,Daneja Grandovec,2,32,175,58,944
-42378, Vronique Grandrieux (-Rosset, -Alard) ,2,27,169,60,362
+42378, Vronique Grandrieux (-RossetAlard) ,2,27,169,60,362
 42379,Ivan Granec,1,24,0,0,1178
 42380,Istvn Granek,1,25,0,0,477
 42381,Guy Edward Augustus Granet,1,60,0,0,413
@@ -42453,7 +42453,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42452,Hans-Ulrich Grahoff,1,29,187,83,1150
 42453,Andreja Grai (-Koblar),2,22,174,60,944
 42454,Ulrike Grler,2,26,175,60,399
-42455, Brynhild Grasmoen (-Robinson, -Dedrick) ,2,19,175,59,1096
+42455, Brynhild Grasmoen (-RobinsonDedrick) ,2,19,175,59,1096
 42456,Maddalena Grassano,2,23,170,63,507
 42457,Gianfranco Grasselli,1,22,190,89,507
 42458,Elisabeth Grasser,2,32,0,0,71
@@ -42961,7 +42961,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42960,Eric G Grimbeek,1,27,0,0,967
 42961,Vanessa Grimberg,2,23,176,63,399
 42962,Petra Jerona Grimbergen,2,22,169,54,705
-42963, Lynnette Kay Lyn Grime (-Massey, -O'Connor) ,2,21,174,60,716
+42963, Lynnette Kay Lyn Grime (-MasseyO'Connor) ,2,21,174,60,716
 42964,John Carl Grimek,1,26,0,88,1096
 42965, Helen Elizabeth Betty Grimes (-Lindley) ,2,20,175,0,1096
 42966,Charles Livingstone Grimes,1,21,200,99,1096
@@ -42997,7 +42997,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 42996,Inka Grings,2,21,168,59,399
 42997,Marlon Almiro Grings,1,16,172,65,138
 42998, Frederick Fred Grinham ,1,22,0,0,1096
-42999, Judith Brenda Grinham (-Rowley, -Roe) ,2,17,0,0,413
+42999, Judith Brenda Grinham (-RowleyRoe) ,2,17,0,0,413
 43000,Kjersti Elizabeth Grini,2,24,178,72,742
 43001,Lars Grini,1,23,182,78,742
 43002,Theodoros Griniazakis,1,20,177,67,419
@@ -43131,7 +43131,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 43130,Nils Ragnar Johannes Grnvall,1,17,0,0,1012
 43131,Angus Groom,1,24,195,94,413
 43132,Conal P Groom,1,27,185,73,1096
-43133, Margaret Keyes Groos (Lane-, Thomas-, -Sloan) ,2,28,167,54,1096
+43133, Margaret Keyes Groos (Lane-, Thomas-Sloan) ,2,28,167,54,1096
 43134, Bernardus Ber Groosjohan ,1,22,0,0,705
 43135, Jeanette Hendrika Nettie Grooss ,2,22,0,0,705
 43136,Chantal Groot,2,17,175,62,705
@@ -43336,7 +43336,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 43335,Oliver Grner,1,22,201,98,1150
 43336,Sybille Gruner,2,23,173,65,399
 43337, Wilhelm Kristian William Grner ,1,23,0,0,1012
-43338, Martina Grunert (-Koch, -Abresch) ,2,15,162,57,399
+43338, Martina Grunert (-KochAbresch) ,2,15,162,57,399
 43339,Isaac Hirsche Grnewald,1,42,0,0,1012
 43340, Ernest Ernie Grunfeld ,1,21,198,102,1096
 43341,Emil Grnig,1,33,176,70,1019
@@ -44111,7 +44111,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 44110,Rolf Erik Gustafsson,1,21,176,57,1012
 44111,Lars Thomas Gustafsson (-Morghult),1,23,186,80,1012
 44112,Tina Isabel Gustafsson,2,17,178,66,1012
-44113, Toini Gustafsson (Karvonen-, -Rnnlund) ,2,26,162,54,1012
+44113, Toini Gustafsson (Karvonen-Rnnlund) ,2,26,162,54,1012
 44114,Lars Tore Gustafsson,1,26,183,105,1012
 44115,Renata Gustaityt,2,26,180,82,591
 44116,Gustavo Endres,1,25,203,98,138
@@ -44206,7 +44206,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 44205,Torsten Ren Gutsche,1,24,181,78,399
 44206,Romuald Gutt,1,48,0,0,810
 44207,Jwala Gutta,2,28,178,85,487
-44208, Claire Guttenstein (Frick-, -Gutt) ,2,24,0,0,96
+44208, Claire Guttenstein (Frick-Gutt) ,2,24,0,0,96
 44209, Jeffrey Jeff Gutteridge ,1,19,183,76,413
 44210,Albert Lovejoy Gutterson,1,24,185,82,1096
 44211,August Gttinger,1,31,0,0,1019
@@ -44345,7 +44345,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 44344,Andrea Gyarmati (-Hesz),2,14,170,64,477
 44345,Bla Gyarmati,1,22,176,68,477
 44346,Dezs Gyarmati,1,20,186,83,477
-44347, Olga Gyarmati (-Vrkonyi, -Aczl) ,2,23,166,57,477
+44347, Olga Gyarmati (-VrkonyiAczl) ,2,23,166,57,477
 44348,Emanuil Mikhaylov Gyaurov,1,25,182,80,154
 44349,Mathias Gydesen,1,23,182,78,273
 44350,Gyula Gyenes,1,25,177,75,477
@@ -44479,7 +44479,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 44478, Thomas Mario Tommy Haas ,1,22,188,78,399
 44479,Francis Townley Haas,1,19,196,84,1096
 44480,Zo Haas (-Barmettler),2,26,166,55,1019
-44481, George Allen Haas, III ,1,25,178,79,1096
+44481, George Allen Haas,1,25,178,79,1096
 44482,Bertil Haase,1,33,0,0,1012
 44483,Gnther Haase,1,27,0,0,399
 44484,Helga Haase (Obschernitzki-),2,25,160,64,399
@@ -44835,7 +44835,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 44834,Max Otto Hainle,1,18,0,0,399
 44835,Donald Jasper Hains,1,36,0,0,521
 44836, Melville Leonard Mel Hains ,1,45,0,0,967
-44837, Peter Conover Hains, III ,1,27,0,0,1096
+44837, Peter Conover Hains,1,27,0,0,1096
 44838, Edward Ted Hains ,1,24,180,82,174
 44839,Pemysl Hain,1,22,0,0,259
 44840,Jaroslav Hainz,1,28,0,0,122
@@ -45003,7 +45003,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45002, Edward Ramsden Eddie Hall ,1,27,0,0,415
 45003,Eric William Hall,1,24,183,64,413
 45004, Ervin Henry Erv Hall ,1,21,183,75,1096
-45005, Evelyne Ruth Hall (Davidson-, -Adams, -Butler) ,2,22,167,58,1096
+45005, Evelyne Ruth Hall (Davidson-AdamsButler) ,2,22,167,58,1096
 45006,Farrah Hall,2,30,170,58,1096
 45007,Frank Hall,1,46,0,0,1096
 45008,Frank Hall,1,27,183,80,174
@@ -45097,11 +45097,11 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45096,Gustaf ke Linus Hallman,1,23,0,0,1012
 45097,Magnus Nikolaus Hallman,1,41,0,0,1012
 45098, Benjamin Ben Hallock ,1,18,199,108,1096
-45099, Gerard Hallock, III ,1,26,0,70,1096
+45099, Gerard Hallock,1,26,0,70,1096
 45100,Jeanne Courtney Hallock (-Craig),2,17,173,61,1096
 45101,Robert Halloran,1,0,0,0,174
 45102,Awad Moukhtar Halloudah,1,21,0,0,308
-45103, Norwood Penrose Hallowell, III ,1,22,183,66,1096
+45103, Norwood Penrose Hallowell,1,22,183,66,1096
 45104,Matthew Ian Hallowes,1,25,0,0,967
 45105,Norman Frederick Hallows,1,21,175,60,413
 45106,Evelyn Halls,2,28,173,58,66
@@ -45261,7 +45261,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45260,Abdoukerim Hamidou,1,23,172,67,1054
 45261,mile (Emanuel) Hamilius,1,22,176,80,602
 45262,Jean Hamilius,1,25,0,0,602
-45263, Dorothy Stuart Hamill (-Martin, -Forsythe) ,2,19,160,55,1096
+45263, Dorothy Stuart Hamill (-MartinForsythe) ,2,19,160,55,1096
 45264, Gerard Gerry Hamill ,1,21,173,59,498
 45265, Robert Miles Rob Hamill ,1,32,0,0,716
 45266,Samantha Hamill,2,17,164,53,66
@@ -45308,7 +45308,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45307,William Donald Hamlyn-Harris,1,26,191,96,66
 45308, Edward Barton Ed Hamm ,1,22,179,70,1096
 45309, Joseph Patrick Joe Hamm ,1,21,180,75,1096
-45310, Mariel Margaret Mia Hamm (-Corry, -Garciaparra) ,2,24,165,56,1096
+45310, Mariel Margaret Mia Hamm (-CorryGarciaparra) ,2,24,165,56,1096
 45311,Morgan Carl Hamm,1,17,165,65,1096
 45312,Paul Elbert Hamm,1,17,165,62,1096
 45313,Fahem Hammachi,1,24,178,56,15
@@ -45725,7 +45725,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45724,Harald Hans Vilhelm Hansen,1,42,0,0,273
 45725,Harry Hansen,1,0,0,0,1096
 45726,Arvo Heino Raudan Hansen,1,24,169,67,273
-45727, Helene Birgitta (Helen Raagaard-) Hansen (Andersen-, -Raagaard-Hansen) ,2,32,170,63,273
+45727, Helene Birgitta (Helen Raagaard-) Hansen (Andersen-Raagaard-Hansen) ,2,32,170,63,273
 45728,Helge Hansen,1,27,0,0,273
 45729,Hemming Emil Hansen,1,23,0,0,273
 45730,Henriette Engel Hansen,2,26,170,66,273
@@ -45831,7 +45831,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45830,Leonard Hanson,1,20,0,0,413
 45831,Lorraine I Hanson,2,27,178,65,413
 45832,Pontus Hanson,1,23,0,0,1012
-45833, Sharon L Hanson (Hainer-, -Lowery) ,2,30,168,66,1096
+45833, Sharon L Hanson (Hainer-Lowery) ,2,30,168,66,1096
 45834,Sven Asgeir Hanson,1,27,191,77,1012
 45835,Sven Hanson,1,20,0,0,1012
 45836,Christilot Hanson-Boylen,2,17,163,52,174
@@ -45965,7 +45965,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45964, Timothy Duane Tim Hardaway ,1,34,180,88,1096
 45965,Peter Hardcastle,1,22,196,92,66
 45966,Sarah Lucy Hardcastle (-Thomas),2,15,183,60,413
-45967, James Edward Trey Hardee, III ,1,24,196,96,1096
+45967, James Edward Trey Hardee,1,24,196,96,1096
 45968,Christina Hardekopf,2,19,167,60,45
 45969,Karel Jan Hardeman,1,22,0,0,705
 45970, James Edward Harden ,1,22,196,100,1096
@@ -45989,7 +45989,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 45988,Phyllis May Harding (-Turner),2,16,163,0,413
 45989,Sally Harding (-Withers),2,27,170,64,66
 45990,Tanya Victoria Harding,2,24,172,72,66
-45991, Tonya Maxine Harding (-Gillooly, -Smith, -Price) ,2,21,155,48,1096
+45991, Tonya Maxine Harding (-GilloolySmithPrice) ,2,21,155,48,1096
 45992,William Wadley Harding,1,21,0,0,1096
 45993,Laurence Neville Harding-Smith,1,0,0,0,66
 45994,Gary Lee Hardinges,1,30,173,73,413
@@ -46111,7 +46111,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 46110,Abdalelah Haroun Hassan,1,19,185,80,831
 46111,Faris Haroun,1,22,188,85,96
 46112,Bryan Leslie Harper,1,0,0,0,66
-46113, Dawn Harper (-Everhart, -Nelson) ,2,24,168,61,1096
+46113, Dawn Harper (-EverhartNelson) ,2,24,168,61,1096
 46114, Donald de Wayne Don Harper ,1,24,164,63,1096
 46115, Ernest Ernie Harper ,1,21,168,58,413
 46116,Henry J H Harper,1,0,0,0,174
@@ -46574,7 +46574,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 46573,Iuliu Haieganu,1,51,0,0,861
 46574,Jaroslav Hatla,1,31,178,65,256
 46575,Ferenc Hatlaczky,1,22,0,0,477
-46576, Caroline Hatlapa (Hahn-, -Odefey) ,2,38,170,58,71
+46576, Caroline Hatlapa (Hahn-Odefey) ,2,38,170,58,71
 46577,Andrea Hatle,2,18,175,65,1150
 46578,Diana Hatler,2,12,164,46,825
 46579, Oldka Olina Htlov-Tylov (-Nagenrauft) ,2,20,171,69,259
@@ -46982,7 +46982,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 46981,Sarah Heard,2,24,176,72,66
 46982, Steven Philip Steve Heard ,1,30,189,84,413
 46983,Amber Liarnie Rose Hearn,2,23,173,63,716
-46984, Catherine Ann Cathy Hearn (-Haller, -Roethenmund) ,2,34,0,0,1096
+46984, Catherine Ann Cathy Hearn (-HallerRoethenmund) ,2,34,0,0,1096
 46985, David Carter Davey Hearn ,1,33,175,72,1096
 46986,David Hearn,1,37,185,0,174
 46987, Edgar William Eddie Hearn ,1,23,0,0,413
@@ -46992,7 +46992,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 46991, Susan Christina Sue Hearnshaw (-Telfer) ,2,19,178,67,413
 46992,Kristin L Heaston,2,28,183,125,1096
 46993, Alexander Alex Heath ,1,19,175,75,967
-46994, Clarita Heath (-Reiter, -Bright) ,2,19,0,0,1096
+46994, Clarita Heath (-ReiterBright) ,2,19,0,0,1096
 46995,Darrick Heath,1,31,193,95,1096
 46996,June Margaret Heath,2,27,0,0,66
 46997,Liam Nicholas Heath,1,27,182,81,413
@@ -47072,7 +47072,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 47071,Brje Gunnar Hedblom,1,27,176,79,1013
 47072,Albert Hedderich,1,26,190,94,1150
 47073,Kathleen Joan Heddle,2,26,180,72,174
-47074, Kathryn Jean Kathy Heddy (-Silver, -Drum) ,2,18,168,61,1096
+47074, Kathryn Jean Kathy Heddy (-SilverDrum) ,2,18,168,61,1096
 47075,Harry Christian Hedegaard,1,17,0,0,273
 47076,Per-Olof Hedenberg,1,24,0,0,1012
 47077,Jan Gunnar Hedengrd,1,25,185,80,1012
@@ -47464,7 +47464,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 47463,Nils Robert Hellsten,1,22,0,0,1012
 47464,Voitto Valdemar Hellstn,1,20,160,72,350
 47465,Tue Hellstern,1,27,179,73,273
-47466, Ingegrd Anita Hellstrm (-Stockwell, -Meredith) ,2,16,0,0,1012
+47466, Ingegrd Anita Hellstrm (-StockwellMeredith) ,2,16,0,0,1012
 47467,Bror Joel Hellstrm,1,21,173,60,1012
 47468,Carl Leopold Hellstrm,1,43,0,0,1140
 47469,Jan Erik Hellstrm,1,28,178,72,1012
@@ -47616,7 +47616,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 47615, Johannes Hendrikus Jan Hengeveld ,1,25,0,0,705
 47616,Christina Hengster,2,28,177,76,71
 47617,Marit Henie (-Moe),2,22,0,0,742
-47618, Sonja Henie (-Topping, -Gardiner, -Onstad) ,2,11,155,45,742
+47618, Sonja Henie (-ToppingGardinerOnstad) ,2,11,155,45,742
 47619, James P Jimmy Henigan ,1,32,168,54,1096
 47620,Nik Henigman,1,20,199,95,944
 47621,Louis Henin,1,25,0,0,96
@@ -48279,7 +48279,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48278,Shelley Jane Hesson,2,28,165,58,716
 48279,Ragni Aud Hestad,2,27,184,71,742
 48280,Michael Hestbk,1,27,187,82,273
-48281, Mikael (-Michael) Hestdahl (Monsen-, -Hesdal) ,1,21,0,0,742
+48281, Mikael (-Michael) Hestdahl (Monsen-Hesdal) ,1,21,0,0,742
 48282, George Black Buck Hester ,1,21,0,0,174
 48283,Carl Rupert Hester,1,25,182,86,413
 48284, Catharina Elisabeth Bep Hesterman (-Steenmans) ,2,25,0,0,705
@@ -48336,7 +48336,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48335, Charles Noyes Charlie Hewett ,1,31,180,79,1096
 48336,Gordon Davison Hewit,1,18,0,0,413
 48337,Andrea Hewitt,2,26,160,50,716
-48338, Charles Colby Hewitt, III ,1,22,196,74,1096
+48338, Charles Colby Hewitt,1,22,196,74,1096
 48339, Frederic Maxcy Fred Hewitt ,1,31,0,0,1096
 48340,Gigi M Hewitt (-Daners),2,28,164,57,1098
 48341,Harold Neil Hewitt,1,18,0,0,66
@@ -48352,7 +48352,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48351,Karen Hewlett,2,24,155,56,174
 48352,Brian Stanford Hewson,1,23,183,63,413
 48353,James Edward Hewson,1,38,180,66,1096
-48354, Joanne Selden Hewson (-Staniforth, -Rees) ,2,21,0,0,174
+48354, Joanne Selden Hewson (-StaniforthRees) ,2,21,0,0,174
 48355,Franciscus Hexspoor,1,38,0,0,705
 48356,Dorothy Hey (-Webster),2,0,0,0,413
 48357,Heyberger,1,0,0,0,362
@@ -48592,7 +48592,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48591,Robert William Hill,1,25,182,84,413
 48592, Ronald J Ron Hill ,1,26,167,61,413
 48593,Rudolf Hill,1,24,176,90,71
-48594, Roy E Rusty Hill, II ,1,21,172,77,1096
+48594, Roy E Rusty Hill,1,21,172,77,1096
 48595, Samantha Sami Hill ,2,24,183,89,1096
 48596,Sean Ronald Hill,1,21,183,92,1096
 48597,Shawn Richard Hill,1,23,188,98,174
@@ -48605,7 +48605,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48604,William Arthur Hill,1,23,0,0,413
 48605,Winston Hill,1,22,0,0,349
 48606,Yvonne Avis Hill,2,42,163,57,66
-48607, Beatrice Geraldine Hill-Lowe (Ruxton-, -Thompson) ,2,40,0,0,413
+48607, Beatrice Geraldine Hill-Lowe (Ruxton-Thompson) ,2,40,0,0,413
 48608,Aretha Dawn Hill-Thurmond,2,19,181,95,1096
 48609, Michael Howard Mike Hillardt ,1,23,180,70,66
 48610,Grant Duane Hillary,1,22,0,0,967
@@ -48974,7 +48974,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 48973,Neil Patrick Hoban,1,22,165,69,413
 48974,David Gordon Hobart,1,27,0,0,176
 48975, William Barton Roger Bill Hobbs ,1,19,191,93,1096
-48976, Franklin Warren Hobbs, IV ,1,21,191,90,1096
+48976, Franklin Warren Hobbs,1,21,191,90,1096
 48977,Vanessa Hobbs,2,17,161,55,413
 48978,Russell Keith Hobby,1,31,190,84,66
 48979,Herbert Hobein,1,21,0,0,399
@@ -49407,7 +49407,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 49406,Franz Hollitzer,1,0,0,0,71
 49407,Julie Caroline Hollman,2,31,177,70,413
 49408,Reiner Hollmann,1,23,175,70,1150
-49409, Silvia Hollmann (-Nickisch, -Schiek) ,2,21,176,64,1150
+49409, Silvia Hollmann (-NickischSchiek) ,2,21,176,64,1150
 49410,Walter Hollmann,1,20,0,0,259
 49411,Matys Holl,1,24,176,74,477
 49412,Mikls Holl,1,24,173,71,477
@@ -49417,7 +49417,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 49416,Katalin Hollsy,2,22,0,0,477
 49417, John Jack Holloway (Holway-) ,1,25,0,78,413
 49418, Susan Sue Holloway (-Joy) ,2,21,0,0,174
-49419, William Gustav Hollrock, III ,1,35,0,0,1107
+49419, William Gustav Hollrock,1,35,0,0,1107
 49420,Friedrich Ernst Hollstein,1,25,0,0,399
 49421,Martin Hollstein,1,21,192,90,399
 49422,Martin Hllwarth,1,17,182,65,71
@@ -49430,7 +49430,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 49429,Brge Sren Johannesen Holm,1,25,0,0,273
 49430,Caroline Bonde Holm,2,22,178,68,273
 49431,Dorthe Elisabeth Holm,2,25,169,65,273
-49432, Eleanor G Holm (-Jarret, -Rose, -Walker, -Whalen) ,2,14,0,0,1096
+49432, Eleanor G Holm (-JarretRoseWalkerWhalen) ,2,14,0,0,1096
 49433,Emil Holm,1,34,0,0,350
 49434,Erik Gustav Wilhelm Holm,1,24,0,0,1012
 49435,Harry Holm,1,17,0,0,273
@@ -49787,7 +49787,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 49786,Albert Hood,1,19,150,56,1096
 49787,Graham Colin Hood,1,20,186,69,174
 49788,L Hood,1,0,0,0,684
-49789, Maidie Jill Lucienne Hood-Linzee (-Rosser, -Wright) ,2,19,0,0,413
+49789, Maidie Jill Lucienne Hood-Linzee (-RosserWright) ,2,19,0,0,413
 49790,Otto Hooff,1,23,0,0,399
 49791,Ellen Marijn Hoog,2,22,164,54,705
 49792, Leendert Proos Leen Hoogendijk ,1,29,0,0,705
@@ -49975,7 +49975,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 49974, Charles Christian Chuck Hornbostel ,1,20,181,70,1096
 49975, James Alfred Buddy Horne ,1,22,175,79,174
 49976,John William Horne,1,28,0,0,413
-49977, Peri Victoria Horne (-Saunders, -Gunn) ,2,19,0,0,415
+49977, Peri Victoria Horne (-SaundersGunn) ,2,19,0,0,415
 49978,Robert Horne,1,0,0,0,1092
 49979,Petra Horneber,2,31,156,50,399
 49980, Christopher Chris Horner ,1,40,178,64,1096
@@ -50052,7 +50052,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50051,Genevieve Horton,2,21,179,72,66
 50052,Jonathan Alan Horton,1,22,155,59,1096
 50053, Josephine Louise Josie Horton ,2,23,165,74,413
-50054, Meriel Joyce Horton (-Nielsen, -Racker) ,2,17,0,0,937
+50054, Meriel Joyce Horton (-NielsenRacker) ,2,17,0,0,937
 50055, Mackenzie Mack Horton ,1,20,190,88,66
 50056,Thomas Frederick Horton,1,22,0,0,1096
 50057,William Gray Horton,1,26,0,0,415
@@ -50359,7 +50359,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50358,Charmaine L Howell,2,25,168,59,511
 50359,Dara Howell,2,19,170,58,174
 50360, Richard John Dick Howell ,1,20,198,0,1096
-50361, Felicie Waldo Howell (-Mixter, -Downs) ,2,34,0,0,1096
+50361, Felicie Waldo Howell (-MixterDowns) ,2,34,0,0,1096
 50362,Gemma Louise Howell,2,22,165,59,413
 50363, Jackson Zophar Jack Howell ,1,21,183,0,1096
 50364,John Barry Howell,1,24,185,82,414
@@ -50495,7 +50495,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50494,Lucie Hrstkov,2,16,163,63,256
 50495,Berta Hrub,2,34,164,58,259
 50496,Michaela Hrub,2,18,188,75,256
-50497, Vra Helena Hrub (-Ralston, -Yates, -Alva) ,2,15,0,0,259
+50497, Vra Helena Hrub (-RalstonYatesAlva) ,2,15,0,0,259
 50498,Josef Hrube,1,19,0,0,259
 50499,Gustav Agustin Hrub,1,32,0,0,259
 50500,Ladislav Hrub,1,29,177,72,259
@@ -50889,7 +50889,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50888,Tanya Yvette Hughes (-Jones),2,20,184,59,1096
 50889, Thomas Joseph Tommy Hughes ,1,32,175,63,498
 50890,Lynda Kay Hughes Sutfin,2,21,171,68,1096
-50891, Kathleen Hughes-Hallett (-Meinhardt, -Sprague) ,2,18,0,0,174
+50891, Kathleen Hughes-Hallett (-MeinhardtSprague) ,2,18,0,0,174
 50892,Urs Hugi,1,20,191,90,1019
 50893,Ina Hging,2,20,178,59,399
 50894,Charles Hugo,1,0,0,0,639
@@ -50967,7 +50967,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50966,Otto Ferdinand Hultberg,1,46,0,0,1012
 50967,Sigvard Gustav Emanuel Hultcrantz,1,31,178,0,1012
 50968,Axel Fredrik Ragnar Hultn,1,21,188,87,1012
-50969, Vivi-Anne Hultn (-Theslof, -Tholand) ,2,20,0,0,1012
+50969, Vivi-Anne Hultn (-TheslofTholand) ,2,20,0,0,1012
 50970,Knut Edvard Hultgren,1,20,181,67,1012
 50971,Gran Herman Hultin,1,22,186,75,1012
 50972,Karen Hultzer,2,46,175,95,967
@@ -50998,7 +50998,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 50997,Lars Erik Humlekjr,1,29,183,80,742
 50998,Jaroslav Humpl,1,20,0,0,259
 50999,Marianne Humpelstetter,2,15,172,62,71
-51000, Jacqueline Jackie Humphrey (-Tompkins, -Corbin) ,2,22,163,50,1096
+51000, Jacqueline Jackie Humphrey (-TompkinsCorbin) ,2,22,163,50,1096
 51001,Terin Marie Humphrey,2,17,152,43,1096
 51002,David Brian Humphreys,1,27,178,74,66
 51003,Frederick Harkness Humphreys,1,30,0,100,594
@@ -51034,7 +51034,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 51033,Tanya Hunks,2,27,168,55,174
 51034,Philip Hunloke (-Perceval),1,39,0,0,964
 51035, Christopher W Chris Hunnable ,1,32,0,0,413
-51036, Clarita Hunsberger (-Neher, -Chapman) ,2,22,0,0,1096
+51036, Clarita Hunsberger (-NeherChapman) ,2,22,0,0,1096
 51037,Arthur William James Hunt,1,37,0,0,413
 51038, William Frances Irwin Bill Hunt ,1,22,0,0,716
 51039,Bryce Hunt,1,22,188,77,1096
@@ -51069,7 +51069,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 51068, Robert Sinclair Bob Hunter ,1,20,0,0,174
 51069, Robert Edward Bob Hunter ,1,17,0,0,1096
 51070,Richard Bruce Hunter,1,21,185,79,1096
-51071, Cottrell James C J Hunter, III ,1,27,186,149,1096
+51071, Cottrell James C J Hunter,1,27,186,149,1096
 51072,Charles Francis Hunter,1,27,173,59,1096
 51073,Daniel Thomas Hunter,1,22,180,85,413
 51074,Edwin Llewellyn Hunter,1,30,0,0,1096
@@ -51474,7 +51474,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 51473,Xoana Soledad Iacoi,2,24,161,70,45
 51474,Franck Iacono,1,18,184,70,362
 51475,Al Anthony Iafrate,1,17,190,86,1096
-51476, Elena Iagr (Buhianu-, -Antoci) ,2,25,162,48,861
+51476, Elena Iagr (Buhianu-Antoci) ,2,25,162,48,861
 51477,Monica Iagr-Dinescu,2,27,186,68,861
 51478,Mary Beth Iagorashvili (Larsen-),2,26,167,54,1096
 51479, Vakht'ang Vaho Iagorashvili ,1,24,185,83,978
@@ -51809,7 +51809,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 51808,Ayodl Ikuesan,2,27,174,63,362
 51809,Yasuhiro Ikuta,1,26,177,73,514
 51810,Menachem Ilan,1,32,0,0,503
-51811, Magda Ilands (-Moons, -Versluys) ,2,38,159,53,96
+51811, Magda Ilands (-MoonsVersluys) ,2,38,159,53,96
 51812,David Ilariani,1,23,195,87,395
 51813,Lenka Ilavsk,2,24,0,0,941
 51814,Jn Ilavsk,1,29,170,72,259
@@ -52121,10 +52121,10 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 52120,Magnar Ingebrigtsli,1,23,0,0,742
 52121,Frank Lee Ingels,1,46,0,0,1096
 52122,Kathleen Augusta Beverley Ingels (Robinson-),2,49,0,0,1096
-52123, Charlotte Ingemann (-Roux, -Fouillet) ,2,25,170,58,273
+52123, Charlotte Ingemann (-RouxFouillet) ,2,25,170,58,273
 52124,Ida Maria Erika Ingemarsdotter,2,24,174,68,1012
 52125,Vagn Ingerslev,1,27,0,0,273
-52126, John Hobart Warren Ingersoll, III ,1,24,0,0,1096
+52126, John Hobart Warren Ingersoll,1,24,0,0,1096
 52127,Bengt Magnus Ingesson,1,30,183,81,1012
 52128, Royden Souly Buck Ingham ,1,21,0,0,1096
 52129,Lisa Ingildeeva,2,15,170,42,399
@@ -53112,7 +53112,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53111,Henry Jackson,1,24,188,80,511
 53112,James Stanley Jackson,1,24,0,0,174
 53113, Jeffrey Jeff Jackson ,1,26,183,73,1098
-53114, Jennifer Simone Jackson (-Wanick, -Jones) ,2,20,165,61,174
+53114, Jennifer Simone Jackson (-WanickJones) ,2,20,165,61,174
 53115, James Earl Jimmy Jackson ,1,19,198,150,1096
 53116, Joanne Amy Jo Jackson ,2,17,184,76,413
 53117, Joanna Frances Jo Jackson (-Atkinson) ,2,23,168,54,413
@@ -53239,7 +53239,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53238,Charles Jacobus,1,64,0,0,1096
 53239,Dirk Jacoby,1,26,181,81,1150
 53240,Jean Lucien Nicolas Jacoby,1,33,0,0,602
-53241, Maria Jacoby (Kasteleiner-, -Lamkin) ,2,36,0,0,602
+53241, Maria Jacoby (Kasteleiner-Lamkin) ,2,36,0,0,602
 53242,Mike Jacoby,1,28,185,95,1096
 53243,Roland Jacoby,1,28,174,79,602
 53244,Fernando Jos Jcome Clavijo,1,20,180,70,225
@@ -53278,7 +53278,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53277,Abbas Jadidi,1,27,185,99,496
 53278,Alfredo Arturo Jadresic Vargas,1,22,185,68,198
 53279,Soraya Iffat Jadu Arriaza,2,25,178,70,198
-53280, Cornelius Comegys Jadwin, II ,1,40,0,0,1096
+53280, Cornelius Comegys Jadwin,1,40,0,0,1096
 53281,Tracy Jaeckel,1,27,179,0,1096
 53282,Willy Jaeckel,1,40,0,0,399
 53283,Connor Jaeger,1,21,185,77,1096
@@ -53734,7 +53734,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53733, Zsuzsanna Zsuzsa Jnosi-Nmeth ,2,24,172,58,477
 53734,Miroslava Jnokov,2,23,163,62,259
 53735,Anna Janotinov-Kotoov,2,20,189,86,259
-53736, Jolanta Zofia Janota (-Marlec, -Gurbiel) ,2,24,173,63,810
+53736, Jolanta Zofia Janota (-MarlecGurbiel) ,2,24,173,63,810
 53737,Miroslav Janota,1,24,173,82,259
 53738,Bohumil Janouek,1,22,182,83,259
 53739,Gabriel Janouek,1,31,167,59,261
@@ -53962,7 +53962,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53961,Jouko Juhani Jrvinen,1,20,172,72,350
 53962, Kaarlo Verner Kalle Jrvinen ,1,29,188,90,350
 53963,Matti Henrikki Jrvinen,1,23,186,76,350
-53964, Ritva Kaarina Jrvinen (-Ritvas, -Jaakola) ,2,19,170,64,350
+53964, Ritva Kaarina Jrvinen (-RitvasJaakola) ,2,19,170,64,350
 53965,Timo Tapani Jrvinen,1,21,180,78,350
 53966, Venne Verner Jrvinen ,1,36,182,95,350
 53967, Christopher Chris Jarvis ,1,24,193,88,174
@@ -53984,7 +53984,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 53983,Simas Jasaitis,1,26,201,87,591
 53984,Beate Jasch,2,17,165,52,1150
 53985,Willi Jaschek,1,28,169,67,1150
-53986, Martina Jschke (-Scheidewig, -Flle) ,2,20,162,54,302
+53986, Martina Jschke (-ScheidewigFlle) ,2,20,162,54,302
 53987,Peter Jaschke,1,24,193,82,1150
 53988,Stanislav Jaseko,1,25,192,95,941
 53989,Waleed Muhammad Al-Jasem Mubarak,1,20,162,52,556
@@ -54337,7 +54337,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 54336,Hans Arne Jensen,1,18,181,95,1057
 54337,Arne Preben Jensen,1,28,170,59,273
 54338,Axel Georg Jensen,1,20,0,0,273
-54339, Barbara Jayne M Jensen (-Reeve, -Jackson) ,2,18,0,0,1096
+54339, Barbara Jayne M Jensen (-ReeveJackson) ,2,18,0,0,1096
 54340,Benny Peter Jensen,1,33,173,82,273
 54341,Georg Egon Bent Jensen,1,26,0,0,273
 54342,Bent Jensen,1,37,181,70,273
@@ -54618,7 +54618,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 54617,Hans Brje Jeppson,1,36,0,0,1012
 54618,Brje Hilbert Jeppsson,1,23,0,90,1012
 54619,Kevin Martin Jepsen,1,24,190,97,1096
-54620, Belita Gladys Lyne Jepson Turner (-Riordan, -Kenny) ,2,12,166,0,413
+54620, Belita Gladys Lyne Jepson Turner (-RiordanKenny) ,2,12,166,0,413
 54621,Priscah Jeptoo (-Chepsirut),2,28,165,49,537
 54622,Jaroslav Jebek,1,21,171,81,259
 54623,Tom Jebek,1,31,183,81,256
@@ -54670,7 +54670,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 54669,Ji Jesensk,1,30,0,0,259
 54670,Ferenc (Frantisek) Jesina (-Irmay),1,20,0,0,477
 54671,Albert Wilhelm Walther Jesinghaus,1,24,0,0,399
-54672, Celina Jesionowska (-Gerwin, -Orzechowska) ,2,26,164,55,810
+54672, Celina Jesionowska (-GerwinOrzechowska) ,2,26,164,55,810
 54673,Chris Andr Jespersen,1,30,187,0,742
 54674,Eric Albert Jespersen,1,30,187,113,174
 54675,Helle Mller Jespersen,2,36,176,67,273
@@ -54684,7 +54684,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 54683,Gianluigi Jessi,1,23,185,78,507
 54684,Joseph Edwardus Jessop,1,34,0,0,1096
 54685,George Jessup,1,0,0,0,413
-54686, Marion Hall Jessup (Zinderstein-, -MacLure) ,2,27,163,0,1096
+54686, Marion Hall Jessup (Zinderstein-MacLure) ,2,27,163,0,1096
 54687,Paul Boulet Jessup,1,23,198,97,1096
 54688,Richard Nesmith Jessup,1,23,0,0,851
 54689,Realdo Kenneth Jessurun,1,19,184,66,1006
@@ -55293,7 +55293,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 55292,Heike John,2,16,176,67,1150
 55293,Hinrich John,1,28,183,73,399
 55294,Jason John,1,20,184,77,413
-55295, Sabine John (Mbius-, -Paetz) ,2,30,178,66,302
+55295, Sabine John (Mbius-Paetz) ,2,30,178,66,302
 55296,Vclav John,1,18,0,0,259
 55297,Hans Axel Julius Jhncke,1,34,0,0,1012
 55298,Louise Jhncke (-Tjrnqvist),2,19,175,70,1012
@@ -55316,7 +55316,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 55315,Sjur Johnsen,1,28,172,75,742
 55316,Tore Johnsen,1,23,197,115,742
 55317,Vibeke Johnsen,2,19,176,70,742
-55318, Deborah Waveny Debbie Johnsey (-Gotz, -Plumley) ,2,19,165,57,413
+55318, Deborah Waveny Debbie Johnsey (-GotzPlumley) ,2,19,165,57,413
 55319,Johnson,1,0,0,0,994
 55320,Albert Johnson,1,25,178,68,413
 55321,Albert A Johnson,1,25,0,0,1096
@@ -55387,7 +55387,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 55386,Hattie Jean Johnson (Ponti-),2,22,162,70,1096
 55387,Viktor Hugo Johnson,1,40,0,0,939
 55388,Ian Thompson Johnson,1,23,0,0,413
-55389, John Joseph Louis Jack Johnson, III ,1,23,183,100,1096
+55389, John Joseph Louis Jack Johnson,1,23,183,100,1096
 55390, John Edward Jack Johnson ,1,43,189,94,1096
 55391, Jacquelyn Kate Jackie Johnson ,2,23,173,62,1096
 55392,Jade Linsey Johnson,2,24,185,70,413
@@ -55440,7 +55440,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 55439,Patterson Johnson,1,24,181,73,80
 55440,Paul Herbert Johnson,1,24,183,82,1096
 55441,Perry O Johnson,1,0,0,0,111
-55442, Phyllis Wyatt Johnson (Squire-, -Waite) ,2,21,0,0,414
+55442, Phyllis Wyatt Johnson (Squire-Waite) ,2,21,0,0,414
 55443, Franklin Pitcher Pitch Johnson ,1,23,176,64,1096
 55444,Rafer Lewis Johnson,1,21,190,91,1096
 55445,William Ralph Johnson,1,20,175,74,413
@@ -55694,14 +55694,14 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 55693,Lloyd Peniston Jones,1,23,173,66,1096
 55694,Lloyd Jones,1,25,185,0,364
 55695, Lori Lolo Jones ,2,26,175,70,1096
-55696, Louis Woodard Lou Jones, III ,1,24,183,76,1096
+55696, Louis Woodard Lou Jones,1,24,183,76,1096
 55697,Louise Christine Jones (Wall-),2,25,161,54,413
-55698, Luther H Jones, III ,1,19,198,93,1096
+55698, Luther H Jones,1,19,198,93,1096
 55699,Luuka Jones,2,19,172,68,716
 55700,Mara Jones,2,29,174,58,174
 55701,Marie Jones,2,0,0,0,96
 55702,Marion Jones (-Farquhar),2,20,0,0,1096
-55703, Marion Lois Jones (-Hunter, -Montgomery, -Thompson) ,2,24,178,68,1096
+55703, Marion Lois Jones (-HunterMontgomeryThompson) ,2,24,178,68,1096
 55704,Maximiliano Jones Ivina,1,23,170,73,983
 55705,Megan Victoria Jones,2,31,167,60,66
 55706,Melvyn Jones,1,28,178,70,413
@@ -56090,11 +56090,11 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56089,Davor Jozi,1,27,180,78,1178
 56090,Gbor Jzsa,1,32,170,58,477
 56091,Bogna Jwiak,2,25,182,80,810
-56092, Jarosawa Jwiakowska-Bieda (-Ringer, -Zdunkiewicz) ,2,23,167,59,810
+56092, Jarosawa Jwiakowska-Bieda (-RingerZdunkiewicz) ,2,23,167,59,810
 56093,Jan Jzwik,1,27,177,72,810
 56094,Joanna Jwik,2,25,169,53,810
 56095,Marek Jan Jwik,1,25,183,75,810
-56096, Urszula Bronisawa Jwik (Styranka-, -Szubzda) ,2,21,163,55,810
+56096, Urszula Bronisawa Jwik (Styranka-Szubzda) ,2,21,163,55,810
 56097,Kai Albert Wognsen Jlver,1,22,0,0,273
 56098,Jens Jnsson,1,23,184,78,273
 56099,Aage Jrgensen,1,20,0,0,273
@@ -56263,7 +56263,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 56262, Jlio Csar Julinho da Silva Gurjol ,1,20,178,68,138
 56263,Delvis Julio Blanco,1,28,190,91,225
 56264,Jorge Elicer Julio Rocha,1,19,169,54,225
-56265, Sylwia Maria Julito (-Gembalczyk, -Kozowska) ,2,31,160,61,810
+56265, Sylwia Maria Julito (-GembalczykKozowska) ,2,31,160,61,810
 56266,Leigh Ignatius Julius,1,19,173,66,967
 56267,Jeffrey Michael Julmis,1,24,185,79,448
 56268,Eduardo Julve Ciriaco,1,24,0,0,794
@@ -57230,7 +57230,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57229,Kang Yong-Ok,2,18,0,0,738
 57230,Kang Young-Mi,2,31,164,63,970
 57231,Kang Yun-Mi,2,16,144,36,738
-57232, Karl Arvo Johannes Kangas (Huhtala-, -Kauniskangas)) ,1,25,0,0,350
+57232, Karl Arvo Johannes Kangas (Huhtala-Kauniskangas)) ,1,25,0,0,350
 57233,Reino Kalervo Kangasmki,1,32,162,53.5,350
 57234,Kaarlo Olavi Kangasniemi,1,23,174,83.5,350
 57235,Kauko Kalevi Kangasniemi,1,29,177,100,350
@@ -57279,7 +57279,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57278,Sataporn Kantasa-Ard,1,22,164,53,1037
 57279,Nicole Kantek,2,15,0,0,66
 57280,Gerd Kanter,1,25,196,125,331
-57281, Marlies Kanthak (-Helbig, -Ray) ,2,18,172,66,302
+57281, Marlies Kanthak (-HelbigRay) ,2,18,172,66,302
 57282,Nina Kanto Njitam,2,25,177,74,362
 57283,Arja Leena Kantola (-Klemz),2,18,167,54,350
 57284,Denny Kwan Kantono,1,26,182,0,492
@@ -57512,7 +57512,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57511,Heribert Karches,1,25,195,96,1150
 57512, Michael Mike Karchut ,1,28,167,82,1096
 57513,Lisa Ann Kari,2,25,186,81,246
-57514, Irn Karcsics-Daruhzi (-Krpti, -Kubisch) ,2,21,0,0,477
+57514, Irn Karcsics-Daruhzi (-KrptiKubisch) ,2,21,0,0,477
 57515,Imre Karcs,1,26,169,63,477
 57516,Tibor Karczag,1,24,160,60,477
 57517,Marcin Karczyski,1,26,178,66,810
@@ -57608,7 +57608,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 57607,Yngvar Hafsund Karlsen,1,31,0,0,742
 57608,Gitte Karlshj,2,33,171,56,273
 57609,Kristine Ann Karlson,2,28,175,65,1096
-57610, Elfrda Karlsone (-Kukaine, -Brzia) ,2,24,0,0,567
+57610, Elfrda Karlsone (-KukaineBrzia) ,2,24,0,0,567
 57611,ke Aleksej Karlsson (-Keiras),1,24,0,0,350
 57612,Elsa Anita Karlsson (-Dion),2,22,170,67,1012
 57613,Ann-Ewa Karlsson (-Thrnhammer),2,25,183,68,1012
@@ -58172,7 +58172,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58171,Masashi Kawakami,1,20,178,67,514
 58172,Naoko Kawakami,2,26,156,50,514
 58173,Yuko Kawakami,2,20,152,45,514
-58174, Magorzata Helena Kawalska (-Gryczuk, -Cieliczka) ,2,24,177,74,810
+58174, Magorzata Helena Kawalska (-GryczukCieliczka) ,2,24,177,74,810
 58175,Naoki Kawamae,1,29,168,62,514
 58176,Evelyn Tokue Kawamoto (-Konno),2,18,0,0,1096
 58177,Sho Kawamoto,1,23,175,68,514
@@ -58330,7 +58330,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58329, Thomas Joseph T J Kearns ,1,22,190,82,498
 58330, Lloyd Weldon Butch Keaser ,1,26,170,68,1096
 58331,Brian Scott Keast,1,18,173,61,174
-58332, Charles Humphrey Keating, III ,1,20,186,81,1096
+58332, Charles Humphrey Keating,1,20,186,81,1096
 58333,Kenneth Murray Keating,1,24,184,96,174
 58334,Sen (John) Keating,1,24,0,0,498
 58335,Daniel Ryan Keatings,1,18,171,68,413
@@ -58552,7 +58552,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58551,Thea Kellner,2,22,0,0,861
 58552,Uwe Jrg Kellner,1,26,199,98,399
 58553,Fiona Jean Kellock,2,19,168,54,413
-58554, Charles Wetmore Charlie Kellogg, II ,1,28,175,72,1096
+58554, Charles Wetmore Charlie Kellogg,1,28,175,72,1096
 58555,Donna Victoria Kellogg,2,22,178,66,414
 58556, Mary Louise Mimi Kellogg (-Lyman) ,2,22,154,45,1096
 58557,Elise Kellond-Knight,2,25,165,58,66
@@ -58726,7 +58726,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58725,Nery Gustavo Kennedy Roln,1,19,186,95,783
 58726, Patrick David Pat Kennedy ,1,20,180,73,1096
 58727,Peter Terence Kennedy,1,24,190,84,498
-58728, Michael Edward Peter Kennedy, III ,1,20,0,0,1107
+58728, Michael Edward Peter Kennedy,1,20,0,0,1107
 58729,Robert Lindsay Kennedy,1,27,0,0,500
 58730,Robert Kirk Inches Kennedy,1,20,0,0,413
 58731,Sybil Kennedy,2,48,0,0,174
@@ -58753,7 +58753,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58752, Leonard Bruce Lionel Kent ,1,28,0,0,716
 58753,Paul Michael Kent,1,24,189,95,716
 58754, Steven Steve Kent ,1,24,180,80,716
-58755, Olney Brown Terry Kent, III ,1,21,185,91,1096
+58755, Olney Brown Terry Kent,1,21,185,91,1096
 58756,Wilfred Selwyn Kent-Hughes,1,24,0,0,66
 58757,Brian William Kent-Smith,1,24,188,83,413
 58758, Konstantinos Kostas Kenteris ,1,27,180,73,419
@@ -58811,7 +58811,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58810,Judit Kri-Novk,2,26,174,76,477
 58811,Daniela Kerkelova,2,30,163,69,154
 58812, Alberdina Geertruida Truus Kerkmeester (-Verhey) ,2,14,0,0,705
-58813, Snezhana Angelova Kerkova (-Zhalova, -Spiridonova) ,2,22,168,66,154
+58813, Snezhana Angelova Kerkova (-ZhalovaSpiridonova) ,2,22,168,66,154
 58814,Bibija Kerla,2,24,183,73,1178
 58815,Brian Edward Kerle,1,26,200,92,66
 58816,Sean Robin Kerly,1,24,180,80,413
@@ -58930,7 +58930,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 58929,Dino Kessler,1,25,183,89,1019
 58930, Jean Baptiste August Guus Kessler ,1,17,0,0,705
 58931,Herbert N Kessler,1,23,0,0,1019
-58932, Jeanette Anne Kessler (-Oddie,-Riddell) ,2,27,0,0,413
+58932, Jeanette Anne Kessler (-OddieRiddell) ,2,27,0,0,413
 58933,Reed Kessler,2,18,165,54,1096
 58934, Rose-Marie Romi Kessler ,2,21,159,48,1019
 58935,Karin Kessow (-Drbal),2,22,161,57,302
@@ -59423,7 +59423,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 59422,Khristos Khristoforou,1,16,170,61,255
 59423,Olga Aleksandrovna Khristoforova,2,16,0,0,874
 59424,Nikolaos Khristogiannopoulos,1,0,0,0,419
-59425, Anka Tomova Khristolova (-Uzunova, -Tomova) ,2,25,174,68,154
+59425, Anka Tomova Khristolova (-UzunovaTomova) ,2,25,174,68,154
 59426,Khristos Khristomanos,1,25,188,90,419
 59427,Dimitrios Khristopoulos,1,0,0,0,419
 59428,Marinos Khristopoulos,1,28,0,0,419
@@ -59648,7 +59648,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 59647, Cornelis Marinus Kees Kievit ,1,17,0,0,705
 59648,Anna Katarzyna Kiebasiska,2,22,170,59,810
 59649,Piotr Andrzej Kiepikowski,1,25,186,82,810
-59650, Zofia Kiepiska (-Topr, -Huciaska) ,2,31,161,50,810
+59650, Zofia Kiepiska (-ToprHuciaska) ,2,31,161,50,810
 59651,Grzegorz Kiesa,1,30,190,99,810
 59652,Wiesawa Bogna Kiesznia (-Buksiska),2,19,172,70,810
 59653,Charles Franois Kiffer-Porte (Kiffer-),1,25,0,0,362
@@ -59725,7 +59725,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 59724,Ali Klolu,1,24,171,64,1071
 59725,Candeer Klner Ouz,2,24,182,63,1071
 59726,Andreas Kilingaridis,1,24,181,83,419
-59727, Marika Kilius (-Zahn, -Schfer) ,2,12,168,51,399
+59727, Marika Kilius (-ZahnSchfer) ,2,12,168,51,399
 59728,Grzegorz Kiljanek,1,27,178,75,810
 59729,Neil Martin Kilkenny,1,22,177,70,66
 59730,Trudy Anne Kilkolly,2,26,0,0,716
@@ -60478,7 +60478,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60477, Dominick Steven Dom King ,1,29,178,69,413
 60478, Clyde Edward Eddie King ,1,20,0,0,174
 60479,Edward King,1,27,193,77,1096
-60480, Ellen Elizabeth King (-McPhearson, -Pearson) ,2,15,0,0,413
+60480, Ellen Elizabeth King (-McPhearsonPearson) ,2,15,0,0,413
 60481,Frederic Rhinelander King,1,49,0,0,1096
 60482,Harriet King,2,24,165,56,1096
 60483, John Alexander Jack King ,1,37,0,0,66
@@ -60508,7 +60508,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60507, Katrina Jane Trena King (-De Steven) ,2,26,172,68,1096
 60508, Trevor Treva King ,1,28,178,67,66
 60509,Trevor King,1,23,185,78,413
-60510, Patricia Morley Trish King (-Porter, -Topmiller) ,2,26,170,58,1096
+60510, Patricia Morley Trish King (-PorterTopmiller) ,2,26,170,58,1096
 60511,Vivian King (-Thompson),2,18,0,0,174
 60512,Courtney King-Dye,2,30,178,59,1096
 60513,Yukari Kinga,2,24,161,52,514
@@ -60519,7 +60519,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60518,Alan Scott Kingsbery,1,21,0,0,1096
 60519, Robert Raymond Bobby Kingsbury ,1,23,183,82,419
 60520, Clarence Brickwood Clarrie Kingsbury ,1,25,0,0,413
-60521, Frederick John Fred Kingsbury, IV ,1,21,0,0,1096
+60521, Frederick John Fred Kingsbury,1,21,0,0,1096
 60522,Gina Kingsbury,2,24,173,62,174
 60523, Howard Thayer Kingsbury ,1,19,0,0,1096
 60524,Mikal Kingsbury,1,21,174,68,174
@@ -60606,7 +60606,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60605,Eugen Kipp,1,27,0,0,399
 60606,Shalaya Kipp,2,21,170,58,1096
 60607,Avgust (-August) Johannes Kippasto,1,24,0,0,874
-60608, Patricia Ann Pat Kippax (-Stocking, -Davidson) ,2,23,170,61,413
+60608, Patricia Ann Pat Kippax (-StockingDavidson) ,2,23,170,61,413
 60609,Frederick Peter Kippax,1,26,0,0,413
 60610,Asbel Kipruto Kiprop,1,19,190,63,537
 60611,Boniface Kiprop Toroitich,1,18,167,53,1083
@@ -60844,7 +60844,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60843,Gergely Sandor Kiss,1,24,192,96,477
 60844, Gergely Gerg Kiss ,1,22,198,112,477
 60845,Gerg Lszl Kiss,1,19,180,55,477
-60846, Gza Kiss (Drippei-, -Klein) ,1,21,0,0,477
+60846, Gza Kiss (Drippei-Klein) ,1,21,0,0,477
 60847,Gyrgy Kiss,1,32,187,64,477
 60848,Gyula Kiss,1,20,0,0,477
 60849, Johann Hans Kiss ,1,24,175,74,71
@@ -60919,7 +60919,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60918, Anthony Michael Tony Kitcher ,1,23,175,74,413
 60919,Frederick Overend Kitching,1,21,0,0,413
 60920,Harold Edward Kitching,1,22,0,81,170
-60921, Jessie Theresa Kite (Webb-, -Woods) ,2,36,0,0,413
+60921, Jessie Theresa Kite (Webb-Woods) ,2,36,0,0,413
 60922,Martin Kitel,1,22,180,71,1012
 60923,Kitenge Kitengewa,1,22,0,0,0
 60924,Pranee Kitipongpitaya,2,22,166,65,1037
@@ -60927,7 +60927,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 60926,Akira Kito,1,29,171,71,516
 60927,Stoyan Kirilov Kitov,1,21,174,67,154
 60928, Harold Austin Harry Kitson ,1,33,0,0,967
-60929, Alva Ross A J Kitt, IV ,1,19,180,92,1096
+60929, Alva Ross A J Kitt,1,19,180,92,1096
 60930,Ferdinand Kitt,1,40,0,0,71
 60931, Theodor Theo Kitt ,1,39,0,0,401
 60932,Adolf Kittel,1,25,180,70,259
@@ -61240,7 +61240,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 61239,Aleksander Klima,1,26,182,79,810
 61240,Josef Klma,1,25,0,0,259
 61241,Ludvk Klma,1,24,0,0,259
-61242, Jadwiga Jzefa Klimaj (Konik-, -Kowalczuk) ,2,28,172,74,810
+61242, Jadwiga Jzefa Klimaj (Konik-Kowalczuk) ,2,28,172,74,810
 61243,Anatoliy Mykolaiovych Klimanov,1,26,170,81,978
 61244,Andrzej Klimaszewski,1,20,184,75,810
 61245,Andrzej Aleksander Klimaszewski,1,25,179,73,810
@@ -61426,7 +61426,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 61425,Margrit Knabenhans,2,17,0,0,1019
 61426,Walter Knabenhans,1,30,186,75,1019
 61427, Walter Willi Knabenhans ,1,22,0,0,1019
-61428, Christiane Knacke (-Driesener, -Sommer) ,2,18,164,60,302
+61428, Christiane Knacke (-DriesenerSommer) ,2,18,164,60,302
 61429,Toma Knafelj,1,29,171,88,944
 61430,Johann Knahl,1,21,0,0,259
 61431,Leon Knap,1,24,0,0,1178
@@ -61702,7 +61702,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 61701,Vjekoslav Kobeak,1,22,189,89,246
 61702, Liselotte Lilo Kobi (-Kennel) ,2,18,0,0,1019
 61703,Jan Kobin,1,23,186,102,258
-61704, Genowefa Kobielska (-Cejzikowa, -Zimnochova) ,2,22,165,71,810
+61704, Genowefa Kobielska (-CejzikowaZimnochova) ,2,22,165,71,810
 61705,Kobierski,1,0,0,0,362
 61706,Marcin Kobierski,1,19,171,64,810
 61707,Nataliya Kobina,2,21,160,58,1123
@@ -61967,7 +61967,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 61966,Veronika Kohlbach (-Almer),2,30,167,58,71
 61967,Benny Tord Kohlberg,1,25,190,76,1012
 61968,Christa Khler (-Kinast),2,21,162,56,302
-61969, Claude Lazard Kohler, II ,1,28,170,77,986
+61969, Claude Lazard Kohler,1,28,170,77,986
 61970,Dirk Khler,1,20,178,68,1150
 61971,Gerhard Khler,1,27,193,94,73
 61972,Hans Kohler,1,30,165,67,1019
@@ -62510,8 +62510,8 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 62509,Anatoly Ilyich Kononenko,1,25,175,70,978
 62510,Nataliya Oleksivna Kononenko,2,17,158,0,1084
 62511,Roman Vitaliyovych Kononenko,1,23,180,71,1084
-62512, Lyubov Ivanovna Kononova (-Nikitenko, -Blokhina) ,2,27,166,61,978
-62513, Halina (Leonarda Kazimiera-) Konopacka (-Matuszewska, -Szczerbiska, -Stowe) ,2,28,180,65,810
+62512, Lyubov Ivanovna Kononova (-NikitenkoBlokhina) ,2,27,166,61,978
+62513, Halina (Leonarda Kazimiera-) Konopacka (-MatuszewskaSzczerbiskaStowe) ,2,28,180,65,810
 62514,Mark John Konopacke,1,24,178,73,1096
 62515,Ji Konopsek,1,26,178,74,259
 62516,Stanislav Konopsek,1,24,0,0,259
@@ -62736,7 +62736,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 62735,Petr Korbel,1,21,181,72,259
 62736,Jaroslav Korbela,1,26,187,92,259
 62737,Anatoly Viktorovich Korbut,1,18,0,0,1088
-62738, Olga Valentinovna Korbut (-Bortkevich, -Voynich) ,2,17,152,39,978
+62738, Olga Valentinovna Korbut (-BortkevichVoynich) ,2,17,152,39,978
 62739,Agata Ewa Korc,2,22,175,58,810
 62740,Oleksandr Mykolaiovych Korchmid,1,22,188,81,1084
 62741,Peter Korok,1,26,178,65,941
@@ -62867,7 +62867,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 62866,Yelena Korolyova,2,18,170,63,1088
 62867,Svetlana Vladimirovna Korolyova-Babich,2,25,169,69,978
 62868,Aleksandr Ivanovich Korolyuk,1,30,178,80,874
-62869, Margit Korondi (Kronstein-, -Plachy, -Szalay) ,2,20,0,0,477
+62869, Margit Korondi (Kronstein-PlachySzalay) ,2,20,0,0,477
 62870,Shem Kororia,1,23,174,58,537
 62871,Pavel Vladimirovich Korostelyov,1,27,176,68,874
 62872,Nataliya Sergeyevna Korostelyova (Morilova-),2,28,162,55,874
@@ -63074,7 +63074,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63073,Georgi Kostadinov,1,22,165,51,154
 63074,Ivo Ivanov Kostadinov,1,19,170,68,154
 63075,Petar Kostadinov,1,26,185,85,154
-63076, Stefka Georgieva Kostadinova (-Petrova, -Popovasileva) ,2,23,180,60,154
+63076, Stefka Georgieva Kostadinova (-PetrovaPopovasileva) ,2,23,180,60,154
 63077,Robbie Kostadinovich,1,22,188,90,1019
 63078,Anastasia Kostaki,2,26,172,65,419
 63079,Dimitrios Kostakos,1,26,173,72,419
@@ -63100,7 +63100,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63099,Olga Andreyevna Kostenko,2,19,166,59,874
 63100, Barbara Brbel Kster (-Madaus) ,2,19,173,70,302
 63101,Edward Bernard Koster,1,66,0,0,705
-63102, Josefa Kster (Lehmenkhler-, -Krger) ,2,34,0,0,399
+63102, Josefa Kster (Lehmenkhler-Krger) ,2,34,0,0,399
 63103, Laure Laury Koster ,2,22,0,0,602
 63104,Luis Eduardo Koster Pea,1,22,182,84,1121
 63105,Maureen Koster,2,24,176,57,705
@@ -63515,7 +63515,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63514,Mirosaw Mieczysaw Kowalewski,1,28,193,86,810
 63515,Roman Jzef Kowalewski,1,23,183,81,810
 63516,Katarzyna Kowalska,2,23,178,55,810
-63517, Maria Kowalska (-Wania, -Suchodolska) ,2,22,0,0,810
+63517, Maria Kowalska (-WaniaSuchodolska) ,2,22,0,0,810
 63518,Adam Kowalski,1,19,176,72,810
 63519,Aleksander Kowalski,1,25,0,0,810
 63520,Aleksander Marek Kowalski,1,25,189,78,810
@@ -63688,7 +63688,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63687,Harald Krkenes,1,22,186,86,742
 63688,Sverre Krkenes,1,21,170,75,742
 63689,Torstein Krkenes,1,24,0,0,742
-63690, Francea Norma Francie Kraker (-Johnson, -Goodridge) ,2,21,170,52,1096
+63690, Francea Norma Francie Kraker (-JohnsonGoodridge) ,2,21,170,52,1096
 63691,Steffi Krker (-Biskupek),2,16,156,43,302
 63692,Yury Olegovich Krakovetsky,1,19,180,130,557
 63693,Irina Krakoviak,2,23,164,55,591
@@ -63841,7 +63841,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63840,Barbara Krause (-Wanja),2,21,180,68,302
 63841,Bernd Krause,1,25,195,95,1150
 63842,Charles Krause,1,0,0,0,1096
-63843, Christiane Krause (-Stallasch, -Todd) ,2,21,164,54,1150
+63843, Christiane Krause (-StallaschTodd) ,2,21,164,54,1150
 63844,Dieter Krause,1,22,181,83,399
 63845,Dieter Krause,1,24,172,74,399
 63846,Gesa Felicitas Krause,2,19,167,51,399
@@ -63888,7 +63888,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 63887,Stanislav Mykhailovych Kravchuk,1,19,182,78,1084
 63888,Valentyn Ivanovych Kravchuk,1,24,188,89,978
 63889,Alla Volodymyrivna Kravets,2,23,0,0,1084
-63890, Inesa Mykolavna Kravets (Shuliak-, -Izvachuk) ,2,21,178,60,978
+63890, Inesa Mykolavna Kravets (Shuliak-Izvachuk) ,2,21,178,60,978
 63891,Volodymyr Kravets,1,23,163,60,1084
 63892,Igor Aleksandrovich Kravtsov,1,22,192,105,874
 63893,Sergey Mikhaylovich Kravtsov,1,28,172,75,978
@@ -64005,7 +64005,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64004,Amlie Kretz,2,23,168,53,174
 64005,Jean-Marie Kretz,1,25,175,100,362
 64006,Stefan Kretzschmar,1,23,190,95,399
-64007, Waltraud Kretzschmar (Hermann-, -Czelake) ,2,28,168,73,302
+64007, Waltraud Kretzschmar (Hermann-Czelake) ,2,28,168,73,302
 64008,Lena Kreundl,2,18,174,69,71
 64009,Karl Kreutzberg,1,24,0,0,399
 64010,Daniel Kreutzer,1,22,176,87,399
@@ -64253,13 +64253,13 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64252,Leif Robert Kronberg,1,24,182,80,1012
 64253,Petra Kronberger,2,18,170,62,71
 64254,Anni Kronbichler,2,20,176,70,71
-64255, Kristin Elizabeth Krone (Rogers-, -Vallant) ,2,19,167,65,1096
+64255, Kristin Elizabeth Krone (Rogers-Vallant) ,2,19,167,65,1096
 64256,tefan Kroner,1,21,181,75,861
 64257,Ludwig Kronfu,1,25,0,0,71
 64258,Aloisie Krongeigerov,2,0,0,0,259
 64259,Alfred Kronig,1,23,0,0,1019
 64260,Victor Kronig,1,22,0,0,1019
-64261, Annegret Anne Kroniger (-Boller-, -Wolf) ,2,19,171,60,1150
+64261, Annegret Anne Kroniger (-Boller-Wolf) ,2,19,171,60,1150
 64262,Aristidis Kronis,1,0,0,0,419
 64263,Carl August Verner Kronlund,1,58,0,0,1012
 64264,Andreas Kronthaler,1,32,179,73,71
@@ -64372,7 +64372,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64371,Paul Edward Krumpe,1,25,180,70,1096
 64372,Matev Krumpetar,1,18,0,0,944
 64373,Heinrich Krumpfholz,1,27,0,0,71
-64374, Annerose Krumpholz (-Fiedler, -Knig) ,2,20,164,54,302
+64374, Annerose Krumpholz (-FiedlerKnig) ,2,20,164,54,302
 64375, James W J W Krumpholz ,1,20,191,93,1096
 64376, Normand Norm Krumpschmid ,1,28,180,85,71
 64377,Emil Karl Robert Krnert,1,40,0,0,399
@@ -64380,7 +64380,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64379,Aleksandra Kruni,2,23,167,53,912
 64380,Dawid Krupa,1,24,181,74,810
 64381,Krystyna Krupa (Malinowska-),2,25,176,70,810
-64382, Stefania Krupa (-Gawakiewicz, -Koakowska) ,2,26,164,58,810
+64382, Stefania Krupa (-GawakiewiczKoakowska) ,2,26,164,58,810
 64383,Edin Krupalija,1,21,190,94,133
 64384,Tom Krupk,1,26,186,71,256
 64385,Simona Krupeckait,2,21,170,70,591
@@ -64720,7 +64720,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 64719,Frank Khne,1,18,184,73,302
 64720,Marc Khne,1,29,197,105,401
 64721,Michael Khne,1,21,183,78,399
-64722, Rita Khne (-Andrich, -Schiemann) ,2,25,176,65,302
+64722, Rita Khne (-AndrichSchiemann) ,2,25,176,65,302
 64723,Tobias Khne,1,27,196,95,399
 64724,Rudolf Khnel,1,28,0,0,71
 64725,Sylvia Khnemund (-Thier),2,21,162,52,399
@@ -65482,7 +65482,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 65481,Antipass Kwari,1,33,0,0,1183
 65482,Allan Sidney Kwartler,1,34,175,73,1096
 65483,Piotr Kwasigroch,1,25,172,71,810
-65484, Maria Jadwiga Kwaniewska (-Trytko, -Komiska, -Maleszewska) ,2,22,165,56,810
+65484, Maria Jadwiga Kwaniewska (-TrytkoKomiskaMaleszewska) ,2,22,165,56,810
 65485,Dorota Ewa Kwany (-Lejawa),2,19,175,60,810
 65486, Bohdan John Don Kwasnycia ,1,36,193,109,174
 65487,Kwee Kiat Sek,1,22,0,0,491
@@ -65784,7 +65784,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 65783at Ladaviit,2,15,176,62,591
 65784,Mark Daniel Ladbrook,1,24,188,75,66
 65785,Homero Laddaga Zozaya,1,30,172,84,656
-65786, Cornelia Corrie Ladd (-Voogd, -Bakhuizen) ,2,16,175,0,705
+65786, Cornelia Corrie Ladd (-VoogdBakhuizen) ,2,16,175,0,705
 65787,Jeppe Johannes Ladegaard Mikkelsen (-Ladegaard-Mikkelsen),1,33,0,0,273
 65788,Jacques Guy Ladgaillerie,1,28,176,69,362
 65789,Du'aine Ladejo (Thorne-),1,21,187,84,413
@@ -66120,7 +66120,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 66119,Yves Lamarque,1,24,178,86,362
 66120,Kim Lamarre,2,25,165,54,174
 66121,Whynter Lamarre,2,25,173,68,174
-66122, Gunta Lamaa (Kreine-, -Vlasenko) ,2,20,179,67,567
+66122, Gunta Lamaa (Kreine-Vlasenko) ,2,20,179,67,567
 66123,Eric Lamaze,1,40,170,65,174
 66124,Charles Vincent Lamb,1,38,0,0,498
 66125, Delbert Thomas Del Lamb ,1,21,0,0,1096
@@ -66417,7 +66417,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 66416,Nancy Jebet Langat,2,22,153,49,537
 66417,Martha Langbein-Pensberger (-Schreiber),2,19,160,56,399
 66418, Jeffrey Jeff Langdon ,1,22,175,66,174
-66419, Joan Marjorie Langdon (-Parnell, -McLagan) ,2,13,0,0,174
+66419, Joan Marjorie Langdon (-ParnellMcLagan) ,2,13,0,0,174
 66420,Ross Langdon,1,25,185,82,66
 66421,Andr Lange,1,28,188,100,401
 66422,Darren Neil Lange,1,20,0,0,66
@@ -66559,7 +66559,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 66558,Antonia Lanthaler,2,17,0,0,71
 66559, Helena Gerarda Catharina Lenie Lanting-Keller ,2,27,0,0,705
 66560,Csaba Lantos,1,21,187,86,477
-66561, Gabriella Lantos (-Romacz, -Debnr) ,2,21,172,58,477
+66561, Gabriella Lantos (-RomaczDebnr) ,2,21,172,58,477
 66562,Lszl Lantos,1,21,182,78,477
 66563,Mihly Lantos (Liendermayer),1,23,0,0,477
 66564,Vera Stepanovna Lantratova (-Ganzhenko),2,21,174,72,978
@@ -67279,7 +67279,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 67278, Christopher Chris Law ,1,32,188,94,413
 67279,Law Hiu Fung,1,20,184,78,470
 67280,Law Hon Pak,1,25,177,54,470
-67281, Kelley Law (Atkins-, -Owen) ,2,36,159,63,174
+67281, Kelley Law (Atkins-Owen) ,2,36,159,63,174
 67282,Law Lai Wah,2,24,0,0,470
 67283,Leslie Francis Law,1,35,183,74,413
 67284,Luella May Law (-Long),2,18,0,0,174
@@ -67456,7 +67456,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 67455,Enrico Lazzarotto,1,27,178,72,507
 67456,Jos Cludio Geret Lazzarotto,1,21,182,82,138
 67457,Alessandro Lazzeroni,1,33,183,75,507
-67458, Wenche Lgraid (-Hedges, -Kvven) ,2,19,172,60,742
+67458, Wenche Lgraid (-HedgesKvven) ,2,19,172,60,742
 67459,Antoni Jan aciak,1,24,180,74,810
 67460,Tomasz apiski,1,22,184,80,810
 67461,Maciej Piotr asicki,1,26,192,96,810
@@ -67622,7 +67622,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 67621,Yury Vasilyevich Lebedev,1,28,178,77,978
 67622,Anna Petrovna Lebedeva,2,24,178,70,535
 67623,Marina Petrovna Lebedeva,2,24,165,54,535
-67624, Nataliya Vasilyevna Lebedeva (-Suprun, -Monastyrskaya) ,2,26,171,62,978
+67624, Nataliya Vasilyevna Lebedeva (-SuprunMonastyrskaya) ,2,26,171,62,978
 67625,Tatyana Romanovna Lebedeva,2,24,170,61,874
 67626,Tetiana Lebedeva,2,18,166,55,1088
 67627,Yekaterina Sergeyevna Lebedeva,2,20,165,69,874
@@ -67656,7 +67656,7 @@ deportista_id,nombre,genero,edad,altura,peso,equipo_id
 67655,Clement Mabothile Lebopo,1,33,159,62,582
 67656,Laurence Leboucher,2,24,156,50,362
 67657,Pierre Leboucher,1,31,168,63,362
-67658, Thomas LeBoutillier, II ,1,29,0,0,1096
+67658, Thomas LeBoutillier,1,29,0,0,1096
 67659,Marcel Leboutte,1,0,0,0,1117
 67660,Roger Lebranchu,1,26,0,0,362
 67661,velyne Lebret (-Renard),2,26,169,63,362
