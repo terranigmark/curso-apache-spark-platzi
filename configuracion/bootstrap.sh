@@ -23,10 +23,10 @@ sudo apt-get -y install python3-pip;
 
 sudo pip3 install  py4j;
 
-wget –quiet https://downloads.apache.org/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz;
-tar -xvf spark-2.4.5-bin-hadoop2.7.tgz;
-mv spark-2.4.5-bin-hadoop2.7 spark;
-rm spark-2.4.5-bin-hadoop2.7.tgz;
+wget –quiet https://downloads.apache.org/spark/spark-2.4.6/spark-2.4.6-bin-hadoop2.7.tgz;
+tar -xvf spark-2.4.6-bin-hadoop2.7.tgz;
+mv spark-2.4.6-bin-hadoop2.7 spark;
+rm spark-2.4.6-bin-hadoop2.7.tgz;
 
 wget –quiet https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh;
 sh Anaconda3-2020.02-Linux-x86_64.sh -b -f -p /home/vagrant/anaconda3;
